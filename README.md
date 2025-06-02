@@ -343,21 +343,15 @@ metrics.evaluate_model(model, test_data)
 ## Analysis Modules
 
 ### Statistical Analysis
-```python
-from src.analysis import statistical_analysis
-stats = statistical_analysis.analyze_correlations(data)
+```
 ```
 
 ### Trend Analysis
-```python
-from src.analysis import trend_analysis
-trends = trend_analysis.identify_patterns(yearly_data)
+```
 ```
 
 ### Success Prediction
-```python
-from src.models import success_predictor
-predictions = success_predictor.predict_success(ad_features)
+```
 ```
 
 ---
@@ -429,11 +423,7 @@ google_cloud:
 ```
 
 ### Database Configuration
-```yaml
-# config/database_config.yaml
-sqlite:
-  database_path: "database/superbowl_ads.db"
-  backup_interval: 3600  # seconds
+```
 ```
 
 ---
@@ -452,21 +442,11 @@ reddit_data = reddit_scraper.search_discussions(keywords=["Super Bowl", "commerc
 ```
 
 ### Analysis
-```python
-from src.analysis import insight_generator
-
-# Generate business insights
-insights = insight_generator.analyze_success_factors(combined_data)
-print(insights.get_recommendations_for_rogue_ridge())
+```
 ```
 
 ### Visualization
-```python
-from src.visualization import dashboard
-
-# Create interactive charts
-dashboard.create_trend_analysis_chart(data)
-dashboard.create_success_factor_heatmap(correlations)
+```
 ```
 
 ---
