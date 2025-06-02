@@ -1,0 +1,15 @@
+name: superbowl-ad-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - -r requirements.txt
+  - jupyter
+  - nb_conda_kernels
+  - nodejs  # for Jupyter widgets
+  - graphviz  # for model visualization
+  - ffmpeg  # for video processing
+  - imagemagick  # for image processing 
