@@ -67,22 +67,201 @@ python scripts/generate_reports.py
 ## Project Structure
 
 ```
-superbowl-ad-analysis/
-├── config/                       # Configuration files
-├── data/                         # Data storage (raw, processed, samples)
-├── src/                          # Source code modules
-│   ├── data_collection/          # YouTube, Reddit, News scrapers
-│   ├── data_processing/          # Text cleaning, sentiment analysis
-│   ├── models/                   # ML models and evaluation
-│   ├── analysis/                 # Statistical and trend analysis
-│   ├── visualization/            # Charts and dashboards
-│   └── utils/                    # Database, logging, helpers
-├── notebooks/                    # Jupyter analysis notebooks
-├── scripts/                      # Automation scripts
-├── tests/                        # Unit tests
-├── docs/                         # Documentation
-├── reports/                      # Deliverables and findings
-└── models/                       # Trained model artifacts
+superbowl-ad-analysis/├── README.md                          # Project overview and usage instructions
+├── .gitignore                         # Git ignore file configuration
+├── requirements.txt                   # Python dependencies list
+├── environment.yml                    # Conda environment configuration (optional)
+├── setup.py                          # Project installation configuration
+├── LICENSE                           # Open source license
+│
+├── config/                           # Configuration files directory
+│   ├── api_keys.yaml.template        # API keys template
+│   ├── database_config.yaml          # Database configuration
+│   ├── model_config.yaml             # Model parameters configuration
+│   └── logging_config.yaml           # Logging configuration
+│
+├── data/                             # Data directory
+│   ├── raw/                          # Raw data
+│   │   ├── youtube/                  # YouTube data
+│   │   │   ├── comments/             # Comment data
+│   │   │   ├── metadata/             # Video metadata
+│   │   │   └── video_features/       # Video features
+│   │   ├── reddit/                   # Reddit data
+│   │   │   ├── posts/                # Post data
+│   │   │   └── comments/             # Comment data
+│   │   ├── news/                     # News article data
+│   │   │   └── articles/             # News article content
+│   │   ├── ad_features/              # Advertisement features data
+│   │   │   └── ad_list.csv           # Advertisement list
+│   │   └── superbowl_ads/            # Super Bowl advertisement data
+│   │       ├── ad_list.csv           # Advertisement list
+│   │       └── ad_features.csv       # Advertisement features data
+│   │
+│   ├── processed/                    # Processed data
+│   │   ├── cleaned_comments.csv      # Cleaned comment data
+│   │   ├── sentiment_scores.csv      # Sentiment analysis scores
+│   │   ├── reddit_analysis.csv       # Reddit analysis results
+│   │   └── combined_dataset.csv     # Final merged dataset
+│   ├── external/                     # External data sources
+│   │   ├── industry_reports/         # Industry reports
+│   │   └── benchmark_data/           # Benchmark data
+│   └── sample/                       # Sample data (to be submitted to Git)
+│       ├── sample_comments.csv       # Sample comment data
+│       ├── sample_reddit.csv         # Sample Reddit data
+│       └── sample_features.csv       # Sample advertisement features data
+│
+├── src/                              # Source code directory
+│   ├── __init__.py
+│   ├── data_collection/              # Data collection module
+│   │   ├── __init__.py
+│   │   ├── youtube_scraper.py        # YouTube data collection script
+│   │   ├── reddit_scraper.py         # Reddit data collection script
+│   │   ├── news_scraper.py           # News data collection script
+│   │   ├── gemini_analyzer.py        # Gemini API video analysis
+│   │   └── utils/                    # Utility functions
+│   │       ├── __init__.py
+│   │       ├── api_helpers.py        # API helper functions
+│   │       ├── rate_limiter.py       # Rate limit handling
+│   │       └── data_validator.py     # Data validation tools
+│   │
+│   ├── data_processing/              # Data processing module
+│   │   ├── __init__.py
+│   │   ├── text_cleaner.py           # Text cleaning (noise removal, punctuation, etc.)
+│   │   ├── sentiment_analyzer.py     # Sentiment analysis (e.g., VADER)
+│   │   ├── feature_extractor.py      # Feature extraction (from raw data)
+│   │   ├── data_merger.py            # Data merging (merging different data sources)
+│   │   └── preprocessor.py           # Data preprocessing pipeline
+│   │
+│   ├── models/                       # Machine learning models
+│   │   ├── __init__.py
+│   │   ├── base_model.py             # Base model class
+│   │   ├── sentiment_model.py        # Sentiment analysis model
+│   │   ├── success_predictor.py      # Advertisement success prediction model
+│   │   ├── clustering_model.py       # Clustering analysis model
+│   │   └── evaluation/
+│   │       ├── __init__.py
+│   │       ├── metrics.py            # Model evaluation metrics
+│   │       └── cross_validation.py   # Cross-validation
+│   │
+│   ├── analysis/                     # Analysis module
+│   │   ├── __init__.py
+│   │   ├── statistical_analysis.py   # Statistical analysis (e.g., descriptive statistics)
+│   │   ├── trend_analysis.py         # Trend analysis
+│   │   ├── correlation_analysis.py   # Correlation analysis
+│   │   └── insight_generator.py      # Insight generation
+│   │
+│   ├── visualization/                # Visualization module
+│   │   ├── __init__.py
+│   │   ├── plots.py                  # Basic plotting and charts
+│   │   ├── interactive_viz.py        # Interactive visualizations
+│   │   ├── dashboard.py              # Dashboard generation
+│   │   └── report_charts.py          # Charts for reports
+│   │
+│   └── utils/                        # General utility module
+│       ├── __init__.py
+│       ├── database.py               # Database operations (e.g., SQLite)
+│       ├── file_handler.py           # File handling
+│       ├── logger.py                 # Logging
+│       ├── config_loader.py          # Configuration file loading
+│       └── helpers.py                # Helper functions
+│
+├── notebooks/                        # Jupyter notebooks
+│   ├── 01_data_exploration.ipynb     # Data exploration and cleaning
+│   ├── 02_data_collection_test.ipynb # Data collection testing
+│   ├── 03_preprocessing.ipynb        # Data preprocessing
+│   ├── 04_model_training.ipynb       # Model training and evaluation
+│   ├── 05_analysis.ipynb             # Analysis and visualization
+│   ├── 06_insights_generation.ipynb  # Insight generation
+│   └── scratch/                      # Temporary test notebooks
+│       └── .gitkeep
+│
+├── scripts/                          # Executable scripts
+│   ├── setup_environment.py          # Environment setup (install dependencies, configure)
+│   ├── download_data.py              # One-click data download
+│   ├── run_data_collection.py        # Run data collection (calls data scraping scripts)
+│   ├── train_models.py               # Train machine learning models
+│   ├── generate_reports.py           # Generate reports
+│   └── deploy_dashboard.py           # Deploy dashboard
+│
+├── tests/                            # Test files
+│   ├── __init__.py
+│   ├── test_data_collection/
+│   │   ├── test_youtube_scraper.py   # Test YouTube data scraper
+│   │   ├── test_reddit_scraper.py    # Test Reddit data scraper
+│   │   └── test_api_helpers.py       # Test API helper functions
+│   ├── test_data_processing/
+│   │   ├── test_text_cleaner.py      # Test text cleaning
+│   │   ├── test_sentiment_analyzer.py# Test sentiment analysis
+│   │   └── test_preprocessor.py      # Test data preprocessing pipeline
+│   ├── test_models/
+│   │   ├── test_base_model.py        # Test base model
+│   │   └── test_success_predictor.py # Test advertisement success prediction model
+│   └── test_utils/
+│       ├── test_database.py          # Test database operations
+│       └── test_helpers.py           # Test helper functions
+│
+├── docs/                             # Documentation directory
+│   ├── README.md                     # Project overview and user guide
+│   ├── api_documentation.md          # API documentation
+│   ├── data_dictionary.md            # Data dictionary (description of each field)
+│   ├── model_documentation.md        # Model documentation
+│   ├── setup_guide.md                # Environment setup guide
+│   └── user_guide.md                 # User guide
+│
+├── reports/                          # Reports and deliverables
+│   ├── deliverables/
+│   │   ├── deliverable_1.pdf         # Project plan
+│   │   ├── deliverable_2.pdf         # Development status report
+│   │   └── deliverable_3.pdf         # Final report
+│   ├── technical_reports/
+│   │   ├── data_collection_report.md
+│   │   ├── model_performance_report.md
+│   │   └── analysis_results.md
+│   ├── client_reports/
+│   │   ├── executive_summary.pdf
+│   │   ├── detailed_findings.pdf
+│   │   └── recommendations.pdf
+│   └── presentations/
+│       ├── project_overview.pptx
+│       ├── methodology.pptx
+│       └── final_presentation.pptx
+│
+├── models/                           # Trained model files
+│   ├── sentiment_analysis/
+│   │   ├── model.pkl
+│   │   ├── tokenizer.pkl
+│   │   └── config.json
+│   ├── success_prediction/
+│   │   ├── classifier.pkl
+│   │   ├── features.pkl
+│   │   └── scaler.pkl
+│   └── clustering/
+│       ├── kmeans_model.pkl
+│       └── cluster_labels.csv
+│
+├── logs/                             # Log files (add to .gitignore)
+│   ├── data_collection.log
+│   ├── model_training.log
+│   ├── analysis.log
+│   └── error.log
+│
+├── database/                         # Database files (add to .gitignore)
+│   ├── superbowl_ads.db             # SQLite database
+│   └── backups/
+│       └── .gitkeep
+│
+└── assets/                           # Static resources
+    ├── images/
+    │   ├── logos/
+    │   ├── charts/
+    │   └── screenshots/
+    ├── templates/
+    │   ├── report_template.html
+    │   └── email_template.html
+    └── style/
+        ├── report_style.css
+        └── dashboard_theme.css
+
 ```
 
 ---
