@@ -21,9 +21,15 @@ def setup_reddit_client():
     """设置Reddit API客户端"""
     try:
         reddit = praw.Reddit(
-            client_id="0Km3BaJ8J4ZPI2RW7qlINA",
-            client_secret="FUW8O4jKsJDQi7h0KWfgmjgLFRxPDA",
+<<<<<<< HEAD
+            client_id="",
+            client_secret="",
             user_agent="script:SuperBowl:v1.0 (by /u/your_reddit_username)"
+=======
+            client_id="your client id",
+            client_secret="your secret",
+            user_agent=" agent"
+>>>>>>> 72087d38e23fdea35548f560e950e62eab3d0d58
         )
         return reddit
     except Exception as e:

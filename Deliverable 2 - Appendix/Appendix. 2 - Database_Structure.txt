@@ -1,0 +1,30 @@
+database/
+├── (Sample Data)processed/
+│   ├── comments_sentiment_analysis_5models.csv         ← Aggregated results from five sentiment models
+│   ├── feature_importance_ranking.xlsx                 ← Feature importance rankings from classifiers
+│   ├── model_accuracy_comparison.csv                   ← Model accuracy comparison
+│   ├── positive_feature_extracted.xlsx                 ← Extracted features from positive samples
+│   ├── video_level_sentiment_summary.csv               ← Sentiment scores summarized at video level
+│   ├── processed_videos/                               ← Processed data for each video
+│   │   └── [video_id]/                                 ← One subfolder per video
+│   │       ├── audio.mp3
+│   │       ├── [video_id]_transcript.{txt,srt}         ← Transcript files (text or subtitle format)
+│   │       └── frames/                                 ← Key frames extracted from the video
+│   │           ├── frame_0001.png
+│   │           └── ...
+│   └── video_gemini_analysis/
+│       └── [video_id]_gemini_video_analysis.json       ← Gemini-generated visual analysis results
+│
+├── (Sample Data)raw/
+│   ├── (report_samples)SuperBowl_Ads_Links.csv         ← Original list of Super Bowl ad links
+│   ├── (report_samples)SuperBowl_Ads_Links_with_youtube_ids.csv ← Links with resolved YouTube video IDs
+│   ├── youtube_failed_info.csv                         ← Metadata of videos that failed to download
+│   ├── Reddit/
+│   │   └── [year]_raddit.json                          ← Raw Reddit discussion data by year
+│   ├── videos_from_youtube/
+│   │   └── [video_id].mp4                              ← Raw downloaded ad videos
+│   ├── youtube_ad_comments/
+│   │   └── [video_id]_comments.json                    ← YouTube comment data for each ad
+│   └── youtube_ad_features/
+│       └── details/
+│           └── [video_id]_details.json                ← YouTube API metadata per ad
