@@ -46,7 +46,7 @@ def get_video_comments(youtube, video_id):
     return comments
 
 def main():
-    API_KEY = "your api key"
+    API_KEY = ""
     search_query = input("Enter your search query (e.g., '2025 super bowl ad'): ")
     
     # Create YouTube API service
