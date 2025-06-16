@@ -1,0 +1,1532 @@
+2025-06-14 20:26:13,603 - ERROR: Missing environment variable: GOOGLE_API_KEY
+2025-06-14 20:26:32,260 - ERROR: Missing environment variable: GOOGLE_API_KEY
+2025-06-14 20:26:52,650 - ERROR: Missing environment variable: GOOGLE_API_KEY
+2025-06-14 20:27:11,572 - ERROR: Missing environment variable: GOOGLE_API_KEY
+2025-06-14 20:28:07,023 - ERROR: Missing environment variable: GOOGLE_API_KEY
+2025-06-14 20:28:41,718 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,729 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,729 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,736 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,741 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,743 - ERROR: Frame analysis failed for frame_0019.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,751 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,756 - ERROR: Frame analysis failed for frame_0009.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,762 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,762 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,768 - ERROR: Frame analysis failed for frame_0013.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,775 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,776 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,780 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,783 - ERROR: Frame analysis failed for frame_0021.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,796 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,796 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,801 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,801 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,804 - INFO: ✅ Saved analysis for -7e6g11BJc0
+2025-06-14 20:28:41,810 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,810 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,810 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,813 - INFO: ✅ Saved analysis for -cqwXxUo_q8
+2025-06-14 20:28:41,818 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,824 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,824 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,831 - INFO: ✅ Saved analysis for 0x-nGdi_3_o
+2025-06-14 20:28:41,832 - INFO: ✅ Saved analysis for -vmJfJVRyA0
+2025-06-14 20:28:41,832 - ERROR: Frame analysis failed for frame_0007.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,835 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,851 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,859 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,859 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,866 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,870 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,877 - ERROR: Frame analysis failed for frame_0011.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,884 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,896 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,897 - ERROR: Frame analysis failed for frame_0009.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,900 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,901 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,911 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,917 - INFO: ✅ Saved analysis for 1WnJyyyec1g
+2025-06-14 20:28:41,918 - ERROR: Frame analysis failed for frame_0010.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,922 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,924 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,939 - ERROR: Frame analysis failed for frame_0008.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,941 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,945 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,949 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,954 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,955 - INFO: ✅ Saved analysis for 2cK-v7sSiUI
+2025-06-14 20:28:41,968 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,968 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,974 - INFO: ✅ Saved analysis for 62-rXriXL3Q
+2025-06-14 20:28:41,974 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,974 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,982 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,983 - INFO: ✅ Saved analysis for 4LDn46rb_gc
+2025-06-14 20:28:41,987 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,995 - ERROR: Frame analysis failed for frame_0012.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,995 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:41,996 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,001 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,013 - ERROR: Frame analysis failed for frame_0011.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,016 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,023 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,030 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,039 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,041 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,050 - INFO: ✅ Saved analysis for 6g3s16dPsik
+2025-06-14 20:28:42,050 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,060 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,069 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,069 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,075 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,080 - ERROR: Frame analysis failed for frame_0010.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,080 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,085 - INFO: ✅ Saved analysis for a_-AqDbYOtM
+2025-06-14 20:28:42,088 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,089 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,094 - INFO: ✅ Saved analysis for AOxm8LmH7Y4
+2025-06-14 20:28:42,094 - INFO: ✅ Saved analysis for 82msI_KFp9M
+2025-06-14 20:28:42,095 - ERROR: Frame analysis failed for frame_0007.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,108 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,113 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,120 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,120 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,129 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,134 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,142 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,142 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,149 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,156 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,162 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,163 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,166 - ERROR: Frame analysis failed for frame_0011.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,176 - INFO: ✅ Saved analysis for b0Ezn5pZE7o
+2025-06-14 20:28:42,177 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,185 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,191 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,196 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,203 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,218 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,218 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,221 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,225 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,227 - INFO: ✅ Saved analysis for eAJW_-i4-kc
+2025-06-14 20:28:42,229 - INFO: ✅ Saved analysis for EZqmBcqDkyw
+2025-06-14 20:28:42,237 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,241 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,245 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,251 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,254 - INFO: ✅ Saved analysis for EFkCnzboCEM
+2025-06-14 20:28:42,258 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,269 - ERROR: Frame analysis failed for frame_0007.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,275 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,280 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,280 - ERROR: Frame analysis failed for frame_0008.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,280 - ERROR: Error reading transcript: [Errno 2] No such file or directory: 'D:\\youtube_vedio\\2025\\processed\\FIYkPHUiCW4.f616\\FIYkPHUiCW4.f616_transcript.txt'
+2025-06-14 20:28:42,281 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,286 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,295 - INFO: ✅ Saved analysis for FIYkPHUiCW4.f616
+2025-06-14 20:28:42,295 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,301 - ERROR: Frame analysis failed for frame_0009.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,307 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,320 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,328 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,332 - ERROR: Frame analysis failed for frame_0010.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,333 - ERROR: Frame analysis failed for frame_0010.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,337 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,352 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,352 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,354 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,360 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,362 - INFO: ✅ Saved analysis for GAoeGC-eL4I
+2025-06-14 20:28:42,368 - ERROR: Frame analysis failed for frame_0010.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,373 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,373 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,380 - INFO: ✅ Saved analysis for gmzklpZFNiE
+2025-06-14 20:28:42,381 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,393 - INFO: ✅ Saved analysis for gqxwX1ZYg58
+2025-06-14 20:28:42,393 - ERROR: Frame analysis failed for frame_0007.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,395 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,409 - ERROR: Frame analysis failed for frame_0008.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,416 - ERROR: Frame analysis failed for frame_0009.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,420 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,420 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,428 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,428 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,431 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,434 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,435 - INFO: ✅ Saved analysis for GxH8dlWyjNU
+2025-06-14 20:28:42,445 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,447 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,453 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,457 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,467 - ERROR: Frame analysis failed for frame_0009.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,468 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,474 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,485 - ERROR: Frame analysis failed for frame_0007.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,485 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,490 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,490 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,492 - INFO: ✅ Saved analysis for h0DQWw26bSg
+2025-06-14 20:28:42,493 - INFO: ✅ Saved analysis for haYFuGljJ_M
+2025-06-14 20:28:42,494 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,502 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,508 - INFO: ✅ Saved analysis for hKBxN5Fllhg
+2025-06-14 20:28:42,508 - ERROR: Frame analysis failed for frame_0016.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,508 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,513 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,525 - ERROR: Frame analysis failed for frame_0026.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,525 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,530 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,536 - ERROR: Frame analysis failed for frame_0012.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,540 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,544 - ERROR: Frame analysis failed for frame_0014.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,544 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,549 - INFO: ✅ Saved analysis for HLw6ZovMpLI
+2025-06-14 20:28:42,560 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,565 - ERROR: Frame analysis failed for frame_0028.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,565 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,571 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,580 - ERROR: Frame analysis failed for frame_0008.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,587 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,587 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,599 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,600 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,600 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,610 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,618 - INFO: ✅ Saved analysis for I7KfNlBA9mo
+2025-06-14 20:28:42,618 - INFO: ✅ Saved analysis for hUUszE29jS0
+2025-06-14 20:28:42,618 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,624 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,643 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,643 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,649 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,650 - ERROR: Frame analysis failed for frame_0014.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,652 - INFO: ✅ Saved analysis for iOXWmZbA2Io
+2025-06-14 20:28:42,657 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,659 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,662 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,665 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,670 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,675 - INFO: ✅ Saved analysis for jqtWWWhIMas
+2025-06-14 20:28:42,675 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,683 - ERROR: Frame analysis failed for frame_0007.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,684 - ERROR: Frame analysis failed for frame_0010.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,693 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,693 - ERROR: Frame analysis failed for frame_0011.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,697 - ERROR: Frame analysis failed for frame_0009.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,701 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,702 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,708 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,736 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,736 - ERROR: Frame analysis failed for frame_0010.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,737 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,737 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,745 - INFO: ✅ Saved analysis for K2Gj9BufAqo
+2025-06-14 20:28:42,747 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,747 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,760 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,771 - INFO: ✅ Saved analysis for kIhb5pEo_j0
+2025-06-14 20:28:42,771 - INFO: ✅ Saved analysis for K0iKgJXy_gk
+2025-06-14 20:28:42,793 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,807 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,808 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,808 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,816 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,825 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,838 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,845 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,865 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,866 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,866 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,872 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,879 - INFO: ✅ Saved analysis for laBjQ9uJDg8
+2025-06-14 20:28:42,893 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,893 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,897 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,906 - INFO: ✅ Saved analysis for MgAAbLN7bcE
+2025-06-14 20:28:42,906 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,915 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,918 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,927 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,941 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,941 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,941 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,946 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,952 - INFO: ✅ Saved analysis for Mc-XvA9sNKU
+2025-06-14 20:28:42,952 - INFO: ✅ Saved analysis for LC5V4aIoWes
+2025-06-14 20:28:42,965 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,971 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,984 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,984 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,999 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:42,999 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,012 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,012 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,013 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,021 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,022 - INFO: ✅ Saved analysis for nVUPazjaHl8
+2025-06-14 20:28:43,032 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,037 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,046 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,046 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,053 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,067 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,067 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,073 - INFO: ✅ Saved analysis for nwcZ2dxPUo0
+2025-06-14 20:28:43,073 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,085 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,087 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,091 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,100 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,103 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,103 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,109 - INFO: ✅ Saved analysis for RIXB-7RHjBY
+2025-06-14 20:28:43,110 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,121 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,121 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,123 - INFO: ✅ Saved analysis for of3GixFUGfI
+2025-06-14 20:28:43,131 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,138 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,144 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,144 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,147 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,149 - INFO: ✅ Saved analysis for rnbrFm-B3QI
+2025-06-14 20:28:43,153 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,157 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,179 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,179 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,185 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,186 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,192 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,199 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,205 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,205 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,206 - INFO: ✅ Saved analysis for Rp2qgvIbirI
+2025-06-14 20:28:43,209 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,215 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,224 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,235 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,236 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,236 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,241 - INFO: ✅ Saved analysis for rzJPAqhIbXw
+2025-06-14 20:28:43,242 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,247 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,247 - INFO: ✅ Saved analysis for sIAnQwiCpRc
+2025-06-14 20:28:43,252 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,260 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,265 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,266 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,268 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,275 - INFO: ✅ Saved analysis for SvcpZ-GuOgo
+2025-06-14 20:28:43,286 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,296 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,296 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,307 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,307 - ERROR: Frame analysis failed for frame_0010.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,314 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,314 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,328 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,329 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,329 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,335 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,341 - INFO: ✅ Saved analysis for TTppVzG8gpU
+2025-06-14 20:28:43,347 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,357 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,357 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,366 - ERROR: Frame analysis failed for frame_0008.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,376 - ERROR: Frame analysis failed for frame_0008.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,376 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,376 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,380 - ERROR: Frame analysis failed for frame_0011.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,388 - INFO: ✅ Saved analysis for tU_vZpbnYF4
+2025-06-14 20:28:43,388 - INFO: ✅ Saved analysis for vAbLsQGygmc
+2025-06-14 20:28:43,400 - ERROR: Frame analysis failed for frame_0011.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,405 - ERROR: Frame analysis failed for frame_0012.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,427 - ERROR: Frame analysis failed for frame_0007.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,427 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,427 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,432 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,445 - INFO: ✅ Saved analysis for W5VzQ8OV3X0
+2025-06-14 20:28:43,462 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,462 - ERROR: Frame analysis failed for frame_0007.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,476 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,476 - ERROR: Frame analysis failed for frame_0012.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,482 - ERROR: Frame analysis failed for frame_0009.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,489 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,489 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,517 - INFO: ✅ Saved analysis for wNLhMZuA00c
+2025-06-14 20:28:43,517 - ERROR: Frame analysis failed for frame_0011.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,530 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,530 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,535 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,543 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,550 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,559 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,560 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,573 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,573 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,573 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,577 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,586 - INFO: ✅ Saved analysis for X-zeJJnS8bw
+2025-06-14 20:28:43,586 - INFO: ✅ Saved analysis for x7qbswwBCDo
+2025-06-14 20:28:43,606 - ERROR: Frame analysis failed for frame_0006.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,606 - ERROR: Frame analysis failed for frame_0008.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,615 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,620 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,620 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,623 - INFO: ✅ Saved analysis for xNjINFAdmhI
+2025-06-14 20:28:43,636 - ERROR: Frame analysis failed for frame_0001.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,636 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,643 - INFO: ✅ Saved analysis for Zn_sUFnwHDg
+2025-06-14 20:28:43,658 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,679 - ERROR: Frame analysis failed for frame_0005.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,713 - ERROR: Frame analysis failed for frame_0002.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,714 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:28:43,715 - INFO: ✅ Saved analysis for _fHqcDASbGs
+2025-06-14 20:28:43,715 - INFO: ✅ All video analyses completed.
+2025-06-14 20:33:51,499 - ERROR: Frame analysis failed for frame_0017.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:33:51,524 - ERROR: Frame analysis failed for frame_0018.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:33:51,537 - ERROR: Frame analysis failed for frame_0011.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:33:51,551 - ERROR: Frame analysis failed for frame_0023.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:33:51,566 - ERROR: Frame analysis failed for frame_0003.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:33:51,567 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:34:08,655 - ERROR: Audio analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:34:08,760 - INFO: ✅ Saved analysis for -7e6g11BJc0
+2025-06-14 20:34:08,761 - INFO: ✅ Analysis completed for 1 videos
+2025-06-14 20:38:53,843 - ERROR: Frame analysis failed for frame_0016.png: "Unable to determine the intended type of the `dict`. For `Content`, a 'parts' key is expected. For `Part`, either an 'inline_data' or a 'text' key is expected. For `Blob`, both 'mime_type' and 'data' keys are expected. However, the provided dictionary has the following keys: ['type', 'text']"
+2025-06-14 20:38:53,883 - ERROR: Frame analysis failed for frame_0002.png: "Unable to determine the intended type of the `dict`. For `Content`, a 'parts' key is expected. For `Part`, either an 'inline_data' or a 'text' key is expected. For `Blob`, both 'mime_type' and 'data' keys are expected. However, the provided dictionary has the following keys: ['type', 'text']"
+2025-06-14 20:38:54,002 - ERROR: Frame analysis failed for frame_0024.png: "Unable to determine the intended type of the `dict`. For `Content`, a 'parts' key is expected. For `Part`, either an 'inline_data' or a 'text' key is expected. For `Blob`, both 'mime_type' and 'data' keys are expected. However, the provided dictionary has the following keys: ['type', 'text']"
+2025-06-14 20:38:54,163 - ERROR: Frame analysis failed for frame_0005.png: "Unable to determine the intended type of the `dict`. For `Content`, a 'parts' key is expected. For `Part`, either an 'inline_data' or a 'text' key is expected. For `Blob`, both 'mime_type' and 'data' keys are expected. However, the provided dictionary has the following keys: ['type', 'text']"
+2025-06-14 20:38:54,239 - ERROR: Frame analysis failed for frame_0012.png: "Unable to determine the intended type of the `dict`. For `Content`, a 'parts' key is expected. For `Part`, either an 'inline_data' or a 'text' key is expected. For `Blob`, both 'mime_type' and 'data' keys are expected. However, the provided dictionary has the following keys: ['type', 'text']"
+2025-06-14 20:38:54,240 - ERROR: Transcript analysis failed: "Unable to determine the intended type of the `dict`. For `Content`, a 'parts' key is expected. For `Part`, either an 'inline_data' or a 'text' key is expected. For `Blob`, both 'mime_type' and 'data' keys are expected. However, the provided dictionary has the following keys: ['type', 'text']"
+2025-06-14 20:38:57,294 - ERROR: Audio analysis failed: "Unable to determine the intended type of the `dict`. For `Content`, a 'parts' key is expected. For `Part`, either an 'inline_data' or a 'text' key is expected. For `Blob`, both 'mime_type' and 'data' keys are expected. However, the provided dictionary has the following keys: ['type', 'text']"
+2025-06-14 20:38:57,397 - INFO: ✅ Saved analysis for -7e6g11BJc0
+2025-06-14 20:38:57,398 - INFO: ✅ Analysis completed for 1 videos
+2025-06-14 20:46:59,908 - ERROR: Frame analysis failed for frame_0023.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:46:59,909 - ERROR: Frame analysis failed for frame_0019.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:47:00,951 - ERROR: Frame analysis failed for frame_0014.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:47:00,965 - ERROR: Frame analysis failed for frame_0004.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:47:00,977 - ERROR: Frame analysis failed for frame_0022.png: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:47:00,977 - ERROR: Transcript analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:47:02,885 - ERROR: Audio analysis failed: generate_content() got an unexpected keyword argument 'parts'
+2025-06-14 20:47:02,988 - INFO: ✅ Saved analysis for -7e6g11BJc0
+2025-06-14 20:47:02,989 - INFO: ✅ Analysis completed for 1 videos
+2025-06-14 20:48:58,667 - ERROR: Frame analysis failed for frame_0009.png: 403 Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Generative Language API"
+}
+metadata {
+  key: "containerInfo"
+  value: "1002154299215"
+}
+metadata {
+  key: "consumer"
+  value: "projects/1002154299215"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+, locale: "en-US"
+message: "Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+]
+2025-06-14 20:48:58,826 - ERROR: Frame analysis failed for frame_0004.png: 403 Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Generative Language API"
+}
+metadata {
+  key: "containerInfo"
+  value: "1002154299215"
+}
+metadata {
+  key: "consumer"
+  value: "projects/1002154299215"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+, locale: "en-US"
+message: "Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+]
+2025-06-14 20:49:00,022 - ERROR: Frame analysis failed for frame_0015.png: 403 Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Generative Language API"
+}
+metadata {
+  key: "containerInfo"
+  value: "1002154299215"
+}
+metadata {
+  key: "consumer"
+  value: "projects/1002154299215"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+, locale: "en-US"
+message: "Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+]
+2025-06-14 20:49:00,275 - ERROR: Frame analysis failed for frame_0008.png: 403 Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Generative Language API"
+}
+metadata {
+  key: "containerInfo"
+  value: "1002154299215"
+}
+metadata {
+  key: "consumer"
+  value: "projects/1002154299215"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+, locale: "en-US"
+message: "Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+]
+2025-06-14 20:49:00,345 - ERROR: Frame analysis failed for frame_0025.png: 403 Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Generative Language API"
+}
+metadata {
+  key: "containerInfo"
+  value: "1002154299215"
+}
+metadata {
+  key: "consumer"
+  value: "projects/1002154299215"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+, locale: "en-US"
+message: "Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+]
+2025-06-14 20:49:00,390 - ERROR: Transcript analysis failed: 403 Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Generative Language API"
+}
+metadata {
+  key: "containerInfo"
+  value: "1002154299215"
+}
+metadata {
+  key: "consumer"
+  value: "projects/1002154299215"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+, locale: "en-US"
+message: "Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+]
+2025-06-14 20:49:02,392 - ERROR: Audio analysis failed: 403 Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Generative Language API"
+}
+metadata {
+  key: "containerInfo"
+  value: "1002154299215"
+}
+metadata {
+  key: "consumer"
+  value: "projects/1002154299215"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+, locale: "en-US"
+message: "Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+]
+2025-06-14 20:49:02,498 - INFO: ✅ Saved analysis for -7e6g11BJc0
+2025-06-14 20:49:02,499 - INFO: ✅ Analysis completed for 1 videos
+2025-06-14 20:50:33,730 - INFO: Analyzed frame: frame_0016.png
+2025-06-14 20:50:48,590 - INFO: Analyzed frame: frame_0025.png
+2025-06-14 20:51:07,004 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 20:51:23,285 - INFO: Analyzed frame: frame_0024.png
+2025-06-14 20:51:39,173 - INFO: Analyzed frame: frame_0014.png
+2025-06-14 20:52:11,070 - ERROR: Failed to save JSON: Object of type float32 is not JSON serializable
+2025-06-14 20:52:11,071 - INFO: ✅ Saved analysis for -7e6g11BJc0
+2025-06-14 20:52:11,071 - INFO: ✅ Analysis completed for 1 videos
+2025-06-14 20:59:37,916 - INFO: Analyzed frame: frame_0020.png
+2025-06-14 20:59:52,051 - INFO: Analyzed frame: frame_0019.png
+2025-06-14 21:00:06,453 - INFO: Analyzed frame: frame_0018.png
+2025-06-14 21:00:06,587 - ERROR: Frame analysis failed for frame_0014.png: 403 Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Generative Language API"
+}
+metadata {
+  key: "containerInfo"
+  value: "1002154299215"
+}
+metadata {
+  key: "consumer"
+  value: "projects/1002154299215"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+, locale: "en-US"
+message: "Generative Language API has not been used in project 1002154299215 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=1002154299215"
+}
+]
+2025-06-14 21:00:18,213 - INFO: Analyzed frame: frame_0022.png
+2025-06-14 21:00:33,082 - ERROR: Failed to save JSON: Object of type float32 is not JSON serializable
+2025-06-14 21:00:33,083 - INFO: ✅ Saved analysis for -7e6g11BJc0
+2025-06-14 21:00:33,084 - INFO: ✅ Analysis completed for 1 videos
+2025-06-14 21:03:55,261 - INFO: Analyzed frame: frame_0025.png
+2025-06-14 21:04:09,798 - INFO: Analyzed frame: frame_0021.png
+2025-06-14 21:04:22,855 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 21:04:34,011 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:04:46,770 - INFO: Analyzed frame: frame_0023.png
+2025-06-14 21:05:08,723 - INFO: ✅ Saved analysis for -7e6g11BJc0
+2025-06-14 21:05:08,725 - INFO: ✅ Analysis completed for 1 videos
+2025-06-14 21:16:58,907 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 21:17:10,414 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:17:23,806 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:17:53,071 - INFO: ✅ Saved analysis for -7e6g11BJc0
+2025-06-14 21:17:53,072 - INFO: ✅ Analysis completed for 1 videos
+2025-06-14 21:25:51,577 - INFO: Analyzed frame: frame_0018.png
+2025-06-14 21:25:51,834 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:25:52,436 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:25:52,788 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:26:03,738 - INFO: Analyzed frame: frame_0016.png
+2025-06-14 21:26:05,527 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:26:05,950 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:26:06,166 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:26:16,889 - INFO: Analyzed frame: frame_0022.png
+2025-06-14 21:26:17,527 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:26:19,493 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:26:19,800 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:26:43,967 - INFO: ✅ Saved analysis for -vmJfJVRyA0
+2025-06-14 21:26:43,967 - INFO: ✅ Saved analysis for -7e6g11BJc0
+2025-06-14 21:26:44,937 - INFO: ✅ Saved analysis for 0x-nGdi_3_o
+2025-06-14 21:26:47,022 - INFO: ✅ Saved analysis for -cqwXxUo_q8
+2025-06-14 21:26:56,653 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:26:58,480 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:26:58,891 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:26:59,279 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 21:27:10,183 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:27:10,868 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:27:11,905 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:27:14,244 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:27:22,101 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:27:22,457 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:27:24,534 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:27:29,115 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 21:27:40,020 - INFO: ✅ Saved analysis for 62-rXriXL3Q
+2025-06-14 21:27:45,803 - INFO: ✅ Saved analysis for 1WnJyyyec1g
+2025-06-14 21:27:47,214 - INFO: ✅ Saved analysis for 2cK-v7sSiUI
+2025-06-14 21:27:52,977 - INFO: ✅ Saved analysis for 4LDn46rb_gc
+2025-06-14 21:27:55,700 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:27:57,481 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:28:01,522 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:28:04,340 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:28:09,196 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:28:11,488 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 21:28:11,979 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:28:18,044 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:28:24,020 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:28:24,329 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:28:25,889 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 21:28:30,482 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:28:45,164 - INFO: ✅ Saved analysis for 6g3s16dPsik
+2025-06-14 21:28:46,944 - INFO: ✅ Saved analysis for AOxm8LmH7Y4
+2025-06-14 21:28:47,401 - INFO: ✅ Saved analysis for 82msI_KFp9M
+2025-06-14 21:28:53,049 - INFO: ✅ Saved analysis for a_-AqDbYOtM
+2025-06-14 21:28:56,707 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 21:29:00,278 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 21:29:00,851 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:29:07,555 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:29:08,377 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:29:15,430 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:29:15,441 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:29:18,473 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:29:18,658 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:29:26,417 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:29:31,019 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:29:32,173 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:29:44,571 - INFO: ✅ Saved analysis for b0Ezn5pZE7o
+2025-06-14 21:29:44,572 - WARNING: No metadata found for FIYkPHUiCW4.f616: [Errno 2] No such file or directory: 'data\\raw\\ad_features\\details\\FIYkPHUiCW4.f616_details.json'
+2025-06-14 21:29:50,803 - INFO: ✅ Saved analysis for EFkCnzboCEM
+2025-06-14 21:29:51,982 - INFO: ✅ Saved analysis for eAJW_-i4-kc
+2025-06-14 21:29:56,555 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:29:58,986 - INFO: ✅ Saved analysis for EZqmBcqDkyw
+2025-06-14 21:30:05,470 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 21:30:06,525 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 21:30:09,750 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:30:11,503 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:30:18,141 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:30:20,061 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:30:22,768 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:30:22,870 - INFO: ✅ Saved analysis for FIYkPHUiCW4.f616
+2025-06-14 21:30:23,146 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:30:32,529 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 21:30:33,358 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:30:36,302 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 21:30:36,856 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:30:49,977 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 21:30:57,044 - INFO: ✅ Saved analysis for gmzklpZFNiE
+2025-06-14 21:30:59,453 - INFO: ✅ Saved analysis for GAoeGC-eL4I
+2025-06-14 21:31:01,771 - INFO: ✅ Saved analysis for gqxwX1ZYg58
+2025-06-14 21:31:02,793 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 21:31:12,325 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:31:13,261 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:31:13,700 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:31:25,299 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 21:31:26,388 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:31:26,466 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:31:30,495 - INFO: ✅ Saved analysis for GxH8dlWyjNU
+2025-06-14 21:31:37,336 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:31:39,782 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:31:39,994 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:31:42,758 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:31:55,701 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 21:32:01,407 - INFO: ✅ Saved analysis for h0DQWw26bSg
+2025-06-14 21:32:03,983 - INFO: ✅ Saved analysis for hKBxN5Fllhg
+2025-06-14 21:32:05,380 - INFO: ✅ Saved analysis for haYFuGljJ_M
+2025-06-14 21:32:09,967 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:32:15,153 - INFO: Analyzed frame: frame_0015.png
+2025-06-14 21:32:16,102 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 21:32:18,150 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:32:27,471 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:32:29,982 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:32:32,362 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:32:34,142 - INFO: ✅ Saved analysis for HLw6ZovMpLI
+2025-06-14 21:32:41,194 - INFO: Analyzed frame: frame_0024.png
+2025-06-14 21:32:42,304 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:32:45,586 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:32:47,591 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:33:00,601 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:33:05,390 - INFO: ✅ Saved analysis for iOXWmZbA2Io
+2025-06-14 21:33:05,853 - INFO: ✅ Saved analysis for hUUszE29jS0
+2025-06-14 21:33:10,170 - INFO: ✅ Saved analysis for I7KfNlBA9mo
+2025-06-14 21:33:13,829 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:33:18,172 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:33:18,789 - INFO: Analyzed frame: frame_0014.png
+2025-06-14 21:33:23,773 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:33:29,656 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:33:32,041 - INFO: Analyzed frame: frame_0017.png
+2025-06-14 21:33:35,203 - INFO: ✅ Saved analysis for jqtWWWhIMas
+2025-06-14 21:33:35,915 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 21:33:42,802 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:33:43,750 - INFO: Analyzed frame: frame_0015.png
+2025-06-14 21:33:46,408 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 21:33:48,733 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:34:02,793 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:34:08,114 - INFO: ✅ Saved analysis for K2Gj9BufAqo
+2025-06-14 21:34:09,255 - INFO: ✅ Saved analysis for K0iKgJXy_gk
+2025-06-14 21:34:12,365 - INFO: ✅ Saved analysis for kIhb5pEo_j0
+2025-06-14 21:34:17,211 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:34:22,540 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:34:23,765 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:34:26,724 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:34:37,525 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:34:39,907 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:34:40,768 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:34:41,167 - INFO: ✅ Saved analysis for laBjQ9uJDg8
+2025-06-14 21:34:52,332 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:34:52,815 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:34:54,368 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:34:56,189 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:35:06,204 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:35:16,364 - INFO: ✅ Saved analysis for Mc-XvA9sNKU
+2025-06-14 21:35:18,091 - INFO: ✅ Saved analysis for LC5V4aIoWes
+2025-06-14 21:35:20,246 - INFO: ✅ Saved analysis for MgAAbLN7bcE
+2025-06-14 21:35:21,161 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:35:29,637 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:35:29,977 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:35:34,247 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:35:42,747 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:35:43,621 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:35:46,668 - INFO: ✅ Saved analysis for nVUPazjaHl8
+2025-06-14 21:35:46,930 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:35:55,809 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:35:56,600 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:35:59,406 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:36:01,590 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:36:12,383 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:36:18,690 - INFO: ✅ Saved analysis for of3GixFUGfI
+2025-06-14 21:36:21,979 - INFO: ✅ Saved analysis for nwcZ2dxPUo0
+2025-06-14 21:36:24,774 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:36:27,598 - INFO: ✅ Saved analysis for RIXB-7RHjBY
+2025-06-14 21:36:31,085 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:36:33,178 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:36:37,521 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:36:45,506 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:36:46,425 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:36:49,901 - INFO: ✅ Saved analysis for rnbrFm-B3QI
+2025-06-14 21:36:51,626 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:36:56,742 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:37:00,462 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:37:02,854 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:37:05,676 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:37:14,165 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:37:20,075 - INFO: ✅ Saved analysis for Rp2qgvIbirI
+2025-06-14 21:37:21,275 - INFO: ✅ Saved analysis for rzJPAqhIbXw
+2025-06-14 21:37:27,468 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:37:32,651 - INFO: ✅ Saved analysis for sIAnQwiCpRc
+2025-06-14 21:37:34,553 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:37:35,185 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:37:43,856 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:37:46,180 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:37:47,603 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:37:52,501 - INFO: ✅ Saved analysis for SvcpZ-GuOgo
+2025-06-14 21:37:57,057 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:37:59,416 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:38:01,558 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:38:08,733 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:38:09,856 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:38:22,659 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:38:25,967 - INFO: ✅ Saved analysis for tU_vZpbnYF4
+2025-06-14 21:38:29,195 - INFO: ✅ Saved analysis for TTppVzG8gpU
+2025-06-14 21:38:34,464 - INFO: ✅ Saved analysis for vAbLsQGygmc
+2025-06-14 21:38:37,605 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:38:39,843 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:38:44,115 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:38:46,295 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:38:52,182 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:38:59,119 - INFO: ✅ Saved analysis for W5VzQ8OV3X0
+2025-06-14 21:38:59,583 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:39:00,619 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 21:39:07,310 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 21:39:13,735 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:39:14,093 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:39:15,158 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 21:39:29,907 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:39:32,164 - INFO: ✅ Saved analysis for wNLhMZuA00c
+2025-06-14 21:39:37,907 - INFO: ✅ Saved analysis for X-zeJJnS8bw
+2025-06-14 21:39:39,937 - INFO: ✅ Saved analysis for x7qbswwBCDo
+2025-06-14 21:39:44,428 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 21:39:45,181 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:39:52,368 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:40:00,066 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:40:06,589 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:40:10,301 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:40:11,023 - INFO: ✅ Saved analysis for xNjINFAdmhI
+2025-06-14 21:40:21,137 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:40:36,825 - INFO: ✅ Saved analysis for Zn_sUFnwHDg
+2025-06-14 21:40:42,692 - INFO: ✅ Saved analysis for _fHqcDASbGs
+2025-06-14 21:40:42,694 - INFO: ✅ Analysis completed for 55 videos
+2025-06-14 21:41:48,060 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:41:48,769 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:41:50,118 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:41:50,631 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:41:51,635 - INFO: Analyzed frame: frame_0016.png
+2025-06-14 21:42:00,361 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:42:01,692 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:42:02,754 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:42:05,041 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:42:05,458 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 21:42:12,916 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:42:15,188 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:42:17,425 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:42:18,681 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:42:20,653 - INFO: Analyzed frame: frame_0023.png
+2025-06-14 21:42:38,377 - INFO: ✅ Saved analysis for 6zolFHbtEew
+2025-06-14 21:42:40,388 - INFO: ✅ Saved analysis for -kI-vfyl2mo
+2025-06-14 21:42:40,389 - INFO: ✅ Saved analysis for 5Od0aOse1wc
+2025-06-14 21:42:43,044 - INFO: ✅ Saved analysis for 5UiFkOJoP-8
+2025-06-14 21:42:45,207 - INFO: ✅ Saved analysis for 7glIC7OaIro
+2025-06-14 21:42:50,906 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:42:53,049 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:42:53,979 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:42:56,810 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:42:59,121 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:43:05,564 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 21:43:05,705 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:43:08,163 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:43:10,950 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:43:11,303 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:43:18,331 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:43:19,587 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:43:22,716 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:43:24,397 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:43:25,514 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:43:43,689 - INFO: ✅ Saved analysis for 8qQ7Q6INWOw
+2025-06-14 21:43:43,709 - INFO: ✅ Saved analysis for 88tPE7AAUxM
+2025-06-14 21:43:44,198 - INFO: ✅ Saved analysis for 8C4DNSV3IRE
+2025-06-14 21:43:50,824 - INFO: ✅ Saved analysis for AJNUI0WqEdE
+2025-06-14 21:43:51,270 - INFO: ✅ Saved analysis for 94BqlDQ-Ppo
+2025-06-14 21:43:56,138 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:43:57,775 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:43:58,957 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 21:44:04,503 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:44:04,993 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:44:10,158 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:44:11,266 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:44:13,917 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 21:44:15,395 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:44:18,671 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:44:22,236 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 21:44:23,012 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:44:28,672 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:44:29,210 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:44:32,633 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:44:46,081 - INFO: ✅ Saved analysis for bXrhgATNVbE
+2025-06-14 21:44:46,701 - INFO: ✅ Saved analysis for Cl--5P79iRs
+2025-06-14 21:44:52,972 - INFO: ✅ Saved analysis for D6HUxANY8z8
+2025-06-14 21:44:53,547 - INFO: ✅ Saved analysis for BEkziTXz9Js
+2025-06-14 21:44:56,582 - INFO: ✅ Saved analysis for cXT8JgdvCHc
+2025-06-14 21:44:57,357 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:45:00,354 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:45:05,047 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:45:05,735 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:45:08,400 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:45:12,931 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:45:14,045 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:45:16,531 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:45:19,172 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:45:21,820 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:45:28,274 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:45:29,180 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:45:29,706 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:45:32,623 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:45:42,626 - INFO: ✅ Saved analysis for DTLM5o-9hYg
+2025-06-14 21:45:45,855 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:45:53,315 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:45:53,777 - INFO: ✅ Saved analysis for fQ7Az_7pzDM
+2025-06-14 21:45:54,611 - INFO: ✅ Saved analysis for F1dvX9Vs0ns
+2025-06-14 21:45:59,016 - INFO: ✅ Saved analysis for g0D5MU6_0n0
+2025-06-14 21:46:03,973 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:46:06,890 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:46:07,889 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:46:09,928 - INFO: ✅ Saved analysis for H3EsFtUCOno
+2025-06-14 21:46:13,150 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 21:46:15,568 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:46:18,229 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:46:22,669 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:46:24,692 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 21:46:25,221 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:46:29,171 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:46:37,942 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 21:46:39,137 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 21:46:39,641 - INFO: ✅ Saved analysis for HjP7A2AWgZI
+2025-06-14 21:46:40,737 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:46:52,835 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:46:53,651 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 21:46:54,941 - INFO: ✅ Saved analysis for JRadjMeUKko
+2025-06-14 21:47:02,439 - INFO: ✅ Saved analysis for kjVf8ptmDmk
+2025-06-14 21:47:03,175 - INFO: ✅ Saved analysis for kwUJq0DA0xo
+2025-06-14 21:47:06,428 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:47:07,532 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:47:15,896 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:47:16,659 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:47:17,555 - INFO: ✅ Saved analysis for NBuB85VsZfI
+2025-06-14 21:47:20,247 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:47:20,250 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:47:29,296 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:47:29,749 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 21:47:30,199 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:47:32,956 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:47:39,450 - INFO: ✅ Saved analysis for Neul4wINfUQ
+2025-06-14 21:47:42,039 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 21:47:42,926 - INFO: Analyzed frame: frame_0020.png
+2025-06-14 21:47:43,324 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:47:53,505 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:47:55,802 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 21:47:55,966 - INFO: ✅ Saved analysis for oGnyO_lEW2E
+2025-06-14 21:48:06,620 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:48:07,231 - INFO: ✅ Saved analysis for pUhq4w9mKWg
+2025-06-14 21:48:08,846 - INFO: ✅ Saved analysis for QrQQgLH0p_Y
+2025-06-14 21:48:09,364 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:48:16,411 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:48:20,242 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:48:22,060 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:48:23,297 - INFO: ✅ Saved analysis for sfB-glrgn5o
+2025-06-14 21:48:23,521 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:48:32,150 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:48:34,747 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:48:36,407 - INFO: Analyzed frame: frame_0029.png
+2025-06-14 21:48:37,869 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:48:38,739 - INFO: ✅ Saved analysis for SJa1oSgs8Gw
+2025-06-14 21:48:45,147 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:48:47,774 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:48:50,201 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:48:51,714 - INFO: Analyzed frame: frame_0016.png
+2025-06-14 21:49:01,563 - INFO: ✅ Saved analysis for sn4_CjtmQKw
+2025-06-14 21:49:02,492 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:49:04,195 - INFO: Analyzed frame: frame_0014.png
+2025-06-14 21:49:09,067 - INFO: ✅ Saved analysis for tMltLxq0Jbo
+2025-06-14 21:49:09,067 - INFO: ✅ Saved analysis for ubSnD737JaM
+2025-06-14 21:49:16,358 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:49:17,343 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:49:20,115 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 21:49:20,131 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:49:30,355 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 21:49:30,729 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:49:30,831 - INFO: ✅ Saved analysis for uJMCNJP2ipI
+2025-06-14 21:49:32,964 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:49:38,729 - INFO: ✅ Saved analysis for vAf5TjiUJgo
+2025-06-14 21:49:42,408 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:49:42,817 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:49:43,930 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 21:49:47,981 - INFO: Analyzed frame: frame_0014.png
+2025-06-14 21:49:48,927 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:49:56,945 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:50:00,781 - INFO: ✅ Saved analysis for vQ88JB-lgtQ
+2025-06-14 21:50:01,655 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:50:08,347 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:50:09,951 - INFO: ✅ Saved analysis for Ve2miT5iF2M
+2025-06-14 21:50:14,953 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:50:15,978 - INFO: ✅ Saved analysis for wdok0rZdmx4
+2025-06-14 21:50:17,116 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 21:50:23,766 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:50:26,781 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:50:33,293 - INFO: ✅ Saved analysis for WmpmKkRDQZg
+2025-06-14 21:50:35,232 - INFO: Analyzed frame: frame_0014.png
+2025-06-14 21:50:36,102 - INFO: Analyzed frame: frame_0014.png
+2025-06-14 21:50:39,138 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:50:40,669 - INFO: ✅ Saved analysis for wYPTZIFQoDQ
+2025-06-14 21:50:45,438 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:50:49,037 - INFO: Analyzed frame: frame_0015.png
+2025-06-14 21:50:49,045 - INFO: Analyzed frame: frame_0013.png
+2025-06-14 21:50:53,869 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:50:54,310 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:50:57,847 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:51:07,181 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:51:11,534 - INFO: ✅ Saved analysis for xp5v3-3Hc-E
+2025-06-14 21:51:12,441 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:51:17,633 - INFO: ✅ Saved analysis for XtFI7SNtVpY
+2025-06-14 21:51:18,016 - INFO: ✅ Saved analysis for xXKuSJy5cPE
+2025-06-14 21:51:19,951 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:51:25,846 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:51:30,185 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:51:30,931 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:51:37,301 - INFO: ✅ Saved analysis for XZmMvVCcW0M
+2025-06-14 21:51:41,308 - INFO: Analyzed frame: frame_0021.png
+2025-06-14 21:51:43,568 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 21:51:45,983 - INFO: ✅ Saved analysis for Y7mLeyIETu0
+2025-06-14 21:51:46,322 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:51:50,512 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:51:51,386 - INFO: Analyzed frame: frame_0024.png
+2025-06-14 21:51:53,865 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 21:51:57,349 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:52:03,095 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 21:52:14,908 - INFO: ✅ Saved analysis for YKzk1h7qrj8
+2025-06-14 21:52:15,281 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 21:52:17,353 - INFO: ✅ Saved analysis for z5fcvlWdfdA
+2025-06-14 21:52:17,863 - INFO: ✅ Saved analysis for YVeCwSWNLrM
+2025-06-14 21:52:43,402 - INFO: ✅ Saved analysis for zo8PQgark7c
+2025-06-14 21:52:43,404 - INFO: ✅ Analysis completed for 50 videos
+2025-06-14 21:53:57,667 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:53:58,790 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:53:59,397 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:54:00,172 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:54:01,839 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:54:12,367 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:54:12,583 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:54:13,527 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:54:13,566 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 21:54:14,801 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:54:24,379 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:54:26,046 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 21:54:26,721 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 21:54:26,984 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:54:29,850 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:54:50,890 - INFO: ✅ Saved analysis for 6uLgF2K2n5M
+2025-06-14 21:54:51,661 - INFO: ✅ Saved analysis for 8Bsgj1ihEOg
+2025-06-14 21:54:52,420 - INFO: ✅ Saved analysis for 73p4lL1iq7w
+2025-06-14 21:54:52,923 - INFO: ✅ Saved analysis for 5YsxXj5kycs
+2025-06-14 21:54:53,601 - INFO: ✅ Saved analysis for -bueUljGJ2M
+2025-06-14 21:55:04,281 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 21:55:04,638 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:55:06,661 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:55:06,887 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 21:55:07,015 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:55:17,397 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:55:18,040 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:55:19,204 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:55:19,763 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:55:21,802 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:55:30,033 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:55:31,779 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:55:33,226 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:55:33,331 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:55:36,145 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:55:54,938 - INFO: ✅ Saved analysis for 8oBHRjnQCFE
+2025-06-14 21:55:56,377 - INFO: ✅ Saved analysis for AO0aIHyetAw
+2025-06-14 21:55:56,378 - INFO: ✅ Saved analysis for AKbXPXOQAmQ
+2025-06-14 21:55:58,270 - INFO: ✅ Saved analysis for 8gatiYW5kWs
+2025-06-14 21:56:03,292 - INFO: ✅ Saved analysis for azCNwGnxq0s
+2025-06-14 21:56:09,337 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:56:10,411 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:56:11,619 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:56:12,052 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:56:17,407 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:56:22,623 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:56:23,152 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:56:24,467 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:56:26,587 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:56:30,468 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:56:35,857 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:56:36,236 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:56:38,152 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:56:40,713 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:56:44,308 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:56:59,333 - INFO: ✅ Saved analysis for de5m3NWhi-Y
+2025-06-14 21:57:01,975 - INFO: ✅ Saved analysis for BBIX9FG6kZ0
+2025-06-14 21:57:02,317 - INFO: ✅ Saved analysis for DNpd1rAfoCU
+2025-06-14 21:57:03,518 - INFO: ✅ Saved analysis for f8LE9gxtxTY
+2025-06-14 21:57:04,156 - INFO: ✅ Saved analysis for cjiPkaGdbAQ
+2025-06-14 21:57:13,362 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:57:14,781 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:57:15,528 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:57:15,823 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:57:17,928 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:57:28,193 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:57:28,574 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:57:28,649 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:57:30,152 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:57:30,640 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:57:40,525 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:57:40,670 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:57:42,768 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:57:44,493 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:57:45,221 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:58:03,430 - INFO: ✅ Saved analysis for GizRGO3PVD8
+2025-06-14 21:58:04,881 - INFO: ✅ Saved analysis for gKCScoG83SA
+2025-06-14 21:58:05,887 - INFO: ✅ Saved analysis for fdN0GWOtsHQ
+2025-06-14 21:58:08,279 - INFO: ✅ Saved analysis for GtyxWvifru8
+2025-06-14 21:58:09,361 - INFO: ✅ Saved analysis for h4my8CdjU8w
+2025-06-14 21:58:17,252 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 21:58:17,902 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:58:18,508 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:58:22,185 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:58:22,701 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:58:30,687 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:58:30,952 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:58:32,003 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:58:34,849 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:58:35,418 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:58:42,474 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:58:45,422 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:58:45,434 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:58:46,336 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:58:48,986 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 21:59:06,018 - INFO: ✅ Saved analysis for IAIo-pUDl0s
+2025-06-14 21:59:07,396 - INFO: ✅ Saved analysis for h5D5BQM6D-M
+2025-06-14 21:59:08,574 - INFO: ✅ Saved analysis for jzE68RiXbT8
+2025-06-14 21:59:10,613 - INFO: ✅ Saved analysis for jSO-Whn2sCQ
+2025-06-14 21:59:14,823 - INFO: ✅ Saved analysis for M0zdJOM_5Vg
+2025-06-14 21:59:18,163 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:59:19,586 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:59:22,980 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:59:23,782 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:59:28,113 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 21:59:31,747 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:59:32,071 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 21:59:36,965 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 21:59:37,546 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:59:41,323 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 21:59:41,748 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 21:59:46,320 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 21:59:46,729 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 21:59:47,781 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 21:59:54,701 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:00:07,578 - INFO: ✅ Saved analysis for ogLX2heol5E
+2025-06-14 22:00:08,752 - INFO: ✅ Saved analysis for QKZ7asNNhcI
+2025-06-14 22:00:10,881 - INFO: ✅ Saved analysis for qXBsJW4LOCQ
+2025-06-14 22:00:11,287 - INFO: ✅ Saved analysis for mManLnHyyek
+2025-06-14 22:00:21,564 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 22:00:22,173 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:00:22,423 - INFO: ✅ Saved analysis for TQpwONzpcy4
+2025-06-14 22:00:23,635 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 22:00:24,523 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:00:31,892 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 22:00:34,080 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:00:34,180 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:00:35,042 - INFO: Analyzed frame: frame_0016.png
+2025-06-14 22:00:37,300 - INFO: Analyzed frame: frame_0018.png
+2025-06-14 22:00:45,292 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:00:45,530 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:00:45,620 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:00:48,591 - INFO: Analyzed frame: frame_0109.png
+2025-06-14 22:00:50,137 - INFO: Analyzed frame: frame_0013.png
+2025-06-14 22:01:02,399 - INFO: Analyzed frame: frame_0027.png
+2025-06-14 22:01:07,058 - INFO: ✅ Saved analysis for UEx75kcWgxc
+2025-06-14 22:01:10,161 - INFO: ✅ Saved analysis for Tz-ML9Fxx5o
+2025-06-14 22:01:10,161 - INFO: ✅ Saved analysis for wlPM7E8uLJ8
+2025-06-14 22:01:16,451 - INFO: ✅ Saved analysis for VPK_JIM6Hi0
+2025-06-14 22:01:17,483 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:01:29,445 - INFO: ✅ Saved analysis for x_gAb7tLoXM
+2025-06-14 22:01:30,317 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 22:01:42,396 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 22:02:04,521 - INFO: ✅ Saved analysis for yBPQ2rxjD7g
+2025-06-14 22:02:04,523 - INFO: ✅ Analysis completed for 36 videos
+2025-06-14 22:02:34,185 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 22:02:35,039 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:02:35,261 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:02:36,256 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:02:36,516 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:02:46,669 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:02:47,572 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:02:48,452 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:02:48,883 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:02:50,172 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 22:02:57,920 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:03:00,900 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:03:01,854 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 22:03:02,112 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:03:05,015 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:03:22,274 - INFO: ✅ Saved analysis for -QdSFj17Su8
+2025-06-14 22:03:23,036 - INFO: ✅ Saved analysis for 4TEKZo6b11M
+2025-06-14 22:03:25,333 - INFO: ✅ Saved analysis for -x__vh1H0dQ
+2025-06-14 22:03:25,808 - INFO: ✅ Saved analysis for 6rcw6GdCQC8
+2025-06-14 22:03:27,773 - INFO: ✅ Saved analysis for 0XXmCAwO3qg
+2025-06-14 22:03:34,455 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:03:34,681 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:03:37,119 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:03:39,239 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:03:41,788 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:03:45,382 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:03:47,161 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:03:48,142 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 22:03:53,483 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:03:54,868 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:03:57,733 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:03:58,062 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:03:59,982 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 22:04:05,849 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:04:07,616 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:04:15,596 - INFO: ✅ Saved analysis for B4QI0VzbkHk
+2025-06-14 22:04:19,195 - INFO: ✅ Saved analysis for AV8NXzi5Lj0
+2025-06-14 22:04:23,847 - INFO: ✅ Saved analysis for eIUD_NE1BDo
+2025-06-14 22:04:27,790 - INFO: ✅ Saved analysis for CMaispXEh94
+2025-06-14 22:04:28,175 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:04:29,777 - INFO: ✅ Saved analysis for ev82iHoLk8s
+2025-06-14 22:04:31,841 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 22:04:36,783 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:04:40,246 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 22:04:41,376 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:04:41,838 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:04:43,019 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:04:49,713 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:04:52,633 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:04:54,453 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:04:54,741 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 22:04:54,983 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:05:05,707 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:05:06,066 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:05:07,787 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 22:05:18,666 - INFO: ✅ Saved analysis for fwnbHVYgprA
+2025-06-14 22:05:25,270 - INFO: ✅ Saved analysis for Ha8ofuzpriE
+2025-06-14 22:05:28,164 - INFO: ✅ Saved analysis for PqgaQ9WnJSI
+2025-06-14 22:05:30,686 - INFO: ✅ Saved analysis for KM3Yx-5Ymiw
+2025-06-14 22:05:30,686 - WARNING: No metadata found for X5-nAFdvg7c.f614: [Errno 2] No such file or directory: 'data\\raw\\ad_features\\details\\X5-nAFdvg7c.f614_details.json'
+2025-06-14 22:05:32,520 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:05:35,674 - INFO: ✅ Saved analysis for nUC1QA5gRcU
+2025-06-14 22:05:37,449 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:05:40,691 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:05:41,521 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:05:45,434 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:05:47,390 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:05:50,461 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 22:05:53,789 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:05:55,563 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 22:05:56,833 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 22:06:01,615 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:06:02,015 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 22:06:05,732 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:06:05,835 - INFO: ✅ Saved analysis for X5-nAFdvg7c.f614
+2025-06-14 22:06:10,398 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:06:16,600 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:06:16,623 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:06:18,987 - INFO: ✅ Saved analysis for rjZ_O-c3QRw
+2025-06-14 22:06:24,551 - INFO: ✅ Saved analysis for UihVmkDISsg
+2025-06-14 22:06:31,678 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:06:31,985 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:06:35,566 - INFO: ✅ Saved analysis for Vs0YHD0JoCk
+2025-06-14 22:06:38,527 - INFO: Analyzed frame: frame_0014.png
+2025-06-14 22:06:40,706 - INFO: ✅ Saved analysis for YchR7cbFuAU
+2025-06-14 22:06:44,468 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:06:46,120 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:06:49,563 - INFO: Analyzed frame: frame_0017.png
+2025-06-14 22:06:59,513 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 22:07:00,171 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:07:08,546 - INFO: ✅ Saved analysis for YpKYj8edUOg
+2025-06-14 22:07:23,411 - INFO: ✅ Saved analysis for zDHBioJ-jQ8
+2025-06-14 22:07:24,864 - INFO: ✅ Saved analysis for YPV7X8_zKfc
+2025-06-14 22:07:24,866 - INFO: ✅ Analysis completed for 23 videos
+2025-06-14 22:08:02,634 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:08:02,702 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 22:08:02,714 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:08:02,946 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 22:08:03,598 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:08:15,874 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:08:16,097 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 22:08:16,670 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:08:17,158 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:08:17,758 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:08:27,364 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:08:28,573 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:08:30,408 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:08:30,622 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:08:31,691 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:08:51,980 - INFO: ✅ Saved analysis for 1B9LY9zoox0
+2025-06-14 22:08:52,776 - INFO: ✅ Saved analysis for 5L6juLUkwuw
+2025-06-14 22:08:53,520 - INFO: ✅ Saved analysis for 9cEiYQwYLPk
+2025-06-14 22:08:54,507 - INFO: ✅ Saved analysis for 7ZUT9ftBWI8
+2025-06-14 22:08:54,509 - WARNING: No metadata found for dgu5ppBIr9A.f625: [Errno 2] No such file or directory: 'data\\raw\\ad_features\\details\\dgu5ppBIr9A.f625_details.json'
+2025-06-14 22:08:59,038 - INFO: ✅ Saved analysis for 3F1KdZCJ6Vg
+2025-06-14 22:09:05,074 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 22:09:07,259 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:09:07,565 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:09:07,864 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:09:11,846 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:09:18,371 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:09:19,366 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:09:19,425 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:09:20,469 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:09:23,471 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:09:31,221 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 22:09:33,306 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:09:34,245 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:09:35,516 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:09:35,620 - INFO: ✅ Saved analysis for dgu5ppBIr9A.f625
+2025-06-14 22:09:37,829 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:09:49,059 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:09:53,410 - INFO: ✅ Saved analysis for APIMNM5X4jA
+2025-06-14 22:09:59,258 - INFO: ✅ Saved analysis for cIP_Qw7UQyY
+2025-06-14 22:10:00,268 - INFO: ✅ Saved analysis for BkXHqihY4RE
+2025-06-14 22:10:02,221 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:10:02,322 - INFO: ✅ Saved analysis for eB1m-WogYeg
+2025-06-14 22:10:05,479 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:10:12,556 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 22:10:13,133 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 22:10:13,427 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:10:15,361 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:10:17,601 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 22:10:26,530 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:10:26,966 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:10:27,283 - INFO: Analyzed frame: frame_0018.png
+2025-06-14 22:10:30,930 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:10:38,254 - INFO: ✅ Saved analysis for eppEgrmFacQ
+2025-06-14 22:10:41,168 - INFO: Analyzed frame: frame_0016.png
+2025-06-14 22:10:41,336 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:10:41,763 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:10:49,637 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 22:10:56,140 - INFO: ✅ Saved analysis for fIF3ijdpUwI
+2025-06-14 22:10:59,052 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 22:11:05,120 - INFO: ✅ Saved analysis for r2-f-qBcQFs
+2025-06-14 22:11:05,458 - INFO: ✅ Saved analysis for GkDreLMZUns
+2025-06-14 22:11:05,887 - INFO: ✅ Saved analysis for iG0jvqAfiKA
+2025-06-14 22:11:08,038 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:11:12,868 - INFO: Analyzed frame: frame_0013.png
+2025-06-14 22:11:16,506 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:11:17,974 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:11:18,947 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:11:21,618 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:11:30,444 - INFO: ✅ Saved analysis for wtR1kB9RXVo
+2025-06-14 22:11:31,658 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 22:11:33,975 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:11:34,492 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:11:35,860 - INFO: ✅ Saved analysis for T0biHjojjnI
+2025-06-14 22:11:44,070 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:11:45,700 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:11:47,670 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:11:48,563 - INFO: Analyzed frame: frame_0008.png
+2025-06-14 22:11:57,959 - INFO: ✅ Saved analysis for vDHNMqOLw_o
+2025-06-14 22:11:58,967 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 22:12:00,878 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:12:07,082 - INFO: ✅ Saved analysis for XgiRUoIsr3E
+2025-06-14 22:12:08,405 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:12:10,052 - INFO: ✅ Saved analysis for XelsNvpibpQ
+2025-06-14 22:12:11,239 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:12:11,266 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:12:19,108 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:12:19,504 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:12:29,912 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:12:31,885 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:12:32,614 - INFO: ✅ Saved analysis for yfLz54hzpPs
+2025-06-14 22:12:36,927 - INFO: ✅ Saved analysis for xxNxqveseyI
+2025-06-14 22:12:41,768 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:12:57,517 - INFO: ✅ Saved analysis for zN8naTqX3TI
+2025-06-14 22:13:03,299 - INFO: ✅ Saved analysis for _nwSmOEiDls
+2025-06-14 22:13:03,301 - INFO: ✅ Analysis completed for 24 videos
+2025-06-14 22:23:21,895 - INFO: Analyzed frame: frame_0007.png
+2025-06-14 22:23:23,270 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:23:23,598 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:23:23,813 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:23:24,525 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 22:23:33,533 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:23:35,434 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:23:35,434 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:23:36,149 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:23:39,631 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:23:45,393 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 22:23:46,297 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:23:47,900 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:23:49,315 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:23:54,427 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:24:11,898 - INFO: ✅ Saved analysis for 9Yp0yN8UxVg
+2025-06-14 22:24:11,899 - INFO: ✅ Saved analysis for 8btMI_N8v8U
+2025-06-14 22:24:13,781 - INFO: ✅ Saved analysis for 62EB4JniuTc
+2025-06-14 22:24:15,306 - INFO: ✅ Saved analysis for 7BgcG_l9J0A
+2025-06-14 22:24:15,306 - WARNING: No metadata found for cXw4sQJINgo.f614: [Errno 2] No such file or directory: 'data\\raw\\ad_features\\details\\cXw4sQJINgo.f614_details.json'
+2025-06-14 22:24:18,064 - INFO: ✅ Saved analysis for -gAZRN3SCBw
+2025-06-14 22:24:24,496 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 22:24:28,333 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 22:24:30,017 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:24:31,104 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:24:31,629 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:24:38,722 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 22:24:41,482 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:24:43,156 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:24:44,693 - INFO: Analyzed frame: frame_0013.png
+2025-06-14 22:24:47,642 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:24:52,425 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:24:53,077 - INFO: Analyzed frame: frame_0010.png
+2025-06-14 22:24:58,130 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:24:58,235 - INFO: ✅ Saved analysis for cXw4sQJINgo.f614
+2025-06-14 22:24:58,409 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 22:24:58,411 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:25:12,354 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:25:16,074 - INFO: ✅ Saved analysis for ANarZ_113Xc
+2025-06-14 22:25:16,898 - INFO: ✅ Saved analysis for B5lslSPfhkg
+2025-06-14 22:25:22,092 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:25:23,192 - INFO: ✅ Saved analysis for D1dnw4t23P8
+2025-06-14 22:25:23,202 - INFO: ✅ Saved analysis for Cdpf1Dl5b_4
+2025-06-14 22:25:27,424 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:25:29,922 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:25:33,509 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:25:36,819 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:25:38,117 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:25:39,585 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:25:42,440 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:25:50,403 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:25:50,854 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:25:52,287 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:25:54,313 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:25:55,671 - INFO: ✅ Saved analysis for EjVUaAT1Ftc
+2025-06-14 22:26:03,474 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:26:03,668 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:26:09,537 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:26:14,975 - INFO: ✅ Saved analysis for jct5PVDDUtc
+2025-06-14 22:26:16,605 - INFO: ✅ Saved analysis for gckObDeYpAA
+2025-06-14 22:26:22,443 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:26:25,318 - INFO: ✅ Saved analysis for m4sVnOsXlAA
+2025-06-14 22:26:26,298 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:26:29,016 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:26:31,156 - INFO: ✅ Saved analysis for lTL3OZkVMHQ
+2025-06-14 22:26:34,186 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:26:36,008 - INFO: Analyzed frame: frame_0015.png
+2025-06-14 22:26:38,680 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:26:41,608 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:26:43,252 - INFO: Analyzed frame: frame_0005.png
+2025-06-14 22:26:48,230 - INFO: Analyzed frame: frame_0014.png
+2025-06-14 22:26:51,687 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:26:52,158 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:26:55,818 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:27:01,671 - INFO: ✅ Saved analysis for mi5RoP1-8-I
+2025-06-14 22:27:01,802 - INFO: Analyzed frame: frame_0025.png
+2025-06-14 22:27:07,766 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:27:12,348 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:27:15,142 - INFO: ✅ Saved analysis for MoVpgtAJHfU
+2025-06-14 22:27:17,298 - INFO: ✅ Saved analysis for NSmkA7hcNjs
+2025-06-14 22:27:23,282 - INFO: Analyzed frame: frame_0001.png
+2025-06-14 22:27:27,092 - INFO: Analyzed frame: frame_0003.png
+2025-06-14 22:27:27,396 - INFO: ✅ Saved analysis for pHYiE4W4EO8
+2025-06-14 22:27:28,470 - INFO: Analyzed frame: frame_0012.png
+2025-06-14 22:27:32,154 - INFO: ✅ Saved analysis for pPZDV1eCI0c
+2025-06-14 22:27:35,019 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:27:40,234 - INFO: Analyzed frame: frame_0013.png
+2025-06-14 22:27:40,672 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 22:27:40,856 - INFO: Analyzed frame: frame_0002.png
+2025-06-14 22:27:49,192 - INFO: Analyzed frame: frame_0009.png
+2025-06-14 22:27:50,469 - INFO: Analyzed frame: frame_0006.png
+2025-06-14 22:27:52,336 - INFO: Analyzed frame: frame_0011.png
+2025-06-14 22:27:59,978 - INFO: ✅ Saved analysis for SAYJqf6Bjio
+2025-06-14 22:28:04,019 - INFO: Analyzed frame: frame_0004.png
+2025-06-14 22:28:12,588 - INFO: ✅ Saved analysis for U7h6Vls-uO8
+2025-06-14 22:28:15,550 - INFO: ✅ Saved analysis for tHoYKy1GMgM
+2025-06-14 22:28:26,598 - INFO: ✅ Saved analysis for yHz3lJq1Vu0
+2025-06-14 22:28:26,600 - INFO: ✅ Analysis completed for 24 videos

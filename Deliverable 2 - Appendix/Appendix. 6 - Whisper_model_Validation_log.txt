@@ -1,0 +1,1082 @@
+2025-06-14 19:23:18,385 - INFO: Using device: cuda
+2025-06-14 19:23:18,386 - INFO: Loading large model
+2025-06-14 19:25:23,567 - INFO: Processing audio: D:\youtube_vedio\2025\processed\-7e6g11BJc0\audio.mp3
+2025-06-14 19:25:23,567 - INFO: Using device: cuda
+2025-06-14 19:27:49,740 - INFO: Using device: cuda
+2025-06-14 19:27:49,740 - INFO: Loading large model
+2025-06-14 19:28:02,125 - INFO: Processing audio: D:\youtube_vedio\2025\processed\-7e6g11BJc0\audio.mp3
+2025-06-14 19:28:02,126 - INFO: Using device: cuda
+2025-06-14 19:28:19,854 - INFO: Using device: cuda
+2025-06-14 19:28:19,855 - INFO: Loading large model
+2025-06-14 19:28:34,127 - INFO: Processing audio: D:\youtube_vedio\2025\processed\-7e6g11BJc0\audio.mp3
+2025-06-14 19:28:34,129 - INFO: Using device: cuda
+2025-06-14 19:29:05,899 - INFO: Using device: cuda
+2025-06-14 19:29:05,899 - INFO: Loading medium model
+2025-06-14 19:29:57,747 - INFO: Processing audio: D:\youtube_vedio\2025\processed\-7e6g11BJc0\audio.mp3
+2025-06-14 19:29:57,747 - INFO: Using device: cuda
+2025-06-14 19:30:13,322 - INFO: Transcription time: 15.58 seconds
+2025-06-14 19:30:14,314 - INFO: Full text saved: D:\youtube_vedio\2025\processed\-7e6g11BJc0\-7e6g11BJc0_transcript.txt
+2025-06-14 19:30:14,316 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\-7e6g11BJc0\-7e6g11BJc0_transcript.srt
+2025-06-14 19:30:14,317 - INFO: Processing audio: D:\youtube_vedio\2025\processed\-cqwXxUo_q8\audio.mp3
+2025-06-14 19:30:14,317 - INFO: Using device: cuda
+2025-06-14 19:30:18,214 - INFO: Transcription time: 3.90 seconds
+2025-06-14 19:30:18,316 - INFO: Full text saved: D:\youtube_vedio\2025\processed\-cqwXxUo_q8\-cqwXxUo_q8_transcript.txt
+2025-06-14 19:30:18,320 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\-cqwXxUo_q8\-cqwXxUo_q8_transcript.srt
+2025-06-14 19:30:18,320 - INFO: Processing audio: D:\youtube_vedio\2025\processed\-vmJfJVRyA0\audio.mp3
+2025-06-14 19:30:18,321 - INFO: Using device: cuda
+2025-06-14 19:30:22,625 - INFO: Transcription time: 4.30 seconds
+2025-06-14 19:30:22,727 - INFO: Full text saved: D:\youtube_vedio\2025\processed\-vmJfJVRyA0\-vmJfJVRyA0_transcript.txt
+2025-06-14 19:30:22,729 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\-vmJfJVRyA0\-vmJfJVRyA0_transcript.srt
+2025-06-14 19:30:22,730 - INFO: Processing audio: D:\youtube_vedio\2025\processed\0x-nGdi_3_o\audio.mp3
+2025-06-14 19:30:22,731 - INFO: Using device: cuda
+2025-06-14 19:30:24,848 - INFO: Transcription time: 2.12 seconds
+2025-06-14 19:30:24,949 - INFO: Full text saved: D:\youtube_vedio\2025\processed\0x-nGdi_3_o\0x-nGdi_3_o_transcript.txt
+2025-06-14 19:30:24,952 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\0x-nGdi_3_o\0x-nGdi_3_o_transcript.srt
+2025-06-14 19:30:24,952 - INFO: Processing audio: D:\youtube_vedio\2025\processed\1WnJyyyec1g\audio.mp3
+2025-06-14 19:30:24,953 - INFO: Using device: cuda
+2025-06-14 19:30:31,996 - INFO: Transcription time: 7.04 seconds
+2025-06-14 19:30:32,097 - INFO: Full text saved: D:\youtube_vedio\2025\processed\1WnJyyyec1g\1WnJyyyec1g_transcript.txt
+2025-06-14 19:30:32,099 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\1WnJyyyec1g\1WnJyyyec1g_transcript.srt
+2025-06-14 19:30:32,100 - INFO: Processing audio: D:\youtube_vedio\2025\processed\2cK-v7sSiUI\audio.mp3
+2025-06-14 19:30:32,100 - INFO: Using device: cuda
+2025-06-14 19:30:42,129 - INFO: Transcription time: 10.03 seconds
+2025-06-14 19:30:42,229 - INFO: Full text saved: D:\youtube_vedio\2025\processed\2cK-v7sSiUI\2cK-v7sSiUI_transcript.txt
+2025-06-14 19:30:42,230 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\2cK-v7sSiUI\2cK-v7sSiUI_transcript.srt
+2025-06-14 19:30:42,231 - INFO: Processing audio: D:\youtube_vedio\2025\processed\4LDn46rb_gc\audio.mp3
+2025-06-14 19:30:42,231 - INFO: Using device: cuda
+2025-06-14 19:30:51,710 - INFO: Transcription time: 9.48 seconds
+2025-06-14 19:30:51,812 - INFO: Full text saved: D:\youtube_vedio\2025\processed\4LDn46rb_gc\4LDn46rb_gc_transcript.txt
+2025-06-14 19:30:51,814 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\4LDn46rb_gc\4LDn46rb_gc_transcript.srt
+2025-06-14 19:30:51,815 - INFO: Processing audio: D:\youtube_vedio\2025\processed\62-rXriXL3Q\audio.mp3
+2025-06-14 19:30:51,816 - INFO: Using device: cuda
+2025-06-14 19:30:54,302 - INFO: Transcription time: 2.49 seconds
+2025-06-14 19:30:54,404 - INFO: Full text saved: D:\youtube_vedio\2025\processed\62-rXriXL3Q\62-rXriXL3Q_transcript.txt
+2025-06-14 19:30:54,406 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\62-rXriXL3Q\62-rXriXL3Q_transcript.srt
+2025-06-14 19:30:54,406 - INFO: Processing audio: D:\youtube_vedio\2025\processed\6g3s16dPsik\audio.mp3
+2025-06-14 19:30:54,407 - INFO: Using device: cuda
+2025-06-14 19:30:59,769 - INFO: Transcription time: 5.36 seconds
+2025-06-14 19:30:59,871 - INFO: Full text saved: D:\youtube_vedio\2025\processed\6g3s16dPsik\6g3s16dPsik_transcript.txt
+2025-06-14 19:30:59,873 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\6g3s16dPsik\6g3s16dPsik_transcript.srt
+2025-06-14 19:30:59,874 - INFO: Processing audio: D:\youtube_vedio\2025\processed\82msI_KFp9M\audio.mp3
+2025-06-14 19:30:59,874 - INFO: Using device: cuda
+2025-06-14 19:31:09,142 - INFO: Transcription time: 9.27 seconds
+2025-06-14 19:31:09,244 - INFO: Full text saved: D:\youtube_vedio\2025\processed\82msI_KFp9M\82msI_KFp9M_transcript.txt
+2025-06-14 19:31:09,245 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\82msI_KFp9M\82msI_KFp9M_transcript.srt
+2025-06-14 19:31:09,245 - INFO: Processing audio: D:\youtube_vedio\2025\processed\AOxm8LmH7Y4\audio.mp3
+2025-06-14 19:31:09,246 - INFO: Using device: cuda
+2025-06-14 19:31:14,564 - INFO: Transcription time: 5.32 seconds
+2025-06-14 19:31:14,665 - INFO: Full text saved: D:\youtube_vedio\2025\processed\AOxm8LmH7Y4\AOxm8LmH7Y4_transcript.txt
+2025-06-14 19:31:14,666 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\AOxm8LmH7Y4\AOxm8LmH7Y4_transcript.srt
+2025-06-14 19:31:14,666 - INFO: Processing audio: D:\youtube_vedio\2025\processed\a_-AqDbYOtM\audio.mp3
+2025-06-14 19:31:14,666 - INFO: Using device: cuda
+2025-06-14 19:31:16,941 - INFO: Transcription time: 2.27 seconds
+2025-06-14 19:31:17,043 - INFO: Full text saved: D:\youtube_vedio\2025\processed\a_-AqDbYOtM\a_-AqDbYOtM_transcript.txt
+2025-06-14 19:31:17,045 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\a_-AqDbYOtM\a_-AqDbYOtM_transcript.srt
+2025-06-14 19:31:17,045 - INFO: Processing audio: D:\youtube_vedio\2025\processed\b0Ezn5pZE7o\audio.mp3
+2025-06-14 19:31:17,045 - INFO: Using device: cuda
+2025-06-14 19:31:46,185 - INFO: Transcription time: 29.14 seconds
+2025-06-14 19:31:46,286 - INFO: Full text saved: D:\youtube_vedio\2025\processed\b0Ezn5pZE7o\b0Ezn5pZE7o_transcript.txt
+2025-06-14 19:31:46,288 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\b0Ezn5pZE7o\b0Ezn5pZE7o_transcript.srt
+2025-06-14 19:31:46,288 - INFO: Processing audio: D:\youtube_vedio\2025\processed\eAJW_-i4-kc\audio.mp3
+2025-06-14 19:31:46,288 - INFO: Using device: cuda
+2025-06-14 19:31:51,052 - INFO: Transcription time: 4.76 seconds
+2025-06-14 19:31:51,153 - INFO: Full text saved: D:\youtube_vedio\2025\processed\eAJW_-i4-kc\eAJW_-i4-kc_transcript.txt
+2025-06-14 19:31:51,155 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\eAJW_-i4-kc\eAJW_-i4-kc_transcript.srt
+2025-06-14 19:31:51,156 - INFO: Processing audio: D:\youtube_vedio\2025\processed\EFkCnzboCEM\audio.mp3
+2025-06-14 19:31:51,156 - INFO: Using device: cuda
+2025-06-14 19:31:56,358 - INFO: Transcription time: 5.20 seconds
+2025-06-14 19:31:56,461 - INFO: Full text saved: D:\youtube_vedio\2025\processed\EFkCnzboCEM\EFkCnzboCEM_transcript.txt
+2025-06-14 19:31:56,462 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\EFkCnzboCEM\EFkCnzboCEM_transcript.srt
+2025-06-14 19:31:56,463 - INFO: Processing audio: D:\youtube_vedio\2025\processed\EZqmBcqDkyw\audio.mp3
+2025-06-14 19:31:56,463 - INFO: Using device: cuda
+2025-06-14 19:32:00,197 - INFO: Transcription time: 3.73 seconds
+2025-06-14 19:32:00,300 - INFO: Full text saved: D:\youtube_vedio\2025\processed\EZqmBcqDkyw\EZqmBcqDkyw_transcript.txt
+2025-06-14 19:32:00,302 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\EZqmBcqDkyw\EZqmBcqDkyw_transcript.srt
+2025-06-14 19:32:00,302 - INFO: Processing audio: D:\youtube_vedio\2025\processed\GAoeGC-eL4I\audio.mp3
+2025-06-14 19:32:00,303 - INFO: Using device: cuda
+2025-06-14 19:32:13,323 - INFO: Transcription time: 13.02 seconds
+2025-06-14 19:32:13,324 - INFO: Full text saved: D:\youtube_vedio\2025\processed\GAoeGC-eL4I\GAoeGC-eL4I_transcript.txt
+2025-06-14 19:32:13,326 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\GAoeGC-eL4I\GAoeGC-eL4I_transcript.srt
+2025-06-14 19:32:13,326 - INFO: Processing audio: D:\youtube_vedio\2025\processed\gmzklpZFNiE\audio.mp3
+2025-06-14 19:32:13,327 - INFO: Using device: cuda
+2025-06-14 19:32:25,288 - INFO: Transcription time: 11.96 seconds
+2025-06-14 19:32:25,390 - INFO: Full text saved: D:\youtube_vedio\2025\processed\gmzklpZFNiE\gmzklpZFNiE_transcript.txt
+2025-06-14 19:32:25,392 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\gmzklpZFNiE\gmzklpZFNiE_transcript.srt
+2025-06-14 19:32:25,393 - INFO: Processing audio: D:\youtube_vedio\2025\processed\gqxwX1ZYg58\audio.mp3
+2025-06-14 19:32:25,393 - INFO: Using device: cuda
+2025-06-14 19:32:32,081 - INFO: Transcription time: 6.69 seconds
+2025-06-14 19:32:32,183 - INFO: Full text saved: D:\youtube_vedio\2025\processed\gqxwX1ZYg58\gqxwX1ZYg58_transcript.txt
+2025-06-14 19:32:32,186 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\gqxwX1ZYg58\gqxwX1ZYg58_transcript.srt
+2025-06-14 19:32:32,186 - INFO: Processing audio: D:\youtube_vedio\2025\processed\GxH8dlWyjNU\audio.mp3
+2025-06-14 19:32:32,187 - INFO: Using device: cuda
+2025-06-14 19:32:35,890 - INFO: Transcription time: 3.70 seconds
+2025-06-14 19:32:35,991 - INFO: Full text saved: D:\youtube_vedio\2025\processed\GxH8dlWyjNU\GxH8dlWyjNU_transcript.txt
+2025-06-14 19:32:35,994 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\GxH8dlWyjNU\GxH8dlWyjNU_transcript.srt
+2025-06-14 19:32:35,995 - INFO: Processing audio: D:\youtube_vedio\2025\processed\h0DQWw26bSg\audio.mp3
+2025-06-14 19:32:35,995 - INFO: Using device: cuda
+2025-06-14 19:32:41,217 - INFO: Transcription time: 5.22 seconds
+2025-06-14 19:32:41,318 - INFO: Full text saved: D:\youtube_vedio\2025\processed\h0DQWw26bSg\h0DQWw26bSg_transcript.txt
+2025-06-14 19:32:41,320 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\h0DQWw26bSg\h0DQWw26bSg_transcript.srt
+2025-06-14 19:32:41,321 - INFO: Processing audio: D:\youtube_vedio\2025\processed\haYFuGljJ_M\audio.mp3
+2025-06-14 19:32:41,322 - INFO: Using device: cuda
+2025-06-14 19:32:44,637 - INFO: Transcription time: 3.31 seconds
+2025-06-14 19:32:44,740 - INFO: Full text saved: D:\youtube_vedio\2025\processed\haYFuGljJ_M\haYFuGljJ_M_transcript.txt
+2025-06-14 19:32:44,743 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\haYFuGljJ_M\haYFuGljJ_M_transcript.srt
+2025-06-14 19:32:44,744 - INFO: Processing audio: D:\youtube_vedio\2025\processed\hKBxN5Fllhg\audio.mp3
+2025-06-14 19:32:44,745 - INFO: Using device: cuda
+2025-06-14 19:32:51,834 - INFO: Transcription time: 7.09 seconds
+2025-06-14 19:32:51,935 - INFO: Full text saved: D:\youtube_vedio\2025\processed\hKBxN5Fllhg\hKBxN5Fllhg_transcript.txt
+2025-06-14 19:32:51,937 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\hKBxN5Fllhg\hKBxN5Fllhg_transcript.srt
+2025-06-14 19:32:51,939 - INFO: Processing audio: D:\youtube_vedio\2025\processed\HLw6ZovMpLI\audio.mp3
+2025-06-14 19:32:51,939 - INFO: Using device: cuda
+2025-06-14 19:32:58,330 - INFO: Transcription time: 6.39 seconds
+2025-06-14 19:32:58,432 - INFO: Full text saved: D:\youtube_vedio\2025\processed\HLw6ZovMpLI\HLw6ZovMpLI_transcript.txt
+2025-06-14 19:32:58,434 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\HLw6ZovMpLI\HLw6ZovMpLI_transcript.srt
+2025-06-14 19:32:58,435 - INFO: Processing audio: D:\youtube_vedio\2025\processed\hUUszE29jS0\audio.mp3
+2025-06-14 19:32:58,435 - INFO: Using device: cuda
+2025-06-14 19:33:10,820 - INFO: Transcription time: 12.38 seconds
+2025-06-14 19:33:10,921 - INFO: Full text saved: D:\youtube_vedio\2025\processed\hUUszE29jS0\hUUszE29jS0_transcript.txt
+2025-06-14 19:33:10,922 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\hUUszE29jS0\hUUszE29jS0_transcript.srt
+2025-06-14 19:33:10,922 - INFO: Processing audio: D:\youtube_vedio\2025\processed\I7KfNlBA9mo\audio.mp3
+2025-06-14 19:33:10,922 - INFO: Using device: cuda
+2025-06-14 19:33:14,382 - INFO: Transcription time: 3.46 seconds
+2025-06-14 19:33:14,483 - INFO: Full text saved: D:\youtube_vedio\2025\processed\I7KfNlBA9mo\I7KfNlBA9mo_transcript.txt
+2025-06-14 19:33:14,485 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\I7KfNlBA9mo\I7KfNlBA9mo_transcript.srt
+2025-06-14 19:33:14,485 - INFO: Processing audio: D:\youtube_vedio\2025\processed\iOXWmZbA2Io\audio.mp3
+2025-06-14 19:33:14,486 - INFO: Using device: cuda
+2025-06-14 19:33:23,067 - INFO: Transcription time: 8.58 seconds
+2025-06-14 19:33:23,169 - INFO: Full text saved: D:\youtube_vedio\2025\processed\iOXWmZbA2Io\iOXWmZbA2Io_transcript.txt
+2025-06-14 19:33:23,171 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\iOXWmZbA2Io\iOXWmZbA2Io_transcript.srt
+2025-06-14 19:33:23,173 - INFO: Processing audio: D:\youtube_vedio\2025\processed\jqtWWWhIMas\audio.mp3
+2025-06-14 19:33:23,173 - INFO: Using device: cuda
+2025-06-14 19:33:33,588 - INFO: Transcription time: 10.41 seconds
+2025-06-14 19:33:33,690 - INFO: Full text saved: D:\youtube_vedio\2025\processed\jqtWWWhIMas\jqtWWWhIMas_transcript.txt
+2025-06-14 19:33:33,691 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\jqtWWWhIMas\jqtWWWhIMas_transcript.srt
+2025-06-14 19:33:33,691 - INFO: Processing audio: D:\youtube_vedio\2025\processed\K0iKgJXy_gk\audio.mp3
+2025-06-14 19:33:33,691 - INFO: Using device: cuda
+2025-06-14 19:33:38,790 - INFO: Transcription time: 5.10 seconds
+2025-06-14 19:33:38,893 - INFO: Full text saved: D:\youtube_vedio\2025\processed\K0iKgJXy_gk\K0iKgJXy_gk_transcript.txt
+2025-06-14 19:33:38,895 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\K0iKgJXy_gk\K0iKgJXy_gk_transcript.srt
+2025-06-14 19:33:38,896 - INFO: Processing audio: D:\youtube_vedio\2025\processed\K2Gj9BufAqo\audio.mp3
+2025-06-14 19:33:38,896 - INFO: Using device: cuda
+2025-06-14 19:33:44,731 - INFO: Transcription time: 5.83 seconds
+2025-06-14 19:33:44,833 - INFO: Full text saved: D:\youtube_vedio\2025\processed\K2Gj9BufAqo\K2Gj9BufAqo_transcript.txt
+2025-06-14 19:33:44,836 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\K2Gj9BufAqo\K2Gj9BufAqo_transcript.srt
+2025-06-14 19:33:44,836 - INFO: Processing audio: D:\youtube_vedio\2025\processed\kIhb5pEo_j0\audio.mp3
+2025-06-14 19:33:44,837 - INFO: Using device: cuda
+2025-06-14 19:33:47,164 - INFO: Transcription time: 2.33 seconds
+2025-06-14 19:33:47,265 - INFO: Full text saved: D:\youtube_vedio\2025\processed\kIhb5pEo_j0\kIhb5pEo_j0_transcript.txt
+2025-06-14 19:33:47,268 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\kIhb5pEo_j0\kIhb5pEo_j0_transcript.srt
+2025-06-14 19:33:47,268 - INFO: Processing audio: D:\youtube_vedio\2025\processed\laBjQ9uJDg8\audio.mp3
+2025-06-14 19:33:47,268 - INFO: Using device: cuda
+2025-06-14 19:33:54,159 - INFO: Transcription time: 6.89 seconds
+2025-06-14 19:33:54,260 - INFO: Full text saved: D:\youtube_vedio\2025\processed\laBjQ9uJDg8\laBjQ9uJDg8_transcript.txt
+2025-06-14 19:33:54,263 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\laBjQ9uJDg8\laBjQ9uJDg8_transcript.srt
+2025-06-14 19:33:54,264 - INFO: Processing audio: D:\youtube_vedio\2025\processed\LC5V4aIoWes\audio.mp3
+2025-06-14 19:33:54,265 - INFO: Using device: cuda
+2025-06-14 19:34:03,494 - INFO: Transcription time: 9.23 seconds
+2025-06-14 19:34:03,596 - INFO: Full text saved: D:\youtube_vedio\2025\processed\LC5V4aIoWes\LC5V4aIoWes_transcript.txt
+2025-06-14 19:34:03,599 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\LC5V4aIoWes\LC5V4aIoWes_transcript.srt
+2025-06-14 19:34:03,599 - INFO: Processing audio: D:\youtube_vedio\2025\processed\Mc-XvA9sNKU\audio.mp3
+2025-06-14 19:34:03,600 - INFO: Using device: cuda
+2025-06-14 19:34:08,289 - INFO: Transcription time: 4.69 seconds
+2025-06-14 19:34:08,391 - INFO: Full text saved: D:\youtube_vedio\2025\processed\Mc-XvA9sNKU\Mc-XvA9sNKU_transcript.txt
+2025-06-14 19:34:08,392 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\Mc-XvA9sNKU\Mc-XvA9sNKU_transcript.srt
+2025-06-14 19:34:08,393 - INFO: Processing audio: D:\youtube_vedio\2025\processed\MgAAbLN7bcE\audio.mp3
+2025-06-14 19:34:08,393 - INFO: Using device: cuda
+2025-06-14 19:34:09,853 - INFO: Transcription time: 1.46 seconds
+2025-06-14 19:34:09,955 - INFO: Full text saved: D:\youtube_vedio\2025\processed\MgAAbLN7bcE\MgAAbLN7bcE_transcript.txt
+2025-06-14 19:34:09,959 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\MgAAbLN7bcE\MgAAbLN7bcE_transcript.srt
+2025-06-14 19:34:09,960 - INFO: Processing audio: D:\youtube_vedio\2025\processed\nVUPazjaHl8\audio.mp3
+2025-06-14 19:34:09,961 - INFO: Using device: cuda
+2025-06-14 19:34:12,521 - INFO: Transcription time: 2.56 seconds
+2025-06-14 19:34:12,621 - INFO: Full text saved: D:\youtube_vedio\2025\processed\nVUPazjaHl8\nVUPazjaHl8_transcript.txt
+2025-06-14 19:34:12,623 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\nVUPazjaHl8\nVUPazjaHl8_transcript.srt
+2025-06-14 19:34:12,623 - INFO: Processing audio: D:\youtube_vedio\2025\processed\nwcZ2dxPUo0\audio.mp3
+2025-06-14 19:34:12,623 - INFO: Using device: cuda
+2025-06-14 19:34:14,273 - INFO: Transcription time: 1.65 seconds
+2025-06-14 19:34:14,373 - INFO: Full text saved: D:\youtube_vedio\2025\processed\nwcZ2dxPUo0\nwcZ2dxPUo0_transcript.txt
+2025-06-14 19:34:14,375 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\nwcZ2dxPUo0\nwcZ2dxPUo0_transcript.srt
+2025-06-14 19:34:14,375 - INFO: Processing audio: D:\youtube_vedio\2025\processed\of3GixFUGfI\audio.mp3
+2025-06-14 19:34:14,376 - INFO: Using device: cuda
+2025-06-14 19:34:17,962 - INFO: Transcription time: 3.59 seconds
+2025-06-14 19:34:18,064 - INFO: Full text saved: D:\youtube_vedio\2025\processed\of3GixFUGfI\of3GixFUGfI_transcript.txt
+2025-06-14 19:34:18,067 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\of3GixFUGfI\of3GixFUGfI_transcript.srt
+2025-06-14 19:34:18,068 - INFO: Processing audio: D:\youtube_vedio\2025\processed\RIXB-7RHjBY\audio.mp3
+2025-06-14 19:34:18,069 - INFO: Using device: cuda
+2025-06-14 19:34:22,986 - INFO: Transcription time: 4.92 seconds
+2025-06-14 19:34:23,088 - INFO: Full text saved: D:\youtube_vedio\2025\processed\RIXB-7RHjBY\RIXB-7RHjBY_transcript.txt
+2025-06-14 19:34:23,091 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\RIXB-7RHjBY\RIXB-7RHjBY_transcript.srt
+2025-06-14 19:34:23,092 - INFO: Processing audio: D:\youtube_vedio\2025\processed\rnbrFm-B3QI\audio.mp3
+2025-06-14 19:34:23,092 - INFO: Using device: cuda
+2025-06-14 19:34:26,190 - INFO: Transcription time: 3.10 seconds
+2025-06-14 19:34:26,294 - INFO: Full text saved: D:\youtube_vedio\2025\processed\rnbrFm-B3QI\rnbrFm-B3QI_transcript.txt
+2025-06-14 19:34:26,297 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\rnbrFm-B3QI\rnbrFm-B3QI_transcript.srt
+2025-06-14 19:34:26,298 - INFO: Processing audio: D:\youtube_vedio\2025\processed\Rp2qgvIbirI\audio.mp3
+2025-06-14 19:34:26,298 - INFO: Using device: cuda
+2025-06-14 19:34:28,709 - INFO: Transcription time: 2.41 seconds
+2025-06-14 19:34:28,810 - INFO: Full text saved: D:\youtube_vedio\2025\processed\Rp2qgvIbirI\Rp2qgvIbirI_transcript.txt
+2025-06-14 19:34:28,812 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\Rp2qgvIbirI\Rp2qgvIbirI_transcript.srt
+2025-06-14 19:34:28,812 - INFO: Processing audio: D:\youtube_vedio\2025\processed\rzJPAqhIbXw\audio.mp3
+2025-06-14 19:34:28,812 - INFO: Using device: cuda
+2025-06-14 19:34:37,033 - INFO: Transcription time: 8.22 seconds
+2025-06-14 19:34:37,134 - INFO: Full text saved: D:\youtube_vedio\2025\processed\rzJPAqhIbXw\rzJPAqhIbXw_transcript.txt
+2025-06-14 19:34:37,136 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\rzJPAqhIbXw\rzJPAqhIbXw_transcript.srt
+2025-06-14 19:34:37,136 - INFO: Processing audio: D:\youtube_vedio\2025\processed\sIAnQwiCpRc\audio.mp3
+2025-06-14 19:34:37,136 - INFO: Using device: cuda
+2025-06-14 19:34:39,042 - INFO: Transcription time: 1.90 seconds
+2025-06-14 19:34:39,144 - INFO: Full text saved: D:\youtube_vedio\2025\processed\sIAnQwiCpRc\sIAnQwiCpRc_transcript.txt
+2025-06-14 19:34:39,145 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\sIAnQwiCpRc\sIAnQwiCpRc_transcript.srt
+2025-06-14 19:34:39,146 - INFO: Processing audio: D:\youtube_vedio\2025\processed\SvcpZ-GuOgo\audio.mp3
+2025-06-14 19:34:39,146 - INFO: Using device: cuda
+2025-06-14 19:34:40,571 - INFO: Transcription time: 1.42 seconds
+2025-06-14 19:34:40,671 - INFO: Full text saved: D:\youtube_vedio\2025\processed\SvcpZ-GuOgo\SvcpZ-GuOgo_transcript.txt
+2025-06-14 19:34:40,673 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\SvcpZ-GuOgo\SvcpZ-GuOgo_transcript.srt
+2025-06-14 19:34:40,674 - INFO: Processing audio: D:\youtube_vedio\2025\processed\TTppVzG8gpU\audio.mp3
+2025-06-14 19:34:40,674 - INFO: Using device: cuda
+2025-06-14 19:34:42,202 - INFO: Transcription time: 1.53 seconds
+2025-06-14 19:34:42,303 - INFO: Full text saved: D:\youtube_vedio\2025\processed\TTppVzG8gpU\TTppVzG8gpU_transcript.txt
+2025-06-14 19:34:42,304 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\TTppVzG8gpU\TTppVzG8gpU_transcript.srt
+2025-06-14 19:34:42,304 - INFO: Processing audio: D:\youtube_vedio\2025\processed\tU_vZpbnYF4\audio.mp3
+2025-06-14 19:34:42,306 - INFO: Using device: cuda
+2025-06-14 19:34:59,445 - INFO: Transcription time: 17.14 seconds
+2025-06-14 19:34:59,547 - INFO: Full text saved: D:\youtube_vedio\2025\processed\tU_vZpbnYF4\tU_vZpbnYF4_transcript.txt
+2025-06-14 19:34:59,550 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\tU_vZpbnYF4\tU_vZpbnYF4_transcript.srt
+2025-06-14 19:34:59,551 - INFO: Processing audio: D:\youtube_vedio\2025\processed\vAbLsQGygmc\audio.mp3
+2025-06-14 19:34:59,551 - INFO: Using device: cuda
+2025-06-14 19:35:04,237 - INFO: Transcription time: 4.69 seconds
+2025-06-14 19:35:04,339 - INFO: Full text saved: D:\youtube_vedio\2025\processed\vAbLsQGygmc\vAbLsQGygmc_transcript.txt
+2025-06-14 19:35:04,342 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\vAbLsQGygmc\vAbLsQGygmc_transcript.srt
+2025-06-14 19:35:04,344 - INFO: Processing audio: D:\youtube_vedio\2025\processed\W5VzQ8OV3X0\audio.mp3
+2025-06-14 19:35:04,344 - INFO: Using device: cuda
+2025-06-14 19:35:17,068 - INFO: Transcription time: 12.72 seconds
+2025-06-14 19:35:17,169 - INFO: Full text saved: D:\youtube_vedio\2025\processed\W5VzQ8OV3X0\W5VzQ8OV3X0_transcript.txt
+2025-06-14 19:35:17,172 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\W5VzQ8OV3X0\W5VzQ8OV3X0_transcript.srt
+2025-06-14 19:35:17,173 - INFO: Processing audio: D:\youtube_vedio\2025\processed\wNLhMZuA00c\audio.mp3
+2025-06-14 19:35:17,174 - INFO: Using device: cuda
+2025-06-14 19:35:28,547 - INFO: Transcription time: 11.37 seconds
+2025-06-14 19:35:28,648 - INFO: Full text saved: D:\youtube_vedio\2025\processed\wNLhMZuA00c\wNLhMZuA00c_transcript.txt
+2025-06-14 19:35:28,650 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\wNLhMZuA00c\wNLhMZuA00c_transcript.srt
+2025-06-14 19:35:28,651 - INFO: Processing audio: D:\youtube_vedio\2025\processed\X-zeJJnS8bw\audio.mp3
+2025-06-14 19:35:28,651 - INFO: Using device: cuda
+2025-06-14 19:35:34,439 - INFO: Transcription time: 5.79 seconds
+2025-06-14 19:35:34,441 - INFO: Full text saved: D:\youtube_vedio\2025\processed\X-zeJJnS8bw\X-zeJJnS8bw_transcript.txt
+2025-06-14 19:35:34,441 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\X-zeJJnS8bw\X-zeJJnS8bw_transcript.srt
+2025-06-14 19:35:34,442 - INFO: Processing audio: D:\youtube_vedio\2025\processed\x7qbswwBCDo\audio.mp3
+2025-06-14 19:35:34,442 - INFO: Using device: cuda
+2025-06-14 19:35:44,485 - INFO: Transcription time: 10.04 seconds
+2025-06-14 19:35:44,586 - INFO: Full text saved: D:\youtube_vedio\2025\processed\x7qbswwBCDo\x7qbswwBCDo_transcript.txt
+2025-06-14 19:35:44,588 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\x7qbswwBCDo\x7qbswwBCDo_transcript.srt
+2025-06-14 19:35:44,589 - INFO: Processing audio: D:\youtube_vedio\2025\processed\xNjINFAdmhI\audio.mp3
+2025-06-14 19:35:44,590 - INFO: Using device: cuda
+2025-06-14 19:35:55,249 - INFO: Transcription time: 10.66 seconds
+2025-06-14 19:35:55,350 - INFO: Full text saved: D:\youtube_vedio\2025\processed\xNjINFAdmhI\xNjINFAdmhI_transcript.txt
+2025-06-14 19:35:55,353 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\xNjINFAdmhI\xNjINFAdmhI_transcript.srt
+2025-06-14 19:35:55,354 - INFO: Processing audio: D:\youtube_vedio\2025\processed\Zn_sUFnwHDg\audio.mp3
+2025-06-14 19:35:55,354 - INFO: Using device: cuda
+2025-06-14 19:36:00,413 - INFO: Transcription time: 5.06 seconds
+2025-06-14 19:36:00,514 - INFO: Full text saved: D:\youtube_vedio\2025\processed\Zn_sUFnwHDg\Zn_sUFnwHDg_transcript.txt
+2025-06-14 19:36:00,517 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\Zn_sUFnwHDg\Zn_sUFnwHDg_transcript.srt
+2025-06-14 19:36:00,517 - INFO: Processing audio: D:\youtube_vedio\2025\processed\_fHqcDASbGs\audio.mp3
+2025-06-14 19:36:00,518 - INFO: Using device: cuda
+2025-06-14 19:36:05,111 - INFO: Transcription time: 4.59 seconds
+2025-06-14 19:36:05,213 - INFO: Full text saved: D:\youtube_vedio\2025\processed\_fHqcDASbGs\_fHqcDASbGs_transcript.txt
+2025-06-14 19:36:05,214 - INFO: SRT subtitles saved: D:\youtube_vedio\2025\processed\_fHqcDASbGs\_fHqcDASbGs_transcript.srt
+2025-06-14 19:36:05,214 - INFO: Processing completed - Total: 54, Successful: 54
+2025-06-14 19:36:05,214 - INFO: Total processing time: 367.47 seconds
+2025-06-14 19:42:31,414 - INFO: Using device: cuda
+2025-06-14 19:42:31,415 - INFO: Loading medium model
+2025-06-14 19:42:37,905 - INFO: Processing audio: D:\youtube_vedio\2024\processed\-kI-vfyl2mo\audio.mp3
+2025-06-14 19:42:37,907 - INFO: Using device: cuda
+2025-06-14 19:42:40,089 - INFO: Transcription time: 2.18 seconds
+2025-06-14 19:42:40,091 - INFO: Full text saved: D:\youtube_vedio\2024\processed\-kI-vfyl2mo\-kI-vfyl2mo_transcript.txt
+2025-06-14 19:42:40,092 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\-kI-vfyl2mo\-kI-vfyl2mo_transcript.srt
+2025-06-14 19:42:40,092 - INFO: Processing audio: D:\youtube_vedio\2024\processed\5Od0aOse1wc\audio.mp3
+2025-06-14 19:42:40,093 - INFO: Using device: cuda
+2025-06-14 19:42:43,240 - INFO: Transcription time: 3.15 seconds
+2025-06-14 19:42:43,341 - INFO: Full text saved: D:\youtube_vedio\2024\processed\5Od0aOse1wc\5Od0aOse1wc_transcript.txt
+2025-06-14 19:42:43,343 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\5Od0aOse1wc\5Od0aOse1wc_transcript.srt
+2025-06-14 19:42:43,344 - INFO: Processing audio: D:\youtube_vedio\2024\processed\5UiFkOJoP-8\audio.mp3
+2025-06-14 19:42:43,344 - INFO: Using device: cuda
+2025-06-14 19:42:47,252 - INFO: Transcription time: 3.91 seconds
+2025-06-14 19:42:47,353 - INFO: Full text saved: D:\youtube_vedio\2024\processed\5UiFkOJoP-8\5UiFkOJoP-8_transcript.txt
+2025-06-14 19:42:47,355 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\5UiFkOJoP-8\5UiFkOJoP-8_transcript.srt
+2025-06-14 19:42:47,357 - INFO: Processing audio: D:\youtube_vedio\2024\processed\6zolFHbtEew\audio.mp3
+2025-06-14 19:42:47,357 - INFO: Using device: cuda
+2025-06-14 19:42:54,408 - INFO: Transcription time: 7.05 seconds
+2025-06-14 19:42:54,410 - INFO: Full text saved: D:\youtube_vedio\2024\processed\6zolFHbtEew\6zolFHbtEew_transcript.txt
+2025-06-14 19:42:54,411 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\6zolFHbtEew\6zolFHbtEew_transcript.srt
+2025-06-14 19:42:54,411 - INFO: Processing audio: D:\youtube_vedio\2024\processed\7glIC7OaIro\audio.mp3
+2025-06-14 19:42:54,411 - INFO: Using device: cuda
+2025-06-14 19:43:09,883 - INFO: Transcription time: 15.47 seconds
+2025-06-14 19:43:09,984 - INFO: Full text saved: D:\youtube_vedio\2024\processed\7glIC7OaIro\7glIC7OaIro_transcript.txt
+2025-06-14 19:43:09,986 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\7glIC7OaIro\7glIC7OaIro_transcript.srt
+2025-06-14 19:43:09,987 - INFO: Processing audio: D:\youtube_vedio\2024\processed\88tPE7AAUxM\audio.mp3
+2025-06-14 19:43:09,987 - INFO: Using device: cuda
+2025-06-14 19:43:27,612 - INFO: Transcription time: 17.62 seconds
+2025-06-14 19:43:27,713 - INFO: Full text saved: D:\youtube_vedio\2024\processed\88tPE7AAUxM\88tPE7AAUxM_transcript.txt
+2025-06-14 19:43:27,715 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\88tPE7AAUxM\88tPE7AAUxM_transcript.srt
+2025-06-14 19:43:27,717 - INFO: Processing audio: D:\youtube_vedio\2024\processed\8C4DNSV3IRE\audio.mp3
+2025-06-14 19:43:27,718 - INFO: Using device: cuda
+2025-06-14 19:43:33,912 - INFO: Transcription time: 6.19 seconds
+2025-06-14 19:43:34,013 - INFO: Full text saved: D:\youtube_vedio\2024\processed\8C4DNSV3IRE\8C4DNSV3IRE_transcript.txt
+2025-06-14 19:43:34,014 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\8C4DNSV3IRE\8C4DNSV3IRE_transcript.srt
+2025-06-14 19:43:34,014 - INFO: Processing audio: D:\youtube_vedio\2024\processed\8qQ7Q6INWOw\audio.mp3
+2025-06-14 19:43:34,015 - INFO: Using device: cuda
+2025-06-14 19:43:50,583 - INFO: Transcription time: 16.57 seconds
+2025-06-14 19:43:50,685 - INFO: Full text saved: D:\youtube_vedio\2024\processed\8qQ7Q6INWOw\8qQ7Q6INWOw_transcript.txt
+2025-06-14 19:43:50,686 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\8qQ7Q6INWOw\8qQ7Q6INWOw_transcript.srt
+2025-06-14 19:43:50,687 - INFO: Processing audio: D:\youtube_vedio\2024\processed\94BqlDQ-Ppo\audio.mp3
+2025-06-14 19:43:50,687 - INFO: Using device: cuda
+2025-06-14 19:43:53,399 - INFO: Transcription time: 2.71 seconds
+2025-06-14 19:43:53,501 - INFO: Full text saved: D:\youtube_vedio\2024\processed\94BqlDQ-Ppo\94BqlDQ-Ppo_transcript.txt
+2025-06-14 19:43:53,503 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\94BqlDQ-Ppo\94BqlDQ-Ppo_transcript.srt
+2025-06-14 19:43:53,505 - INFO: Processing audio: D:\youtube_vedio\2024\processed\AJNUI0WqEdE\audio.mp3
+2025-06-14 19:43:53,505 - INFO: Using device: cuda
+2025-06-14 19:43:55,073 - INFO: Transcription time: 1.57 seconds
+2025-06-14 19:43:55,176 - INFO: Full text saved: D:\youtube_vedio\2024\processed\AJNUI0WqEdE\AJNUI0WqEdE_transcript.txt
+2025-06-14 19:43:55,177 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\AJNUI0WqEdE\AJNUI0WqEdE_transcript.srt
+2025-06-14 19:43:55,178 - INFO: Processing audio: D:\youtube_vedio\2024\processed\BEkziTXz9Js\audio.mp3
+2025-06-14 19:43:55,179 - INFO: Using device: cuda
+2025-06-14 19:44:00,926 - INFO: Transcription time: 5.75 seconds
+2025-06-14 19:44:01,029 - INFO: Full text saved: D:\youtube_vedio\2024\processed\BEkziTXz9Js\BEkziTXz9Js_transcript.txt
+2025-06-14 19:44:01,031 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\BEkziTXz9Js\BEkziTXz9Js_transcript.srt
+2025-06-14 19:44:01,031 - INFO: Processing audio: D:\youtube_vedio\2024\processed\bXrhgATNVbE\audio.mp3
+2025-06-14 19:44:01,032 - INFO: Using device: cuda
+2025-06-14 19:44:04,804 - INFO: Transcription time: 3.77 seconds
+2025-06-14 19:44:04,905 - INFO: Full text saved: D:\youtube_vedio\2024\processed\bXrhgATNVbE\bXrhgATNVbE_transcript.txt
+2025-06-14 19:44:04,908 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\bXrhgATNVbE\bXrhgATNVbE_transcript.srt
+2025-06-14 19:44:04,909 - INFO: Processing audio: D:\youtube_vedio\2024\processed\Cl--5P79iRs\audio.mp3
+2025-06-14 19:44:04,910 - INFO: Using device: cuda
+2025-06-14 19:44:12,893 - INFO: Transcription time: 7.98 seconds
+2025-06-14 19:44:12,894 - INFO: Full text saved: D:\youtube_vedio\2024\processed\Cl--5P79iRs\Cl--5P79iRs_transcript.txt
+2025-06-14 19:44:12,895 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\Cl--5P79iRs\Cl--5P79iRs_transcript.srt
+2025-06-14 19:44:12,895 - INFO: Processing audio: D:\youtube_vedio\2024\processed\cXT8JgdvCHc\audio.mp3
+2025-06-14 19:44:12,895 - INFO: Using device: cuda
+2025-06-14 19:44:17,019 - INFO: Transcription time: 4.12 seconds
+2025-06-14 19:44:17,120 - INFO: Full text saved: D:\youtube_vedio\2024\processed\cXT8JgdvCHc\cXT8JgdvCHc_transcript.txt
+2025-06-14 19:44:17,123 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\cXT8JgdvCHc\cXT8JgdvCHc_transcript.srt
+2025-06-14 19:44:17,125 - INFO: Processing audio: D:\youtube_vedio\2024\processed\D6HUxANY8z8\audio.mp3
+2025-06-14 19:44:17,125 - INFO: Using device: cuda
+2025-06-14 19:44:20,698 - INFO: Transcription time: 3.57 seconds
+2025-06-14 19:44:20,799 - INFO: Full text saved: D:\youtube_vedio\2024\processed\D6HUxANY8z8\D6HUxANY8z8_transcript.txt
+2025-06-14 19:44:20,800 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\D6HUxANY8z8\D6HUxANY8z8_transcript.srt
+2025-06-14 19:44:20,801 - INFO: Processing audio: D:\youtube_vedio\2024\processed\DTLM5o-9hYg\audio.mp3
+2025-06-14 19:44:20,801 - INFO: Using device: cuda
+2025-06-14 19:44:25,614 - INFO: Transcription time: 4.81 seconds
+2025-06-14 19:44:25,716 - INFO: Full text saved: D:\youtube_vedio\2024\processed\DTLM5o-9hYg\DTLM5o-9hYg_transcript.txt
+2025-06-14 19:44:25,718 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\DTLM5o-9hYg\DTLM5o-9hYg_transcript.srt
+2025-06-14 19:44:25,719 - INFO: Processing audio: D:\youtube_vedio\2024\processed\F1dvX9Vs0ns\audio.mp3
+2025-06-14 19:44:25,719 - INFO: Using device: cuda
+2025-06-14 19:44:38,134 - INFO: Transcription time: 12.41 seconds
+2025-06-14 19:44:38,235 - INFO: Full text saved: D:\youtube_vedio\2024\processed\F1dvX9Vs0ns\F1dvX9Vs0ns_transcript.txt
+2025-06-14 19:44:38,237 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\F1dvX9Vs0ns\F1dvX9Vs0ns_transcript.srt
+2025-06-14 19:44:38,238 - INFO: Processing audio: D:\youtube_vedio\2024\processed\fQ7Az_7pzDM\audio.mp3
+2025-06-14 19:44:38,238 - INFO: Using device: cuda
+2025-06-14 19:44:41,098 - INFO: Transcription time: 2.86 seconds
+2025-06-14 19:44:41,199 - INFO: Full text saved: D:\youtube_vedio\2024\processed\fQ7Az_7pzDM\fQ7Az_7pzDM_transcript.txt
+2025-06-14 19:44:41,201 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\fQ7Az_7pzDM\fQ7Az_7pzDM_transcript.srt
+2025-06-14 19:44:41,203 - INFO: Processing audio: D:\youtube_vedio\2024\processed\g0D5MU6_0n0\audio.mp3
+2025-06-14 19:44:41,203 - INFO: Using device: cuda
+2025-06-14 19:44:43,885 - INFO: Transcription time: 2.68 seconds
+2025-06-14 19:44:43,986 - INFO: Full text saved: D:\youtube_vedio\2024\processed\g0D5MU6_0n0\g0D5MU6_0n0_transcript.txt
+2025-06-14 19:44:43,988 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\g0D5MU6_0n0\g0D5MU6_0n0_transcript.srt
+2025-06-14 19:44:43,988 - INFO: Processing audio: D:\youtube_vedio\2024\processed\H3EsFtUCOno\audio.mp3
+2025-06-14 19:44:43,989 - INFO: Using device: cuda
+2025-06-14 19:44:49,514 - INFO: Transcription time: 5.52 seconds
+2025-06-14 19:44:49,616 - INFO: Full text saved: D:\youtube_vedio\2024\processed\H3EsFtUCOno\H3EsFtUCOno_transcript.txt
+2025-06-14 19:44:49,618 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\H3EsFtUCOno\H3EsFtUCOno_transcript.srt
+2025-06-14 19:44:49,618 - INFO: Processing audio: D:\youtube_vedio\2024\processed\HjP7A2AWgZI\audio.mp3
+2025-06-14 19:44:49,618 - INFO: Using device: cuda
+2025-06-14 19:44:52,483 - INFO: Transcription time: 2.86 seconds
+2025-06-14 19:44:52,584 - INFO: Full text saved: D:\youtube_vedio\2024\processed\HjP7A2AWgZI\HjP7A2AWgZI_transcript.txt
+2025-06-14 19:44:52,587 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\HjP7A2AWgZI\HjP7A2AWgZI_transcript.srt
+2025-06-14 19:44:52,588 - INFO: Processing audio: D:\youtube_vedio\2024\processed\JRadjMeUKko\audio.mp3
+2025-06-14 19:44:52,589 - INFO: Using device: cuda
+2025-06-14 19:44:56,897 - INFO: Transcription time: 4.31 seconds
+2025-06-14 19:44:56,998 - INFO: Full text saved: D:\youtube_vedio\2024\processed\JRadjMeUKko\JRadjMeUKko_transcript.txt
+2025-06-14 19:44:57,000 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\JRadjMeUKko\JRadjMeUKko_transcript.srt
+2025-06-14 19:44:57,002 - INFO: Processing audio: D:\youtube_vedio\2024\processed\kjVf8ptmDmk\audio.mp3
+2025-06-14 19:44:57,002 - INFO: Using device: cuda
+2025-06-14 19:45:06,679 - INFO: Transcription time: 9.68 seconds
+2025-06-14 19:45:06,780 - INFO: Full text saved: D:\youtube_vedio\2024\processed\kjVf8ptmDmk\kjVf8ptmDmk_transcript.txt
+2025-06-14 19:45:06,782 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\kjVf8ptmDmk\kjVf8ptmDmk_transcript.srt
+2025-06-14 19:45:06,783 - INFO: Processing audio: D:\youtube_vedio\2024\processed\kwUJq0DA0xo\audio.mp3
+2025-06-14 19:45:06,783 - INFO: Using device: cuda
+2025-06-14 19:45:15,797 - INFO: Transcription time: 9.01 seconds
+2025-06-14 19:45:15,898 - INFO: Full text saved: D:\youtube_vedio\2024\processed\kwUJq0DA0xo\kwUJq0DA0xo_transcript.txt
+2025-06-14 19:45:15,900 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\kwUJq0DA0xo\kwUJq0DA0xo_transcript.srt
+2025-06-14 19:45:15,900 - INFO: Processing audio: D:\youtube_vedio\2024\processed\NBuB85VsZfI\audio.mp3
+2025-06-14 19:45:15,901 - INFO: Using device: cuda
+2025-06-14 19:45:22,370 - INFO: Transcription time: 6.47 seconds
+2025-06-14 19:45:22,472 - INFO: Full text saved: D:\youtube_vedio\2024\processed\NBuB85VsZfI\NBuB85VsZfI_transcript.txt
+2025-06-14 19:45:22,473 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\NBuB85VsZfI\NBuB85VsZfI_transcript.srt
+2025-06-14 19:45:22,474 - INFO: Processing audio: D:\youtube_vedio\2024\processed\Neul4wINfUQ\audio.mp3
+2025-06-14 19:45:22,474 - INFO: Using device: cuda
+2025-06-14 19:45:25,703 - INFO: Transcription time: 3.23 seconds
+2025-06-14 19:45:25,805 - INFO: Full text saved: D:\youtube_vedio\2024\processed\Neul4wINfUQ\Neul4wINfUQ_transcript.txt
+2025-06-14 19:45:25,807 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\Neul4wINfUQ\Neul4wINfUQ_transcript.srt
+2025-06-14 19:45:25,809 - INFO: Processing audio: D:\youtube_vedio\2024\processed\oGnyO_lEW2E\audio.mp3
+2025-06-14 19:45:25,809 - INFO: Using device: cuda
+2025-06-14 19:45:29,626 - INFO: Transcription time: 3.82 seconds
+2025-06-14 19:45:29,728 - INFO: Full text saved: D:\youtube_vedio\2024\processed\oGnyO_lEW2E\oGnyO_lEW2E_transcript.txt
+2025-06-14 19:45:29,731 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\oGnyO_lEW2E\oGnyO_lEW2E_transcript.srt
+2025-06-14 19:45:29,732 - INFO: Processing audio: D:\youtube_vedio\2024\processed\pUhq4w9mKWg\audio.mp3
+2025-06-14 19:45:29,733 - INFO: Using device: cuda
+2025-06-14 19:45:36,508 - INFO: Transcription time: 6.77 seconds
+2025-06-14 19:45:36,609 - INFO: Full text saved: D:\youtube_vedio\2024\processed\pUhq4w9mKWg\pUhq4w9mKWg_transcript.txt
+2025-06-14 19:45:36,611 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\pUhq4w9mKWg\pUhq4w9mKWg_transcript.srt
+2025-06-14 19:45:36,611 - INFO: Processing audio: D:\youtube_vedio\2024\processed\QrQQgLH0p_Y\audio.mp3
+2025-06-14 19:45:36,612 - INFO: Using device: cuda
+2025-06-14 19:45:46,155 - INFO: Transcription time: 9.54 seconds
+2025-06-14 19:45:46,256 - INFO: Full text saved: D:\youtube_vedio\2024\processed\QrQQgLH0p_Y\QrQQgLH0p_Y_transcript.txt
+2025-06-14 19:45:46,257 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\QrQQgLH0p_Y\QrQQgLH0p_Y_transcript.srt
+2025-06-14 19:45:46,258 - INFO: Processing audio: D:\youtube_vedio\2024\processed\sfB-glrgn5o\audio.mp3
+2025-06-14 19:45:46,258 - INFO: Using device: cuda
+2025-06-14 19:45:52,939 - INFO: Transcription time: 6.68 seconds
+2025-06-14 19:45:53,040 - INFO: Full text saved: D:\youtube_vedio\2024\processed\sfB-glrgn5o\sfB-glrgn5o_transcript.txt
+2025-06-14 19:45:53,042 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\sfB-glrgn5o\sfB-glrgn5o_transcript.srt
+2025-06-14 19:45:53,044 - INFO: Processing audio: D:\youtube_vedio\2024\processed\SJa1oSgs8Gw\audio.mp3
+2025-06-14 19:45:53,044 - INFO: Using device: cuda
+2025-06-14 19:45:56,122 - INFO: Transcription time: 3.08 seconds
+2025-06-14 19:45:56,224 - INFO: Full text saved: D:\youtube_vedio\2024\processed\SJa1oSgs8Gw\SJa1oSgs8Gw_transcript.txt
+2025-06-14 19:45:56,225 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\SJa1oSgs8Gw\SJa1oSgs8Gw_transcript.srt
+2025-06-14 19:45:56,226 - INFO: Processing audio: D:\youtube_vedio\2024\processed\sn4_CjtmQKw\audio.mp3
+2025-06-14 19:45:56,226 - INFO: Using device: cuda
+2025-06-14 19:46:00,558 - INFO: Transcription time: 4.33 seconds
+2025-06-14 19:46:00,660 - INFO: Full text saved: D:\youtube_vedio\2024\processed\sn4_CjtmQKw\sn4_CjtmQKw_transcript.txt
+2025-06-14 19:46:00,662 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\sn4_CjtmQKw\sn4_CjtmQKw_transcript.srt
+2025-06-14 19:46:00,664 - INFO: Processing audio: D:\youtube_vedio\2024\processed\tMltLxq0Jbo\audio.mp3
+2025-06-14 19:46:00,664 - INFO: Using device: cuda
+2025-06-14 19:46:01,941 - INFO: Transcription time: 1.28 seconds
+2025-06-14 19:46:02,042 - INFO: Full text saved: D:\youtube_vedio\2024\processed\tMltLxq0Jbo\tMltLxq0Jbo_transcript.txt
+2025-06-14 19:46:02,046 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\tMltLxq0Jbo\tMltLxq0Jbo_transcript.srt
+2025-06-14 19:46:02,047 - INFO: Processing audio: D:\youtube_vedio\2024\processed\ubSnD737JaM\audio.mp3
+2025-06-14 19:46:02,047 - INFO: Using device: cuda
+2025-06-14 19:46:06,737 - INFO: Transcription time: 4.69 seconds
+2025-06-14 19:46:06,838 - INFO: Full text saved: D:\youtube_vedio\2024\processed\ubSnD737JaM\ubSnD737JaM_transcript.txt
+2025-06-14 19:46:06,841 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\ubSnD737JaM\ubSnD737JaM_transcript.srt
+2025-06-14 19:46:06,842 - INFO: Processing audio: D:\youtube_vedio\2024\processed\uJMCNJP2ipI\audio.mp3
+2025-06-14 19:46:06,842 - INFO: Using device: cuda
+2025-06-14 19:46:25,047 - INFO: Transcription time: 18.20 seconds
+2025-06-14 19:46:25,148 - INFO: Full text saved: D:\youtube_vedio\2024\processed\uJMCNJP2ipI\uJMCNJP2ipI_transcript.txt
+2025-06-14 19:46:25,150 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\uJMCNJP2ipI\uJMCNJP2ipI_transcript.srt
+2025-06-14 19:46:25,152 - INFO: Processing audio: D:\youtube_vedio\2024\processed\vAf5TjiUJgo\audio.mp3
+2025-06-14 19:46:25,153 - INFO: Using device: cuda
+2025-06-14 19:46:29,675 - INFO: Transcription time: 4.52 seconds
+2025-06-14 19:46:29,776 - INFO: Full text saved: D:\youtube_vedio\2024\processed\vAf5TjiUJgo\vAf5TjiUJgo_transcript.txt
+2025-06-14 19:46:29,779 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\vAf5TjiUJgo\vAf5TjiUJgo_transcript.srt
+2025-06-14 19:46:29,781 - INFO: Processing audio: D:\youtube_vedio\2024\processed\Ve2miT5iF2M\audio.mp3
+2025-06-14 19:46:29,781 - INFO: Using device: cuda
+2025-06-14 19:46:40,904 - INFO: Transcription time: 11.12 seconds
+2025-06-14 19:46:41,005 - INFO: Full text saved: D:\youtube_vedio\2024\processed\Ve2miT5iF2M\Ve2miT5iF2M_transcript.txt
+2025-06-14 19:46:41,006 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\Ve2miT5iF2M\Ve2miT5iF2M_transcript.srt
+2025-06-14 19:46:41,007 - INFO: Processing audio: D:\youtube_vedio\2024\processed\vQ88JB-lgtQ\audio.mp3
+2025-06-14 19:46:41,007 - INFO: Using device: cuda
+2025-06-14 19:46:57,483 - INFO: Transcription time: 16.48 seconds
+2025-06-14 19:46:57,584 - INFO: Full text saved: D:\youtube_vedio\2024\processed\vQ88JB-lgtQ\vQ88JB-lgtQ_transcript.txt
+2025-06-14 19:46:57,586 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\vQ88JB-lgtQ\vQ88JB-lgtQ_transcript.srt
+2025-06-14 19:46:57,588 - INFO: Processing audio: D:\youtube_vedio\2024\processed\wdok0rZdmx4\audio.mp3
+2025-06-14 19:46:57,589 - INFO: Using device: cuda
+2025-06-14 19:47:05,434 - INFO: Transcription time: 7.85 seconds
+2025-06-14 19:47:05,535 - INFO: Full text saved: D:\youtube_vedio\2024\processed\wdok0rZdmx4\wdok0rZdmx4_transcript.txt
+2025-06-14 19:47:05,536 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\wdok0rZdmx4\wdok0rZdmx4_transcript.srt
+2025-06-14 19:47:05,536 - INFO: Processing audio: D:\youtube_vedio\2024\processed\WmpmKkRDQZg\audio.mp3
+2025-06-14 19:47:05,537 - INFO: Using device: cuda
+2025-06-14 19:47:10,877 - INFO: Transcription time: 5.34 seconds
+2025-06-14 19:47:10,978 - INFO: Full text saved: D:\youtube_vedio\2024\processed\WmpmKkRDQZg\WmpmKkRDQZg_transcript.txt
+2025-06-14 19:47:10,979 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\WmpmKkRDQZg\WmpmKkRDQZg_transcript.srt
+2025-06-14 19:47:10,979 - INFO: Processing audio: D:\youtube_vedio\2024\processed\wYPTZIFQoDQ\audio.mp3
+2025-06-14 19:47:10,980 - INFO: Using device: cuda
+2025-06-14 19:47:24,243 - INFO: Transcription time: 13.26 seconds
+2025-06-14 19:47:24,345 - INFO: Full text saved: D:\youtube_vedio\2024\processed\wYPTZIFQoDQ\wYPTZIFQoDQ_transcript.txt
+2025-06-14 19:47:24,347 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\wYPTZIFQoDQ\wYPTZIFQoDQ_transcript.srt
+2025-06-14 19:47:24,347 - INFO: Processing audio: D:\youtube_vedio\2024\processed\xp5v3-3Hc-E\audio.mp3
+2025-06-14 19:47:24,348 - INFO: Using device: cuda
+2025-06-14 19:47:29,586 - INFO: Transcription time: 5.24 seconds
+2025-06-14 19:47:29,689 - INFO: Full text saved: D:\youtube_vedio\2024\processed\xp5v3-3Hc-E\xp5v3-3Hc-E_transcript.txt
+2025-06-14 19:47:29,690 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\xp5v3-3Hc-E\xp5v3-3Hc-E_transcript.srt
+2025-06-14 19:47:29,691 - INFO: Processing audio: D:\youtube_vedio\2024\processed\XtFI7SNtVpY\audio.mp3
+2025-06-14 19:47:29,691 - INFO: Using device: cuda
+2025-06-14 19:47:36,281 - INFO: Transcription time: 6.59 seconds
+2025-06-14 19:47:36,384 - INFO: Full text saved: D:\youtube_vedio\2024\processed\XtFI7SNtVpY\XtFI7SNtVpY_transcript.txt
+2025-06-14 19:47:36,386 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\XtFI7SNtVpY\XtFI7SNtVpY_transcript.srt
+2025-06-14 19:47:36,388 - INFO: Processing audio: D:\youtube_vedio\2024\processed\xXKuSJy5cPE\audio.mp3
+2025-06-14 19:47:36,389 - INFO: Using device: cuda
+2025-06-14 19:47:40,139 - INFO: Transcription time: 3.75 seconds
+2025-06-14 19:47:40,243 - INFO: Full text saved: D:\youtube_vedio\2024\processed\xXKuSJy5cPE\xXKuSJy5cPE_transcript.txt
+2025-06-14 19:47:40,245 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\xXKuSJy5cPE\xXKuSJy5cPE_transcript.srt
+2025-06-14 19:47:40,247 - INFO: Processing audio: D:\youtube_vedio\2024\processed\XZmMvVCcW0M\audio.mp3
+2025-06-14 19:47:40,248 - INFO: Using device: cuda
+2025-06-14 19:47:45,615 - INFO: Transcription time: 5.37 seconds
+2025-06-14 19:47:45,717 - INFO: Full text saved: D:\youtube_vedio\2024\processed\XZmMvVCcW0M\XZmMvVCcW0M_transcript.txt
+2025-06-14 19:47:45,719 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\XZmMvVCcW0M\XZmMvVCcW0M_transcript.srt
+2025-06-14 19:47:45,721 - INFO: Processing audio: D:\youtube_vedio\2024\processed\Y7mLeyIETu0\audio.mp3
+2025-06-14 19:47:45,721 - INFO: Using device: cuda
+2025-06-14 19:47:55,932 - INFO: Transcription time: 10.21 seconds
+2025-06-14 19:47:56,032 - INFO: Full text saved: D:\youtube_vedio\2024\processed\Y7mLeyIETu0\Y7mLeyIETu0_transcript.txt
+2025-06-14 19:47:56,033 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\Y7mLeyIETu0\Y7mLeyIETu0_transcript.srt
+2025-06-14 19:47:56,033 - INFO: Processing audio: D:\youtube_vedio\2024\processed\YKzk1h7qrj8\audio.mp3
+2025-06-14 19:47:56,033 - INFO: Using device: cuda
+2025-06-14 19:48:08,003 - INFO: Transcription time: 11.97 seconds
+2025-06-14 19:48:08,104 - INFO: Full text saved: D:\youtube_vedio\2024\processed\YKzk1h7qrj8\YKzk1h7qrj8_transcript.txt
+2025-06-14 19:48:08,106 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\YKzk1h7qrj8\YKzk1h7qrj8_transcript.srt
+2025-06-14 19:48:08,107 - INFO: Processing audio: D:\youtube_vedio\2024\processed\YVeCwSWNLrM\audio.mp3
+2025-06-14 19:48:08,108 - INFO: Using device: cuda
+2025-06-14 19:48:15,385 - INFO: Transcription time: 7.28 seconds
+2025-06-14 19:48:15,487 - INFO: Full text saved: D:\youtube_vedio\2024\processed\YVeCwSWNLrM\YVeCwSWNLrM_transcript.txt
+2025-06-14 19:48:15,488 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\YVeCwSWNLrM\YVeCwSWNLrM_transcript.srt
+2025-06-14 19:48:15,489 - INFO: Processing audio: D:\youtube_vedio\2024\processed\z5fcvlWdfdA\audio.mp3
+2025-06-14 19:48:15,489 - INFO: Using device: cuda
+2025-06-14 19:48:15,955 - INFO: Transcription time: 0.47 seconds
+2025-06-14 19:48:16,057 - INFO: Full text saved: D:\youtube_vedio\2024\processed\z5fcvlWdfdA\z5fcvlWdfdA_transcript.txt
+2025-06-14 19:48:16,058 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\z5fcvlWdfdA\z5fcvlWdfdA_transcript.srt
+2025-06-14 19:48:16,058 - INFO: Processing audio: D:\youtube_vedio\2024\processed\zo8PQgark7c\audio.mp3
+2025-06-14 19:48:16,059 - INFO: Using device: cuda
+2025-06-14 19:48:21,569 - INFO: Transcription time: 5.51 seconds
+2025-06-14 19:48:21,671 - INFO: Full text saved: D:\youtube_vedio\2024\processed\zo8PQgark7c\zo8PQgark7c_transcript.txt
+2025-06-14 19:48:21,673 - INFO: SRT subtitles saved: D:\youtube_vedio\2024\processed\zo8PQgark7c\zo8PQgark7c_transcript.srt
+2025-06-14 19:48:21,674 - INFO: Processing completed - Total: 50, Successful: 50
+2025-06-14 19:48:21,675 - INFO: Total processing time: 344.76 seconds
+2025-06-14 19:49:36,115 - INFO: Using device: cuda
+2025-06-14 19:49:36,115 - INFO: Loading medium model
+2025-06-14 19:49:42,975 - INFO: Processing audio: D:\youtube_vedio\2023\processed\-bueUljGJ2M\audio.mp3
+2025-06-14 19:49:42,975 - INFO: Using device: cuda
+2025-06-14 19:49:50,000 - INFO: Transcription time: 7.02 seconds
+2025-06-14 19:49:50,102 - INFO: Full text saved: D:\youtube_vedio\2023\processed\-bueUljGJ2M\-bueUljGJ2M_transcript.txt
+2025-06-14 19:49:50,103 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\-bueUljGJ2M\-bueUljGJ2M_transcript.srt
+2025-06-14 19:49:50,105 - INFO: Processing audio: D:\youtube_vedio\2023\processed\5YsxXj5kycs\audio.mp3
+2025-06-14 19:49:50,105 - INFO: Using device: cuda
+2025-06-14 19:49:52,284 - INFO: Transcription time: 2.18 seconds
+2025-06-14 19:49:52,386 - INFO: Full text saved: D:\youtube_vedio\2023\processed\5YsxXj5kycs\5YsxXj5kycs_transcript.txt
+2025-06-14 19:49:52,390 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\5YsxXj5kycs\5YsxXj5kycs_transcript.srt
+2025-06-14 19:49:52,392 - INFO: Processing audio: D:\youtube_vedio\2023\processed\6uLgF2K2n5M\audio.mp3
+2025-06-14 19:49:52,392 - INFO: Using device: cuda
+2025-06-14 19:50:10,445 - INFO: Transcription time: 18.05 seconds
+2025-06-14 19:50:10,547 - INFO: Full text saved: D:\youtube_vedio\2023\processed\6uLgF2K2n5M\6uLgF2K2n5M_transcript.txt
+2025-06-14 19:50:10,548 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\6uLgF2K2n5M\6uLgF2K2n5M_transcript.srt
+2025-06-14 19:50:10,548 - INFO: Processing audio: D:\youtube_vedio\2023\processed\73p4lL1iq7w\audio.mp3
+2025-06-14 19:50:10,548 - INFO: Using device: cuda
+2025-06-14 19:50:12,018 - INFO: Transcription time: 1.47 seconds
+2025-06-14 19:50:12,120 - INFO: Full text saved: D:\youtube_vedio\2023\processed\73p4lL1iq7w\73p4lL1iq7w_transcript.txt
+2025-06-14 19:50:12,123 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\73p4lL1iq7w\73p4lL1iq7w_transcript.srt
+2025-06-14 19:50:12,124 - INFO: Processing audio: D:\youtube_vedio\2023\processed\8Bsgj1ihEOg\audio.mp3
+2025-06-14 19:50:12,125 - INFO: Using device: cuda
+2025-06-14 19:50:19,043 - INFO: Transcription time: 6.92 seconds
+2025-06-14 19:50:19,045 - INFO: Full text saved: D:\youtube_vedio\2023\processed\8Bsgj1ihEOg\8Bsgj1ihEOg_transcript.txt
+2025-06-14 19:50:19,045 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\8Bsgj1ihEOg\8Bsgj1ihEOg_transcript.srt
+2025-06-14 19:50:19,045 - INFO: Processing audio: D:\youtube_vedio\2023\processed\8gatiYW5kWs\audio.mp3
+2025-06-14 19:50:19,047 - INFO: Using device: cuda
+2025-06-14 19:50:24,764 - INFO: Transcription time: 5.72 seconds
+2025-06-14 19:50:24,865 - INFO: Full text saved: D:\youtube_vedio\2023\processed\8gatiYW5kWs\8gatiYW5kWs_transcript.txt
+2025-06-14 19:50:24,867 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\8gatiYW5kWs\8gatiYW5kWs_transcript.srt
+2025-06-14 19:50:24,868 - INFO: Processing audio: D:\youtube_vedio\2023\processed\8oBHRjnQCFE\audio.mp3
+2025-06-14 19:50:24,868 - INFO: Using device: cuda
+2025-06-14 19:50:29,414 - INFO: Transcription time: 4.55 seconds
+2025-06-14 19:50:29,516 - INFO: Full text saved: D:\youtube_vedio\2023\processed\8oBHRjnQCFE\8oBHRjnQCFE_transcript.txt
+2025-06-14 19:50:29,517 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\8oBHRjnQCFE\8oBHRjnQCFE_transcript.srt
+2025-06-14 19:50:29,518 - INFO: Processing audio: D:\youtube_vedio\2023\processed\AKbXPXOQAmQ\audio.mp3
+2025-06-14 19:50:29,518 - INFO: Using device: cuda
+2025-06-14 19:50:34,969 - INFO: Transcription time: 5.45 seconds
+2025-06-14 19:50:35,071 - INFO: Full text saved: D:\youtube_vedio\2023\processed\AKbXPXOQAmQ\AKbXPXOQAmQ_transcript.txt
+2025-06-14 19:50:35,071 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\AKbXPXOQAmQ\AKbXPXOQAmQ_transcript.srt
+2025-06-14 19:50:35,072 - INFO: Processing audio: D:\youtube_vedio\2023\processed\AO0aIHyetAw\audio.mp3
+2025-06-14 19:50:35,073 - INFO: Using device: cuda
+2025-06-14 19:50:41,137 - INFO: Transcription time: 6.06 seconds
+2025-06-14 19:50:41,238 - INFO: Full text saved: D:\youtube_vedio\2023\processed\AO0aIHyetAw\AO0aIHyetAw_transcript.txt
+2025-06-14 19:50:41,239 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\AO0aIHyetAw\AO0aIHyetAw_transcript.srt
+2025-06-14 19:50:41,241 - INFO: Processing audio: D:\youtube_vedio\2023\processed\azCNwGnxq0s\audio.mp3
+2025-06-14 19:50:41,241 - INFO: Using device: cuda
+2025-06-14 19:50:43,453 - INFO: Transcription time: 2.21 seconds
+2025-06-14 19:50:43,554 - INFO: Full text saved: D:\youtube_vedio\2023\processed\azCNwGnxq0s\azCNwGnxq0s_transcript.txt
+2025-06-14 19:50:43,556 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\azCNwGnxq0s\azCNwGnxq0s_transcript.srt
+2025-06-14 19:50:43,557 - INFO: Processing audio: D:\youtube_vedio\2023\processed\BBIX9FG6kZ0\audio.mp3
+2025-06-14 19:50:43,558 - INFO: Using device: cuda
+2025-06-14 19:50:50,341 - INFO: Transcription time: 6.78 seconds
+2025-06-14 19:50:50,443 - INFO: Full text saved: D:\youtube_vedio\2023\processed\BBIX9FG6kZ0\BBIX9FG6kZ0_transcript.txt
+2025-06-14 19:50:50,445 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\BBIX9FG6kZ0\BBIX9FG6kZ0_transcript.srt
+2025-06-14 19:50:50,446 - INFO: Processing audio: D:\youtube_vedio\2023\processed\cjiPkaGdbAQ\audio.mp3
+2025-06-14 19:50:50,447 - INFO: Using device: cuda
+2025-06-14 19:50:55,456 - INFO: Transcription time: 5.01 seconds
+2025-06-14 19:50:55,558 - INFO: Full text saved: D:\youtube_vedio\2023\processed\cjiPkaGdbAQ\cjiPkaGdbAQ_transcript.txt
+2025-06-14 19:50:55,560 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\cjiPkaGdbAQ\cjiPkaGdbAQ_transcript.srt
+2025-06-14 19:50:55,561 - INFO: Processing audio: D:\youtube_vedio\2023\processed\de5m3NWhi-Y\audio.mp3
+2025-06-14 19:50:55,561 - INFO: Using device: cuda
+2025-06-14 19:50:58,189 - INFO: Transcription time: 2.63 seconds
+2025-06-14 19:50:58,291 - INFO: Full text saved: D:\youtube_vedio\2023\processed\de5m3NWhi-Y\de5m3NWhi-Y_transcript.txt
+2025-06-14 19:50:58,294 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\de5m3NWhi-Y\de5m3NWhi-Y_transcript.srt
+2025-06-14 19:50:58,295 - INFO: Processing audio: D:\youtube_vedio\2023\processed\DNpd1rAfoCU\audio.mp3
+2025-06-14 19:50:58,297 - INFO: Using device: cuda
+2025-06-14 19:51:03,254 - INFO: Transcription time: 4.96 seconds
+2025-06-14 19:51:03,356 - INFO: Full text saved: D:\youtube_vedio\2023\processed\DNpd1rAfoCU\DNpd1rAfoCU_transcript.txt
+2025-06-14 19:51:03,358 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\DNpd1rAfoCU\DNpd1rAfoCU_transcript.srt
+2025-06-14 19:51:03,359 - INFO: Processing audio: D:\youtube_vedio\2023\processed\f8LE9gxtxTY\audio.mp3
+2025-06-14 19:51:03,359 - INFO: Using device: cuda
+2025-06-14 19:51:07,450 - INFO: Transcription time: 4.09 seconds
+2025-06-14 19:51:07,550 - INFO: Full text saved: D:\youtube_vedio\2023\processed\f8LE9gxtxTY\f8LE9gxtxTY_transcript.txt
+2025-06-14 19:51:07,552 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\f8LE9gxtxTY\f8LE9gxtxTY_transcript.srt
+2025-06-14 19:51:07,553 - INFO: Processing audio: D:\youtube_vedio\2023\processed\fdN0GWOtsHQ\audio.mp3
+2025-06-14 19:51:07,553 - INFO: Using device: cuda
+2025-06-14 19:51:11,818 - INFO: Transcription time: 4.27 seconds
+2025-06-14 19:51:11,919 - INFO: Full text saved: D:\youtube_vedio\2023\processed\fdN0GWOtsHQ\fdN0GWOtsHQ_transcript.txt
+2025-06-14 19:51:11,923 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\fdN0GWOtsHQ\fdN0GWOtsHQ_transcript.srt
+2025-06-14 19:51:11,923 - INFO: Processing audio: D:\youtube_vedio\2023\processed\GizRGO3PVD8\audio.mp3
+2025-06-14 19:51:11,923 - INFO: Using device: cuda
+2025-06-14 19:51:16,363 - INFO: Transcription time: 4.44 seconds
+2025-06-14 19:51:16,464 - INFO: Full text saved: D:\youtube_vedio\2023\processed\GizRGO3PVD8\GizRGO3PVD8_transcript.txt
+2025-06-14 19:51:16,467 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\GizRGO3PVD8\GizRGO3PVD8_transcript.srt
+2025-06-14 19:51:16,469 - INFO: Processing audio: D:\youtube_vedio\2023\processed\gKCScoG83SA\audio.mp3
+2025-06-14 19:51:16,469 - INFO: Using device: cuda
+2025-06-14 19:51:20,375 - INFO: Transcription time: 3.91 seconds
+2025-06-14 19:51:20,477 - INFO: Full text saved: D:\youtube_vedio\2023\processed\gKCScoG83SA\gKCScoG83SA_transcript.txt
+2025-06-14 19:51:20,480 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\gKCScoG83SA\gKCScoG83SA_transcript.srt
+2025-06-14 19:51:20,481 - INFO: Processing audio: D:\youtube_vedio\2023\processed\GtyxWvifru8\audio.mp3
+2025-06-14 19:51:20,481 - INFO: Using device: cuda
+2025-06-14 19:51:31,257 - INFO: Transcription time: 10.77 seconds
+2025-06-14 19:51:31,359 - INFO: Full text saved: D:\youtube_vedio\2023\processed\GtyxWvifru8\GtyxWvifru8_transcript.txt
+2025-06-14 19:51:31,360 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\GtyxWvifru8\GtyxWvifru8_transcript.srt
+2025-06-14 19:51:31,361 - INFO: Processing audio: D:\youtube_vedio\2023\processed\h4my8CdjU8w\audio.mp3
+2025-06-14 19:51:31,361 - INFO: Using device: cuda
+2025-06-14 19:51:35,409 - INFO: Transcription time: 4.05 seconds
+2025-06-14 19:51:35,511 - INFO: Full text saved: D:\youtube_vedio\2023\processed\h4my8CdjU8w\h4my8CdjU8w_transcript.txt
+2025-06-14 19:51:35,513 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\h4my8CdjU8w\h4my8CdjU8w_transcript.srt
+2025-06-14 19:51:35,513 - INFO: Processing audio: D:\youtube_vedio\2023\processed\h5D5BQM6D-M\audio.mp3
+2025-06-14 19:51:35,514 - INFO: Using device: cuda
+2025-06-14 19:51:42,210 - INFO: Transcription time: 6.70 seconds
+2025-06-14 19:51:42,312 - INFO: Full text saved: D:\youtube_vedio\2023\processed\h5D5BQM6D-M\h5D5BQM6D-M_transcript.txt
+2025-06-14 19:51:42,313 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\h5D5BQM6D-M\h5D5BQM6D-M_transcript.srt
+2025-06-14 19:51:42,314 - INFO: Processing audio: D:\youtube_vedio\2023\processed\IAIo-pUDl0s\audio.mp3
+2025-06-14 19:51:42,315 - INFO: Using device: cuda
+2025-06-14 19:51:48,574 - INFO: Transcription time: 6.26 seconds
+2025-06-14 19:51:48,675 - INFO: Full text saved: D:\youtube_vedio\2023\processed\IAIo-pUDl0s\IAIo-pUDl0s_transcript.txt
+2025-06-14 19:51:48,677 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\IAIo-pUDl0s\IAIo-pUDl0s_transcript.srt
+2025-06-14 19:51:48,677 - INFO: Processing audio: D:\youtube_vedio\2023\processed\jSO-Whn2sCQ\audio.mp3
+2025-06-14 19:51:48,678 - INFO: Using device: cuda
+2025-06-14 19:51:54,590 - INFO: Transcription time: 5.91 seconds
+2025-06-14 19:51:54,693 - INFO: Full text saved: D:\youtube_vedio\2023\processed\jSO-Whn2sCQ\jSO-Whn2sCQ_transcript.txt
+2025-06-14 19:51:54,695 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\jSO-Whn2sCQ\jSO-Whn2sCQ_transcript.srt
+2025-06-14 19:51:54,697 - INFO: Processing audio: D:\youtube_vedio\2023\processed\jzE68RiXbT8\audio.mp3
+2025-06-14 19:51:54,697 - INFO: Using device: cuda
+2025-06-14 19:51:58,876 - INFO: Transcription time: 4.18 seconds
+2025-06-14 19:51:58,977 - INFO: Full text saved: D:\youtube_vedio\2023\processed\jzE68RiXbT8\jzE68RiXbT8_transcript.txt
+2025-06-14 19:51:58,980 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\jzE68RiXbT8\jzE68RiXbT8_transcript.srt
+2025-06-14 19:51:58,982 - INFO: Processing audio: D:\youtube_vedio\2023\processed\M0zdJOM_5Vg\audio.mp3
+2025-06-14 19:51:58,982 - INFO: Using device: cuda
+2025-06-14 19:52:03,661 - INFO: Transcription time: 4.68 seconds
+2025-06-14 19:52:03,763 - INFO: Full text saved: D:\youtube_vedio\2023\processed\M0zdJOM_5Vg\M0zdJOM_5Vg_transcript.txt
+2025-06-14 19:52:03,766 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\M0zdJOM_5Vg\M0zdJOM_5Vg_transcript.srt
+2025-06-14 19:52:03,767 - INFO: Processing audio: D:\youtube_vedio\2023\processed\mManLnHyyek\audio.mp3
+2025-06-14 19:52:03,767 - INFO: Using device: cuda
+2025-06-14 19:52:06,327 - INFO: Transcription time: 2.56 seconds
+2025-06-14 19:52:06,429 - INFO: Full text saved: D:\youtube_vedio\2023\processed\mManLnHyyek\mManLnHyyek_transcript.txt
+2025-06-14 19:52:06,432 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\mManLnHyyek\mManLnHyyek_transcript.srt
+2025-06-14 19:52:06,433 - INFO: Processing audio: D:\youtube_vedio\2023\processed\ogLX2heol5E\audio.mp3
+2025-06-14 19:52:06,434 - INFO: Using device: cuda
+2025-06-14 19:52:08,101 - INFO: Transcription time: 1.67 seconds
+2025-06-14 19:52:08,203 - INFO: Full text saved: D:\youtube_vedio\2023\processed\ogLX2heol5E\ogLX2heol5E_transcript.txt
+2025-06-14 19:52:08,206 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\ogLX2heol5E\ogLX2heol5E_transcript.srt
+2025-06-14 19:52:08,208 - INFO: Processing audio: D:\youtube_vedio\2023\processed\QKZ7asNNhcI\audio.mp3
+2025-06-14 19:52:08,209 - INFO: Using device: cuda
+2025-06-14 19:52:23,780 - INFO: Transcription time: 15.57 seconds
+2025-06-14 19:52:23,882 - INFO: Full text saved: D:\youtube_vedio\2023\processed\QKZ7asNNhcI\QKZ7asNNhcI_transcript.txt
+2025-06-14 19:52:23,885 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\QKZ7asNNhcI\QKZ7asNNhcI_transcript.srt
+2025-06-14 19:52:23,886 - INFO: Processing audio: D:\youtube_vedio\2023\processed\qXBsJW4LOCQ\audio.mp3
+2025-06-14 19:52:23,887 - INFO: Using device: cuda
+2025-06-14 19:52:28,864 - INFO: Transcription time: 4.98 seconds
+2025-06-14 19:52:28,965 - INFO: Full text saved: D:\youtube_vedio\2023\processed\qXBsJW4LOCQ\qXBsJW4LOCQ_transcript.txt
+2025-06-14 19:52:28,968 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\qXBsJW4LOCQ\qXBsJW4LOCQ_transcript.srt
+2025-06-14 19:52:28,968 - INFO: Processing audio: D:\youtube_vedio\2023\processed\TQpwONzpcy4\audio.mp3
+2025-06-14 19:52:28,969 - INFO: Using device: cuda
+2025-06-14 19:52:31,680 - INFO: Transcription time: 2.71 seconds
+2025-06-14 19:52:31,717 - INFO: Full text saved: D:\youtube_vedio\2023\processed\TQpwONzpcy4\TQpwONzpcy4_transcript.txt
+2025-06-14 19:52:31,718 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\TQpwONzpcy4\TQpwONzpcy4_transcript.srt
+2025-06-14 19:52:31,719 - INFO: Processing audio: D:\youtube_vedio\2023\processed\Tz-ML9Fxx5o\audio.mp3
+2025-06-14 19:52:31,719 - INFO: Using device: cuda
+2025-06-14 19:52:44,144 - INFO: Transcription time: 12.42 seconds
+2025-06-14 19:52:44,246 - INFO: Full text saved: D:\youtube_vedio\2023\processed\Tz-ML9Fxx5o\Tz-ML9Fxx5o_transcript.txt
+2025-06-14 19:52:44,249 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\Tz-ML9Fxx5o\Tz-ML9Fxx5o_transcript.srt
+2025-06-14 19:52:44,249 - INFO: Processing audio: D:\youtube_vedio\2023\processed\UEx75kcWgxc\audio.mp3
+2025-06-14 19:52:44,251 - INFO: Using device: cuda
+2025-06-14 19:52:53,580 - INFO: Transcription time: 9.33 seconds
+2025-06-14 19:52:53,681 - INFO: Full text saved: D:\youtube_vedio\2023\processed\UEx75kcWgxc\UEx75kcWgxc_transcript.txt
+2025-06-14 19:52:53,684 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\UEx75kcWgxc\UEx75kcWgxc_transcript.srt
+2025-06-14 19:52:53,685 - INFO: Processing audio: D:\youtube_vedio\2023\processed\VPK_JIM6Hi0\audio.mp3
+2025-06-14 19:52:53,685 - INFO: Using device: cuda
+2025-06-14 19:53:02,321 - INFO: Transcription time: 8.63 seconds
+2025-06-14 19:53:02,423 - INFO: Full text saved: D:\youtube_vedio\2023\processed\VPK_JIM6Hi0\VPK_JIM6Hi0_transcript.txt
+2025-06-14 19:53:02,424 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\VPK_JIM6Hi0\VPK_JIM6Hi0_transcript.srt
+2025-06-14 19:53:02,425 - INFO: Processing audio: D:\youtube_vedio\2023\processed\wlPM7E8uLJ8\audio.mp3
+2025-06-14 19:53:02,425 - INFO: Using device: cuda
+2025-06-14 19:53:05,132 - INFO: Transcription time: 2.71 seconds
+2025-06-14 19:53:05,233 - INFO: Full text saved: D:\youtube_vedio\2023\processed\wlPM7E8uLJ8\wlPM7E8uLJ8_transcript.txt
+2025-06-14 19:53:05,236 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\wlPM7E8uLJ8\wlPM7E8uLJ8_transcript.srt
+2025-06-14 19:53:05,237 - INFO: Processing audio: D:\youtube_vedio\2023\processed\x_gAb7tLoXM\audio.mp3
+2025-06-14 19:53:05,237 - INFO: Using device: cuda
+2025-06-14 19:54:36,989 - INFO: Transcription time: 91.75 seconds
+2025-06-14 19:54:37,983 - INFO: Full text saved: D:\youtube_vedio\2023\processed\x_gAb7tLoXM\x_gAb7tLoXM_transcript.txt
+2025-06-14 19:54:37,987 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\x_gAb7tLoXM\x_gAb7tLoXM_transcript.srt
+2025-06-14 19:54:37,988 - INFO: Processing audio: D:\youtube_vedio\2023\processed\yBPQ2rxjD7g\audio.mp3
+2025-06-14 19:54:37,988 - INFO: Using device: cuda
+2025-06-14 19:54:41,050 - INFO: Transcription time: 3.06 seconds
+2025-06-14 19:54:41,151 - INFO: Full text saved: D:\youtube_vedio\2023\processed\yBPQ2rxjD7g\yBPQ2rxjD7g_transcript.txt
+2025-06-14 19:54:41,151 - INFO: SRT subtitles saved: D:\youtube_vedio\2023\processed\yBPQ2rxjD7g\yBPQ2rxjD7g_transcript.srt
+2025-06-14 19:54:41,153 - INFO: Processing completed - Total: 36, Successful: 36
+2025-06-14 19:54:41,153 - INFO: Total processing time: 299.17 seconds
+2025-06-14 20:12:12,530 - INFO: Using device: cuda
+2025-06-14 20:12:12,530 - INFO: Loading medium model
+2025-06-14 20:12:19,779 - INFO: Processing audio: D:\youtube_vedio\2022\processed\-QdSFj17Su8\audio.mp3
+2025-06-14 20:12:19,781 - INFO: Using device: cuda
+2025-06-14 20:12:22,783 - INFO: Transcription time: 3.00 seconds
+2025-06-14 20:12:22,884 - INFO: Full text saved: D:\youtube_vedio\2022\processed\-QdSFj17Su8\-QdSFj17Su8_transcript.txt
+2025-06-14 20:12:22,886 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\-QdSFj17Su8\-QdSFj17Su8_transcript.srt
+2025-06-14 20:12:22,886 - INFO: Processing audio: D:\youtube_vedio\2022\processed\-x__vh1H0dQ\audio.mp3
+2025-06-14 20:12:22,886 - INFO: Using device: cuda
+2025-06-14 20:12:24,156 - INFO: Transcription time: 1.27 seconds
+2025-06-14 20:12:24,258 - INFO: Full text saved: D:\youtube_vedio\2022\processed\-x__vh1H0dQ\-x__vh1H0dQ_transcript.txt
+2025-06-14 20:12:24,260 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\-x__vh1H0dQ\-x__vh1H0dQ_transcript.srt
+2025-06-14 20:12:24,262 - INFO: Processing audio: D:\youtube_vedio\2022\processed\0XXmCAwO3qg\audio.mp3
+2025-06-14 20:12:24,262 - INFO: Using device: cuda
+2025-06-14 20:12:27,704 - INFO: Transcription time: 3.44 seconds
+2025-06-14 20:12:27,805 - INFO: Full text saved: D:\youtube_vedio\2022\processed\0XXmCAwO3qg\0XXmCAwO3qg_transcript.txt
+2025-06-14 20:12:27,809 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\0XXmCAwO3qg\0XXmCAwO3qg_transcript.srt
+2025-06-14 20:12:27,810 - INFO: Processing audio: D:\youtube_vedio\2022\processed\4TEKZo6b11M\audio.mp3
+2025-06-14 20:12:27,811 - INFO: Using device: cuda
+2025-06-14 20:12:33,364 - INFO: Transcription time: 5.55 seconds
+2025-06-14 20:12:33,465 - INFO: Full text saved: D:\youtube_vedio\2022\processed\4TEKZo6b11M\4TEKZo6b11M_transcript.txt
+2025-06-14 20:12:33,467 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\4TEKZo6b11M\4TEKZo6b11M_transcript.srt
+2025-06-14 20:12:33,467 - INFO: Processing audio: D:\youtube_vedio\2022\processed\6rcw6GdCQC8\audio.mp3
+2025-06-14 20:12:33,467 - INFO: Using device: cuda
+2025-06-14 20:12:39,650 - INFO: Transcription time: 6.18 seconds
+2025-06-14 20:12:39,751 - INFO: Full text saved: D:\youtube_vedio\2022\processed\6rcw6GdCQC8\6rcw6GdCQC8_transcript.txt
+2025-06-14 20:12:39,752 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\6rcw6GdCQC8\6rcw6GdCQC8_transcript.srt
+2025-06-14 20:12:39,753 - INFO: Processing audio: D:\youtube_vedio\2022\processed\AV8NXzi5Lj0\audio.mp3
+2025-06-14 20:12:39,754 - INFO: Using device: cuda
+2025-06-14 20:12:44,582 - INFO: Transcription time: 4.83 seconds
+2025-06-14 20:12:44,684 - INFO: Full text saved: D:\youtube_vedio\2022\processed\AV8NXzi5Lj0\AV8NXzi5Lj0_transcript.txt
+2025-06-14 20:12:44,685 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\AV8NXzi5Lj0\AV8NXzi5Lj0_transcript.srt
+2025-06-14 20:12:44,686 - INFO: Processing audio: D:\youtube_vedio\2022\processed\B4QI0VzbkHk\audio.mp3
+2025-06-14 20:12:44,686 - INFO: Using device: cuda
+2025-06-14 20:12:46,574 - INFO: Transcription time: 1.89 seconds
+2025-06-14 20:12:46,676 - INFO: Full text saved: D:\youtube_vedio\2022\processed\B4QI0VzbkHk\B4QI0VzbkHk_transcript.txt
+2025-06-14 20:12:46,677 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\B4QI0VzbkHk\B4QI0VzbkHk_transcript.srt
+2025-06-14 20:12:46,678 - INFO: Processing audio: D:\youtube_vedio\2022\processed\CMaispXEh94\audio.mp3
+2025-06-14 20:12:46,678 - INFO: Using device: cuda
+2025-06-14 20:12:50,930 - INFO: Transcription time: 4.25 seconds
+2025-06-14 20:12:51,032 - INFO: Full text saved: D:\youtube_vedio\2022\processed\CMaispXEh94\CMaispXEh94_transcript.txt
+2025-06-14 20:12:51,033 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\CMaispXEh94\CMaispXEh94_transcript.srt
+2025-06-14 20:12:51,034 - INFO: Processing audio: D:\youtube_vedio\2022\processed\eIUD_NE1BDo\audio.mp3
+2025-06-14 20:12:51,034 - INFO: Using device: cuda
+2025-06-14 20:12:53,159 - INFO: Transcription time: 2.12 seconds
+2025-06-14 20:12:53,260 - INFO: Full text saved: D:\youtube_vedio\2022\processed\eIUD_NE1BDo\eIUD_NE1BDo_transcript.txt
+2025-06-14 20:12:53,264 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\eIUD_NE1BDo\eIUD_NE1BDo_transcript.srt
+2025-06-14 20:12:53,265 - INFO: Processing audio: D:\youtube_vedio\2022\processed\ev82iHoLk8s\audio.mp3
+2025-06-14 20:12:53,266 - INFO: Using device: cuda
+2025-06-14 20:12:55,843 - INFO: Transcription time: 2.58 seconds
+2025-06-14 20:12:55,945 - INFO: Full text saved: D:\youtube_vedio\2022\processed\ev82iHoLk8s\ev82iHoLk8s_transcript.txt
+2025-06-14 20:12:55,946 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\ev82iHoLk8s\ev82iHoLk8s_transcript.srt
+2025-06-14 20:12:55,947 - INFO: Processing audio: D:\youtube_vedio\2022\processed\fwnbHVYgprA\audio.mp3
+2025-06-14 20:12:55,947 - INFO: Using device: cuda
+2025-06-14 20:12:58,503 - INFO: Transcription time: 2.56 seconds
+2025-06-14 20:12:58,604 - INFO: Full text saved: D:\youtube_vedio\2022\processed\fwnbHVYgprA\fwnbHVYgprA_transcript.txt
+2025-06-14 20:12:58,606 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\fwnbHVYgprA\fwnbHVYgprA_transcript.srt
+2025-06-14 20:12:58,607 - INFO: Processing audio: D:\youtube_vedio\2022\processed\Ha8ofuzpriE\audio.mp3
+2025-06-14 20:12:58,607 - INFO: Using device: cuda
+2025-06-14 20:13:04,006 - INFO: Transcription time: 5.40 seconds
+2025-06-14 20:13:04,108 - INFO: Full text saved: D:\youtube_vedio\2022\processed\Ha8ofuzpriE\Ha8ofuzpriE_transcript.txt
+2025-06-14 20:13:04,111 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\Ha8ofuzpriE\Ha8ofuzpriE_transcript.srt
+2025-06-14 20:13:04,112 - INFO: Processing audio: D:\youtube_vedio\2022\processed\KM3Yx-5Ymiw\audio.mp3
+2025-06-14 20:13:04,112 - INFO: Using device: cuda
+2025-06-14 20:13:06,329 - INFO: Transcription time: 2.22 seconds
+2025-06-14 20:13:06,431 - INFO: Full text saved: D:\youtube_vedio\2022\processed\KM3Yx-5Ymiw\KM3Yx-5Ymiw_transcript.txt
+2025-06-14 20:13:06,433 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\KM3Yx-5Ymiw\KM3Yx-5Ymiw_transcript.srt
+2025-06-14 20:13:06,434 - INFO: Processing audio: D:\youtube_vedio\2022\processed\nUC1QA5gRcU\audio.mp3
+2025-06-14 20:13:06,435 - INFO: Using device: cuda
+2025-06-14 20:13:14,133 - INFO: Transcription time: 7.70 seconds
+2025-06-14 20:13:14,235 - INFO: Full text saved: D:\youtube_vedio\2022\processed\nUC1QA5gRcU\nUC1QA5gRcU_transcript.txt
+2025-06-14 20:13:14,238 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\nUC1QA5gRcU\nUC1QA5gRcU_transcript.srt
+2025-06-14 20:13:14,239 - INFO: Processing audio: D:\youtube_vedio\2022\processed\PqgaQ9WnJSI\audio.mp3
+2025-06-14 20:13:14,240 - INFO: Using device: cuda
+2025-06-14 20:13:20,263 - INFO: Transcription time: 6.02 seconds
+2025-06-14 20:13:20,365 - INFO: Full text saved: D:\youtube_vedio\2022\processed\PqgaQ9WnJSI\PqgaQ9WnJSI_transcript.txt
+2025-06-14 20:13:20,368 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\PqgaQ9WnJSI\PqgaQ9WnJSI_transcript.srt
+2025-06-14 20:13:20,369 - INFO: Processing audio: D:\youtube_vedio\2022\processed\rjZ_O-c3QRw\audio.mp3
+2025-06-14 20:13:20,369 - INFO: Using device: cuda
+2025-06-14 20:13:25,783 - INFO: Transcription time: 5.41 seconds
+2025-06-14 20:13:25,884 - INFO: Full text saved: D:\youtube_vedio\2022\processed\rjZ_O-c3QRw\rjZ_O-c3QRw_transcript.txt
+2025-06-14 20:13:25,885 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\rjZ_O-c3QRw\rjZ_O-c3QRw_transcript.srt
+2025-06-14 20:13:25,886 - INFO: Processing audio: D:\youtube_vedio\2022\processed\UihVmkDISsg\audio.mp3
+2025-06-14 20:13:25,886 - INFO: Using device: cuda
+2025-06-14 20:13:40,498 - INFO: Transcription time: 14.61 seconds
+2025-06-14 20:13:40,600 - INFO: Full text saved: D:\youtube_vedio\2022\processed\UihVmkDISsg\UihVmkDISsg_transcript.txt
+2025-06-14 20:13:40,601 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\UihVmkDISsg\UihVmkDISsg_transcript.srt
+2025-06-14 20:13:40,601 - INFO: Processing audio: D:\youtube_vedio\2022\processed\Vs0YHD0JoCk\audio.mp3
+2025-06-14 20:13:40,601 - INFO: Using device: cuda
+2025-06-14 20:13:56,957 - INFO: Transcription time: 16.36 seconds
+2025-06-14 20:13:57,058 - INFO: Full text saved: D:\youtube_vedio\2022\processed\Vs0YHD0JoCk\Vs0YHD0JoCk_transcript.txt
+2025-06-14 20:13:57,059 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\Vs0YHD0JoCk\Vs0YHD0JoCk_transcript.srt
+2025-06-14 20:13:57,060 - INFO: Processing audio: D:\youtube_vedio\2022\processed\YchR7cbFuAU\audio.mp3
+2025-06-14 20:13:57,060 - INFO: Using device: cuda
+2025-06-14 20:14:01,854 - INFO: Transcription time: 4.79 seconds
+2025-06-14 20:14:01,955 - INFO: Full text saved: D:\youtube_vedio\2022\processed\YchR7cbFuAU\YchR7cbFuAU_transcript.txt
+2025-06-14 20:14:01,956 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\YchR7cbFuAU\YchR7cbFuAU_transcript.srt
+2025-06-14 20:14:01,957 - INFO: Processing audio: D:\youtube_vedio\2022\processed\YpKYj8edUOg\audio.mp3
+2025-06-14 20:14:01,957 - INFO: Using device: cuda
+2025-06-14 20:14:08,016 - INFO: Transcription time: 6.06 seconds
+2025-06-14 20:14:08,117 - INFO: Full text saved: D:\youtube_vedio\2022\processed\YpKYj8edUOg\YpKYj8edUOg_transcript.txt
+2025-06-14 20:14:08,118 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\YpKYj8edUOg\YpKYj8edUOg_transcript.srt
+2025-06-14 20:14:08,119 - INFO: Processing audio: D:\youtube_vedio\2022\processed\YPV7X8_zKfc\audio.mp3
+2025-06-14 20:14:08,119 - INFO: Using device: cuda
+2025-06-14 20:14:09,172 - INFO: Transcription time: 1.05 seconds
+2025-06-14 20:14:09,273 - INFO: Full text saved: D:\youtube_vedio\2022\processed\YPV7X8_zKfc\YPV7X8_zKfc_transcript.txt
+2025-06-14 20:14:09,275 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\YPV7X8_zKfc\YPV7X8_zKfc_transcript.srt
+2025-06-14 20:14:09,275 - INFO: Processing audio: D:\youtube_vedio\2022\processed\zDHBioJ-jQ8\audio.mp3
+2025-06-14 20:14:09,275 - INFO: Using device: cuda
+2025-06-14 20:14:14,353 - INFO: Transcription time: 5.08 seconds
+2025-06-14 20:14:14,455 - INFO: Full text saved: D:\youtube_vedio\2022\processed\zDHBioJ-jQ8\zDHBioJ-jQ8_transcript.txt
+2025-06-14 20:14:14,457 - INFO: SRT subtitles saved: D:\youtube_vedio\2022\processed\zDHBioJ-jQ8\zDHBioJ-jQ8_transcript.srt
+2025-06-14 20:14:14,457 - INFO: Processing completed - Total: 22, Successful: 22
+2025-06-14 20:14:14,457 - INFO: Total processing time: 115.67 seconds
+2025-06-14 20:19:20,395 - INFO: Using device: cuda
+2025-06-14 20:19:20,396 - INFO: Loading medium model
+2025-06-14 20:19:25,650 - INFO: Processing audio: D:\youtube_vedio\2021\processed\1B9LY9zoox0\audio.mp3
+2025-06-14 20:19:25,650 - INFO: Using device: cuda
+2025-06-14 20:19:32,416 - INFO: Transcription time: 6.77 seconds
+2025-06-14 20:19:32,517 - INFO: Full text saved: D:\youtube_vedio\2021\processed\1B9LY9zoox0\1B9LY9zoox0_transcript.txt
+2025-06-14 20:19:32,521 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\1B9LY9zoox0\1B9LY9zoox0_transcript.srt
+2025-06-14 20:19:32,522 - INFO: Processing audio: D:\youtube_vedio\2021\processed\3F1KdZCJ6Vg\audio.mp3
+2025-06-14 20:19:32,523 - INFO: Using device: cuda
+2025-06-14 20:19:40,613 - INFO: Transcription time: 8.09 seconds
+2025-06-14 20:19:40,715 - INFO: Full text saved: D:\youtube_vedio\2021\processed\3F1KdZCJ6Vg\3F1KdZCJ6Vg_transcript.txt
+2025-06-14 20:19:40,716 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\3F1KdZCJ6Vg\3F1KdZCJ6Vg_transcript.srt
+2025-06-14 20:19:40,716 - INFO: Processing audio: D:\youtube_vedio\2021\processed\5L6juLUkwuw\audio.mp3
+2025-06-14 20:19:40,717 - INFO: Using device: cuda
+2025-06-14 20:19:50,569 - INFO: Transcription time: 9.85 seconds
+2025-06-14 20:19:50,671 - INFO: Full text saved: D:\youtube_vedio\2021\processed\5L6juLUkwuw\5L6juLUkwuw_transcript.txt
+2025-06-14 20:19:50,672 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\5L6juLUkwuw\5L6juLUkwuw_transcript.srt
+2025-06-14 20:19:50,674 - INFO: Processing audio: D:\youtube_vedio\2021\processed\7ZUT9ftBWI8\audio.mp3
+2025-06-14 20:19:50,674 - INFO: Using device: cuda
+2025-06-14 20:19:55,981 - INFO: Transcription time: 5.31 seconds
+2025-06-14 20:19:56,083 - INFO: Full text saved: D:\youtube_vedio\2021\processed\7ZUT9ftBWI8\7ZUT9ftBWI8_transcript.txt
+2025-06-14 20:19:56,086 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\7ZUT9ftBWI8\7ZUT9ftBWI8_transcript.srt
+2025-06-14 20:19:56,087 - INFO: Processing audio: D:\youtube_vedio\2021\processed\9cEiYQwYLPk\audio.mp3
+2025-06-14 20:19:56,087 - INFO: Using device: cuda
+2025-06-14 20:19:57,677 - INFO: Transcription time: 1.59 seconds
+2025-06-14 20:19:57,778 - INFO: Full text saved: D:\youtube_vedio\2021\processed\9cEiYQwYLPk\9cEiYQwYLPk_transcript.txt
+2025-06-14 20:19:57,780 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\9cEiYQwYLPk\9cEiYQwYLPk_transcript.srt
+2025-06-14 20:19:57,780 - INFO: Processing audio: D:\youtube_vedio\2021\processed\APIMNM5X4jA\audio.mp3
+2025-06-14 20:19:57,780 - INFO: Using device: cuda
+2025-06-14 20:19:59,529 - INFO: Transcription time: 1.75 seconds
+2025-06-14 20:19:59,631 - INFO: Full text saved: D:\youtube_vedio\2021\processed\APIMNM5X4jA\APIMNM5X4jA_transcript.txt
+2025-06-14 20:19:59,633 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\APIMNM5X4jA\APIMNM5X4jA_transcript.srt
+2025-06-14 20:19:59,633 - INFO: Processing audio: D:\youtube_vedio\2021\processed\BkXHqihY4RE\audio.mp3
+2025-06-14 20:19:59,634 - INFO: Using device: cuda
+2025-06-14 20:20:04,074 - INFO: Transcription time: 4.44 seconds
+2025-06-14 20:20:04,175 - INFO: Full text saved: D:\youtube_vedio\2021\processed\BkXHqihY4RE\BkXHqihY4RE_transcript.txt
+2025-06-14 20:20:04,177 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\BkXHqihY4RE\BkXHqihY4RE_transcript.srt
+2025-06-14 20:20:04,177 - INFO: Processing audio: D:\youtube_vedio\2021\processed\cIP_Qw7UQyY\audio.mp3
+2025-06-14 20:20:04,177 - INFO: Using device: cuda
+2025-06-14 20:20:08,127 - INFO: Transcription time: 3.95 seconds
+2025-06-14 20:20:08,228 - INFO: Full text saved: D:\youtube_vedio\2021\processed\cIP_Qw7UQyY\cIP_Qw7UQyY_transcript.txt
+2025-06-14 20:20:08,230 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\cIP_Qw7UQyY\cIP_Qw7UQyY_transcript.srt
+2025-06-14 20:20:08,231 - INFO: Processing audio: D:\youtube_vedio\2021\processed\eB1m-WogYeg\audio.mp3
+2025-06-14 20:20:08,231 - INFO: Using device: cuda
+2025-06-14 20:20:11,594 - INFO: Transcription time: 3.36 seconds
+2025-06-14 20:20:11,696 - INFO: Full text saved: D:\youtube_vedio\2021\processed\eB1m-WogYeg\eB1m-WogYeg_transcript.txt
+2025-06-14 20:20:11,698 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\eB1m-WogYeg\eB1m-WogYeg_transcript.srt
+2025-06-14 20:20:11,699 - INFO: Processing audio: D:\youtube_vedio\2021\processed\eppEgrmFacQ\audio.mp3
+2025-06-14 20:20:11,699 - INFO: Using device: cuda
+2025-06-14 20:20:14,563 - INFO: Transcription time: 2.86 seconds
+2025-06-14 20:20:14,664 - INFO: Full text saved: D:\youtube_vedio\2021\processed\eppEgrmFacQ\eppEgrmFacQ_transcript.txt
+2025-06-14 20:20:14,666 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\eppEgrmFacQ\eppEgrmFacQ_transcript.srt
+2025-06-14 20:20:14,666 - INFO: Processing audio: D:\youtube_vedio\2021\processed\fIF3ijdpUwI\audio.mp3
+2025-06-14 20:20:14,666 - INFO: Using device: cuda
+2025-06-14 20:20:18,958 - INFO: Transcription time: 4.29 seconds
+2025-06-14 20:20:19,059 - INFO: Full text saved: D:\youtube_vedio\2021\processed\fIF3ijdpUwI\fIF3ijdpUwI_transcript.txt
+2025-06-14 20:20:19,060 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\fIF3ijdpUwI\fIF3ijdpUwI_transcript.srt
+2025-06-14 20:20:19,060 - INFO: Processing audio: D:\youtube_vedio\2021\processed\GkDreLMZUns\audio.mp3
+2025-06-14 20:20:19,060 - INFO: Using device: cuda
+2025-06-14 20:20:23,618 - INFO: Transcription time: 4.56 seconds
+2025-06-14 20:20:23,720 - INFO: Full text saved: D:\youtube_vedio\2021\processed\GkDreLMZUns\GkDreLMZUns_transcript.txt
+2025-06-14 20:20:23,720 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\GkDreLMZUns\GkDreLMZUns_transcript.srt
+2025-06-14 20:20:23,721 - INFO: Processing audio: D:\youtube_vedio\2021\processed\iG0jvqAfiKA\audio.mp3
+2025-06-14 20:20:23,721 - INFO: Using device: cuda
+2025-06-14 20:20:35,167 - INFO: Transcription time: 11.45 seconds
+2025-06-14 20:20:35,269 - INFO: Full text saved: D:\youtube_vedio\2021\processed\iG0jvqAfiKA\iG0jvqAfiKA_transcript.txt
+2025-06-14 20:20:35,270 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\iG0jvqAfiKA\iG0jvqAfiKA_transcript.srt
+2025-06-14 20:20:35,271 - INFO: Processing audio: D:\youtube_vedio\2021\processed\r2-f-qBcQFs\audio.mp3
+2025-06-14 20:20:35,271 - INFO: Using device: cuda
+2025-06-14 20:20:37,771 - INFO: Transcription time: 2.50 seconds
+2025-06-14 20:20:37,872 - INFO: Full text saved: D:\youtube_vedio\2021\processed\r2-f-qBcQFs\r2-f-qBcQFs_transcript.txt
+2025-06-14 20:20:37,875 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\r2-f-qBcQFs\r2-f-qBcQFs_transcript.srt
+2025-06-14 20:20:37,875 - INFO: Processing audio: D:\youtube_vedio\2021\processed\T0biHjojjnI\audio.mp3
+2025-06-14 20:20:37,875 - INFO: Using device: cuda
+2025-06-14 20:20:49,438 - INFO: Transcription time: 11.56 seconds
+2025-06-14 20:20:49,540 - INFO: Full text saved: D:\youtube_vedio\2021\processed\T0biHjojjnI\T0biHjojjnI_transcript.txt
+2025-06-14 20:20:49,541 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\T0biHjojjnI\T0biHjojjnI_transcript.srt
+2025-06-14 20:20:49,541 - INFO: Processing audio: D:\youtube_vedio\2021\processed\vDHNMqOLw_o\audio.mp3
+2025-06-14 20:20:49,542 - INFO: Using device: cuda
+2025-06-14 20:20:55,205 - INFO: Transcription time: 5.66 seconds
+2025-06-14 20:20:55,308 - INFO: Full text saved: D:\youtube_vedio\2021\processed\vDHNMqOLw_o\vDHNMqOLw_o_transcript.txt
+2025-06-14 20:20:55,309 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\vDHNMqOLw_o\vDHNMqOLw_o_transcript.srt
+2025-06-14 20:20:55,310 - INFO: Processing audio: D:\youtube_vedio\2021\processed\wtR1kB9RXVo\audio.mp3
+2025-06-14 20:20:55,310 - INFO: Using device: cuda
+2025-06-14 20:20:55,752 - INFO: Transcription time: 0.44 seconds
+2025-06-14 20:20:55,853 - INFO: Full text saved: D:\youtube_vedio\2021\processed\wtR1kB9RXVo\wtR1kB9RXVo_transcript.txt
+2025-06-14 20:20:55,855 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\wtR1kB9RXVo\wtR1kB9RXVo_transcript.srt
+2025-06-14 20:20:55,856 - INFO: Processing audio: D:\youtube_vedio\2021\processed\XelsNvpibpQ\audio.mp3
+2025-06-14 20:20:55,856 - INFO: Using device: cuda
+2025-06-14 20:21:01,897 - INFO: Transcription time: 6.04 seconds
+2025-06-14 20:21:01,999 - INFO: Full text saved: D:\youtube_vedio\2021\processed\XelsNvpibpQ\XelsNvpibpQ_transcript.txt
+2025-06-14 20:21:02,000 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\XelsNvpibpQ\XelsNvpibpQ_transcript.srt
+2025-06-14 20:21:02,000 - INFO: Processing audio: D:\youtube_vedio\2021\processed\XgiRUoIsr3E\audio.mp3
+2025-06-14 20:21:02,000 - INFO: Using device: cuda
+2025-06-14 20:21:22,249 - INFO: Transcription time: 20.25 seconds
+2025-06-14 20:21:22,350 - INFO: Full text saved: D:\youtube_vedio\2021\processed\XgiRUoIsr3E\XgiRUoIsr3E_transcript.txt
+2025-06-14 20:21:22,353 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\XgiRUoIsr3E\XgiRUoIsr3E_transcript.srt
+2025-06-14 20:21:22,355 - INFO: Processing audio: D:\youtube_vedio\2021\processed\xxNxqveseyI\audio.mp3
+2025-06-14 20:21:22,355 - INFO: Using device: cuda
+2025-06-14 20:21:30,465 - INFO: Transcription time: 8.11 seconds
+2025-06-14 20:21:30,567 - INFO: Full text saved: D:\youtube_vedio\2021\processed\xxNxqveseyI\xxNxqveseyI_transcript.txt
+2025-06-14 20:21:30,568 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\xxNxqveseyI\xxNxqveseyI_transcript.srt
+2025-06-14 20:21:30,568 - INFO: Processing audio: D:\youtube_vedio\2021\processed\yfLz54hzpPs\audio.mp3
+2025-06-14 20:21:30,568 - INFO: Using device: cuda
+2025-06-14 20:21:37,062 - INFO: Transcription time: 6.49 seconds
+2025-06-14 20:21:37,165 - INFO: Full text saved: D:\youtube_vedio\2021\processed\yfLz54hzpPs\yfLz54hzpPs_transcript.txt
+2025-06-14 20:21:37,166 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\yfLz54hzpPs\yfLz54hzpPs_transcript.srt
+2025-06-14 20:21:37,166 - INFO: Processing audio: D:\youtube_vedio\2021\processed\zN8naTqX3TI\audio.mp3
+2025-06-14 20:21:37,166 - INFO: Using device: cuda
+2025-06-14 20:21:42,626 - INFO: Transcription time: 5.46 seconds
+2025-06-14 20:21:42,728 - INFO: Full text saved: D:\youtube_vedio\2021\processed\zN8naTqX3TI\zN8naTqX3TI_transcript.txt
+2025-06-14 20:21:42,729 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\zN8naTqX3TI\zN8naTqX3TI_transcript.srt
+2025-06-14 20:21:42,729 - INFO: Processing audio: D:\youtube_vedio\2021\processed\_nwSmOEiDls\audio.mp3
+2025-06-14 20:21:42,729 - INFO: Using device: cuda
+2025-06-14 20:21:45,752 - INFO: Transcription time: 3.02 seconds
+2025-06-14 20:21:45,853 - INFO: Full text saved: D:\youtube_vedio\2021\processed\_nwSmOEiDls\_nwSmOEiDls_transcript.txt
+2025-06-14 20:21:45,855 - INFO: SRT subtitles saved: D:\youtube_vedio\2021\processed\_nwSmOEiDls\_nwSmOEiDls_transcript.srt
+2025-06-14 20:21:45,855 - INFO: Processing completed - Total: 23, Successful: 23
+2025-06-14 20:21:45,855 - INFO: Total processing time: 140.21 seconds
+2025-06-14 20:32:16,187 - INFO: Using device: cuda
+2025-06-14 20:32:16,187 - INFO: Loading medium model
+2025-06-14 22:17:03,758 - INFO: Using device: cuda
+2025-06-14 22:17:03,758 - INFO: Loading medium model
+2025-06-14 22:17:09,452 - INFO: Processing completed - Total: 0, Successful: 0
+2025-06-14 22:17:09,452 - INFO: Total processing time: 0.00 seconds
+2025-06-14 22:20:08,092 - INFO: Using device: cuda
+2025-06-14 22:20:08,092 - INFO: Loading medium model
+2025-06-14 22:20:13,074 - INFO: Processing audio: D:\youtube_vedio\2020\processed\-gAZRN3SCBw\audio.mp3
+2025-06-14 22:20:13,076 - INFO: Using device: cuda
+2025-06-14 22:20:15,998 - INFO: Transcription time: 2.92 seconds
+2025-06-14 22:20:16,100 - INFO: Full text saved: D:\youtube_vedio\2020\processed\-gAZRN3SCBw\-gAZRN3SCBw_transcript.txt
+2025-06-14 22:20:16,102 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\-gAZRN3SCBw\-gAZRN3SCBw_transcript.srt
+2025-06-14 22:20:16,102 - INFO: Processing audio: D:\youtube_vedio\2020\processed\62EB4JniuTc\audio.mp3
+2025-06-14 22:20:16,102 - INFO: Using device: cuda
+2025-06-14 22:20:17,836 - INFO: Transcription time: 1.73 seconds
+2025-06-14 22:20:17,938 - INFO: Full text saved: D:\youtube_vedio\2020\processed\62EB4JniuTc\62EB4JniuTc_transcript.txt
+2025-06-14 22:20:17,942 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\62EB4JniuTc\62EB4JniuTc_transcript.srt
+2025-06-14 22:20:17,942 - INFO: Processing audio: D:\youtube_vedio\2020\processed\7BgcG_l9J0A\audio.mp3
+2025-06-14 22:20:17,942 - INFO: Using device: cuda
+2025-06-14 22:20:19,846 - INFO: Transcription time: 1.90 seconds
+2025-06-14 22:20:19,946 - INFO: Full text saved: D:\youtube_vedio\2020\processed\7BgcG_l9J0A\7BgcG_l9J0A_transcript.txt
+2025-06-14 22:20:19,949 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\7BgcG_l9J0A\7BgcG_l9J0A_transcript.srt
+2025-06-14 22:20:19,949 - INFO: Processing audio: D:\youtube_vedio\2020\processed\8btMI_N8v8U\audio.mp3
+2025-06-14 22:20:19,949 - INFO: Using device: cuda
+2025-06-14 22:20:21,456 - INFO: Transcription time: 1.51 seconds
+2025-06-14 22:20:21,557 - INFO: Full text saved: D:\youtube_vedio\2020\processed\8btMI_N8v8U\8btMI_N8v8U_transcript.txt
+2025-06-14 22:20:21,559 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\8btMI_N8v8U\8btMI_N8v8U_transcript.srt
+2025-06-14 22:20:21,559 - INFO: Processing audio: D:\youtube_vedio\2020\processed\9Yp0yN8UxVg\audio.mp3
+2025-06-14 22:20:21,559 - INFO: Using device: cuda
+2025-06-14 22:20:30,194 - INFO: Transcription time: 8.64 seconds
+2025-06-14 22:20:30,296 - INFO: Full text saved: D:\youtube_vedio\2020\processed\9Yp0yN8UxVg\9Yp0yN8UxVg_transcript.txt
+2025-06-14 22:20:30,300 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\9Yp0yN8UxVg\9Yp0yN8UxVg_transcript.srt
+2025-06-14 22:20:30,300 - INFO: Processing audio: D:\youtube_vedio\2020\processed\ANarZ_113Xc\audio.mp3
+2025-06-14 22:20:30,302 - INFO: Using device: cuda
+2025-06-14 22:20:36,566 - INFO: Transcription time: 6.26 seconds
+2025-06-14 22:20:36,667 - INFO: Full text saved: D:\youtube_vedio\2020\processed\ANarZ_113Xc\ANarZ_113Xc_transcript.txt
+2025-06-14 22:20:36,669 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\ANarZ_113Xc\ANarZ_113Xc_transcript.srt
+2025-06-14 22:20:36,671 - INFO: Processing audio: D:\youtube_vedio\2020\processed\B5lslSPfhkg\audio.mp3
+2025-06-14 22:20:36,671 - INFO: Using device: cuda
+2025-06-14 22:20:59,681 - INFO: Transcription time: 23.01 seconds
+2025-06-14 22:20:59,783 - INFO: Full text saved: D:\youtube_vedio\2020\processed\B5lslSPfhkg\B5lslSPfhkg_transcript.txt
+2025-06-14 22:20:59,787 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\B5lslSPfhkg\B5lslSPfhkg_transcript.srt
+2025-06-14 22:20:59,787 - INFO: Processing audio: D:\youtube_vedio\2020\processed\Cdpf1Dl5b_4\audio.mp3
+2025-06-14 22:20:59,789 - INFO: Using device: cuda
+2025-06-14 22:21:03,302 - INFO: Transcription time: 3.51 seconds
+2025-06-14 22:21:03,404 - INFO: Full text saved: D:\youtube_vedio\2020\processed\Cdpf1Dl5b_4\Cdpf1Dl5b_4_transcript.txt
+2025-06-14 22:21:03,407 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\Cdpf1Dl5b_4\Cdpf1Dl5b_4_transcript.srt
+2025-06-14 22:21:03,408 - INFO: Processing audio: D:\youtube_vedio\2020\processed\D1dnw4t23P8\audio.mp3
+2025-06-14 22:21:03,409 - INFO: Using device: cuda
+2025-06-14 22:21:09,037 - INFO: Transcription time: 5.63 seconds
+2025-06-14 22:21:09,138 - INFO: Full text saved: D:\youtube_vedio\2020\processed\D1dnw4t23P8\D1dnw4t23P8_transcript.txt
+2025-06-14 22:21:09,140 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\D1dnw4t23P8\D1dnw4t23P8_transcript.srt
+2025-06-14 22:21:09,142 - INFO: Processing audio: D:\youtube_vedio\2020\processed\EjVUaAT1Ftc\audio.mp3
+2025-06-14 22:21:09,142 - INFO: Using device: cuda
+2025-06-14 22:21:10,130 - INFO: Transcription time: 0.99 seconds
+2025-06-14 22:21:10,231 - INFO: Full text saved: D:\youtube_vedio\2020\processed\EjVUaAT1Ftc\EjVUaAT1Ftc_transcript.txt
+2025-06-14 22:21:10,233 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\EjVUaAT1Ftc\EjVUaAT1Ftc_transcript.srt
+2025-06-14 22:21:10,233 - INFO: Processing audio: D:\youtube_vedio\2020\processed\gckObDeYpAA\audio.mp3
+2025-06-14 22:21:10,235 - INFO: Using device: cuda
+2025-06-14 22:21:15,760 - INFO: Transcription time: 5.53 seconds
+2025-06-14 22:21:15,762 - INFO: Full text saved: D:\youtube_vedio\2020\processed\gckObDeYpAA\gckObDeYpAA_transcript.txt
+2025-06-14 22:21:15,762 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\gckObDeYpAA\gckObDeYpAA_transcript.srt
+2025-06-14 22:21:15,762 - INFO: Processing audio: D:\youtube_vedio\2020\processed\jct5PVDDUtc\audio.mp3
+2025-06-14 22:21:15,764 - INFO: Using device: cuda
+2025-06-14 22:21:20,289 - INFO: Transcription time: 4.52 seconds
+2025-06-14 22:21:20,389 - INFO: Full text saved: D:\youtube_vedio\2020\processed\jct5PVDDUtc\jct5PVDDUtc_transcript.txt
+2025-06-14 22:21:20,393 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\jct5PVDDUtc\jct5PVDDUtc_transcript.srt
+2025-06-14 22:21:20,393 - INFO: Processing audio: D:\youtube_vedio\2020\processed\lTL3OZkVMHQ\audio.mp3
+2025-06-14 22:21:20,393 - INFO: Using device: cuda
+2025-06-14 22:21:22,533 - INFO: Transcription time: 2.14 seconds
+2025-06-14 22:21:22,634 - INFO: Full text saved: D:\youtube_vedio\2020\processed\lTL3OZkVMHQ\lTL3OZkVMHQ_transcript.txt
+2025-06-14 22:21:22,636 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\lTL3OZkVMHQ\lTL3OZkVMHQ_transcript.srt
+2025-06-14 22:21:22,638 - INFO: Processing audio: D:\youtube_vedio\2020\processed\m4sVnOsXlAA\audio.mp3
+2025-06-14 22:21:22,638 - INFO: Using device: cuda
+2025-06-14 22:21:27,581 - INFO: Transcription time: 4.94 seconds
+2025-06-14 22:21:27,683 - INFO: Full text saved: D:\youtube_vedio\2020\processed\m4sVnOsXlAA\m4sVnOsXlAA_transcript.txt
+2025-06-14 22:21:27,685 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\m4sVnOsXlAA\m4sVnOsXlAA_transcript.srt
+2025-06-14 22:21:27,687 - INFO: Processing audio: D:\youtube_vedio\2020\processed\mi5RoP1-8-I\audio.mp3
+2025-06-14 22:21:27,687 - INFO: Using device: cuda
+2025-06-14 22:21:30,256 - INFO: Transcription time: 2.57 seconds
+2025-06-14 22:21:30,356 - INFO: Full text saved: D:\youtube_vedio\2020\processed\mi5RoP1-8-I\mi5RoP1-8-I_transcript.txt
+2025-06-14 22:21:30,360 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\mi5RoP1-8-I\mi5RoP1-8-I_transcript.srt
+2025-06-14 22:21:30,362 - INFO: Processing audio: D:\youtube_vedio\2020\processed\MoVpgtAJHfU\audio.mp3
+2025-06-14 22:21:30,362 - INFO: Using device: cuda
+2025-06-14 22:21:32,917 - INFO: Transcription time: 2.56 seconds
+2025-06-14 22:21:33,017 - INFO: Full text saved: D:\youtube_vedio\2020\processed\MoVpgtAJHfU\MoVpgtAJHfU_transcript.txt
+2025-06-14 22:21:33,021 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\MoVpgtAJHfU\MoVpgtAJHfU_transcript.srt
+2025-06-14 22:21:33,021 - INFO: Processing audio: D:\youtube_vedio\2020\processed\NSmkA7hcNjs\audio.mp3
+2025-06-14 22:21:33,023 - INFO: Using device: cuda
+2025-06-14 22:21:36,425 - INFO: Transcription time: 3.40 seconds
+2025-06-14 22:21:36,527 - INFO: Full text saved: D:\youtube_vedio\2020\processed\NSmkA7hcNjs\NSmkA7hcNjs_transcript.txt
+2025-06-14 22:21:36,529 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\NSmkA7hcNjs\NSmkA7hcNjs_transcript.srt
+2025-06-14 22:21:36,531 - INFO: Processing audio: D:\youtube_vedio\2020\processed\pHYiE4W4EO8\audio.mp3
+2025-06-14 22:21:36,531 - INFO: Using device: cuda
+2025-06-14 22:22:02,629 - INFO: Transcription time: 26.10 seconds
+2025-06-14 22:22:02,731 - INFO: Full text saved: D:\youtube_vedio\2020\processed\pHYiE4W4EO8\pHYiE4W4EO8_transcript.txt
+2025-06-14 22:22:02,735 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\pHYiE4W4EO8\pHYiE4W4EO8_transcript.srt
+2025-06-14 22:22:02,735 - INFO: Processing audio: D:\youtube_vedio\2020\processed\pPZDV1eCI0c\audio.mp3
+2025-06-14 22:22:02,735 - INFO: Using device: cuda
+2025-06-14 22:22:03,594 - INFO: Transcription time: 0.86 seconds
+2025-06-14 22:22:03,695 - INFO: Full text saved: D:\youtube_vedio\2020\processed\pPZDV1eCI0c\pPZDV1eCI0c_transcript.txt
+2025-06-14 22:22:03,699 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\pPZDV1eCI0c\pPZDV1eCI0c_transcript.srt
+2025-06-14 22:22:03,699 - INFO: Processing audio: D:\youtube_vedio\2020\processed\SAYJqf6Bjio\audio.mp3
+2025-06-14 22:22:03,701 - INFO: Using device: cuda
+2025-06-14 22:22:07,356 - INFO: Transcription time: 3.65 seconds
+2025-06-14 22:22:07,457 - INFO: Full text saved: D:\youtube_vedio\2020\processed\SAYJqf6Bjio\SAYJqf6Bjio_transcript.txt
+2025-06-14 22:22:07,459 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\SAYJqf6Bjio\SAYJqf6Bjio_transcript.srt
+2025-06-14 22:22:07,459 - INFO: Processing audio: D:\youtube_vedio\2020\processed\tHoYKy1GMgM\audio.mp3
+2025-06-14 22:22:07,459 - INFO: Using device: cuda
+2025-06-14 22:22:10,134 - INFO: Transcription time: 2.67 seconds
+2025-06-14 22:22:10,236 - INFO: Full text saved: D:\youtube_vedio\2020\processed\tHoYKy1GMgM\tHoYKy1GMgM_transcript.txt
+2025-06-14 22:22:10,238 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\tHoYKy1GMgM\tHoYKy1GMgM_transcript.srt
+2025-06-14 22:22:10,238 - INFO: Processing audio: D:\youtube_vedio\2020\processed\U7h6Vls-uO8\audio.mp3
+2025-06-14 22:22:10,240 - INFO: Using device: cuda
+2025-06-14 22:22:19,196 - INFO: Transcription time: 8.96 seconds
+2025-06-14 22:22:19,299 - INFO: Full text saved: D:\youtube_vedio\2020\processed\U7h6Vls-uO8\U7h6Vls-uO8_transcript.txt
+2025-06-14 22:22:19,301 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\U7h6Vls-uO8\U7h6Vls-uO8_transcript.srt
+2025-06-14 22:22:19,303 - INFO: Processing audio: D:\youtube_vedio\2020\processed\yHz3lJq1Vu0\audio.mp3
+2025-06-14 22:22:19,303 - INFO: Using device: cuda
+2025-06-14 22:22:30,209 - INFO: Transcription time: 10.91 seconds
+2025-06-14 22:22:30,310 - INFO: Full text saved: D:\youtube_vedio\2020\processed\yHz3lJq1Vu0\yHz3lJq1Vu0_transcript.txt
+2025-06-14 22:22:30,312 - INFO: SRT subtitles saved: D:\youtube_vedio\2020\processed\yHz3lJq1Vu0\yHz3lJq1Vu0_transcript.srt
+2025-06-14 22:22:30,312 - INFO: Processing completed - Total: 23, Successful: 23
+2025-06-14 22:22:30,314 - INFO: Total processing time: 137.24 seconds
