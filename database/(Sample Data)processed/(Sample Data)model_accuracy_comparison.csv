@@ -1,0 +1,6 @@
+Model,Matched Count,Total Count,Accuracy
+TextBlob Sentiment,40743,50758,0.8027
+VADER Sentiment,40090,50758,0.7898
+BART Sentiment,24407,50758,0.4809
+RoBERTa Sentiment,39621,50758,0.7806
+FinBERT Sentiment,28331,50758,0.5582

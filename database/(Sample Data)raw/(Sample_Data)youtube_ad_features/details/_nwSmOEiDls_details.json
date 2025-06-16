@@ -1,0 +1,84 @@
+{
+  "video_id": "_nwSmOEiDls",
+  "source_url": "https://www.superbowl-ads.com/2021-inspiration4-join-worlds-first-all-civilian-mission-to-space/",
+  "title": "Super Bowl Ad: Join The First All-Civilian Space Mission | Inspiration4",
+  "description": "Inspiration4 is scheduled to be the world’s first all-civilian mission to space, commanded by Jared Isaacman, founder and CEO of e-commerce Shift4 Payments and an accomplished pilot. You can enter to win one of two seats on this historic mission. This invitation has been extended to you during the broadcast of Super Bowl LV. Directed by Bryce Dallas Howard, narrated by Octavia Spencer and fueled by Celeste’s ‘twinkling’ take on a classic lullaby, Inspiration4’s Super Bowl spot brings an inspiring opportunity to life as two people will be chosen to join the four-person crew. The Inspiration4 crew will undergo commercial astronaut training by SpaceX on the Falcon 9 launch vehicle and Dragon spacecraft. Learn how to enter here: https://inspiration4.com\n\nMusic by Celeste: https://Celeste.lnk.to/TTLSID",
+  "published_at": "2021-02-03T14:01:24Z",
+  "tags": [
+    "inspiration4",
+    "spacex",
+    "stjude",
+    "shift4",
+    "shift4shop",
+    "space",
+    "e-commerce",
+    "ecommerce"
+  ],
+  "default_language": "",
+  "view_count": 236040,
+  "like_count": 1628,
+  "comment_count": 223,
+  "engagement_rate": 0.7841891204880529,
+  "duration": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 31
+  },
+  "category_id": "28",
+  "channel_name": "Inspiration4",
+  "channel_subscriber_count": 5650,
+  "potential_themes": {
+    "Humor": false,
+    "Emotional": true,
+    "Technology": false,
+    "Social Issues": false,
+    "Nostalgic": true
+  },
+  "emotional_tone": {
+    "polarity_score": 0.28703703703703703,
+    "subjectivity_score": 0.41481481481481475,
+    "emotional_category": "Slightly Positive"
+  },
+  "transcript": [
+    {
+      "text": "twinkle twinkle",
+      "start": 0.08,
+      "duration": 7.92
+    },
+    {
+      "text": "little star this fall",
+      "start": 4.56,
+      "duration": 6.56
+    },
+    {
+      "text": "inspiration four launches as the first",
+      "start": 8.0,
+      "duration": 7.2
+    },
+    {
+      "text": "all-civilian mission to space",
+      "start": 11.12,
+      "duration": 8.48
+    },
+    {
+      "text": "and you could be on board",
+      "start": 15.2,
+      "duration": 4.4
+    },
+    {
+      "text": "up above the world",
+      "start": 20.16,
+      "duration": 7.52
+    },
+    {
+      "text": "visit inspiration4.com for your chance",
+      "start": 23.76,
+      "duration": 8.08
+    },
+    {
+      "text": "to go to space",
+      "start": 27.68,
+      "duration": 4.16
+    }
+  ]
+}

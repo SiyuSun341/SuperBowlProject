@@ -1,0 +1,91 @@
+{
+  "video_id": "0x-nGdi_3_o",
+  "source_url": "https://www.superbowl-ads.com/pringles-super-bowl-lix-2025-ad-the-call-of-the-mustaches/",
+  "title": "Pringles | The Call of The Mustaches",
+  "description": "Hold onto your mustaches... The Call for more Pringles is being made. #BigGame",
+  "published_at": "2025-02-03T13:25:05Z",
+  "tags": [
+    "pringles",
+    "flavor stack",
+    "pringles stack",
+    "flavor stacking",
+    "get stacking"
+  ],
+  "default_language": "",
+  "view_count": 5605418,
+  "like_count": 719,
+  "comment_count": 55,
+  "engagement_rate": 0.01380806926441525,
+  "duration": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 31
+  },
+  "category_id": "22",
+  "channel_name": "Pringles U.S.",
+  "channel_subscriber_count": 26900,
+  "potential_themes": {
+    "Humor": false,
+    "Emotional": false,
+    "Technology": false,
+    "Social Issues": false,
+    "Nostalgic": false
+  },
+  "emotional_tone": {
+    "polarity_score": 0.5,
+    "subjectivity_score": 0.5,
+    "emotional_category": "Slightly Positive"
+  },
+  "transcript": [
+    {
+      "text": "we're out of Pringles just blow in the",
+      "start": 0.399,
+      "duration": 5.721
+    },
+    {
+      "text": "can do",
+      "start": 2.919,
+      "duration": 3.201
+    },
+    {
+      "text": "[Music]",
+      "start": 8.26,
+      "duration": 6.62
+    },
+    {
+      "text": "it like to thank our",
+      "start": 11.16,
+      "duration": 3.72
+    },
+    {
+      "text": "[Applause]",
+      "start": 16.059,
+      "duration": 3.341
+    },
+    {
+      "text": "fans",
+      "start": 17.84,
+      "duration": 3.12
+    },
+    {
+      "text": "mustach",
+      "start": 19.4,
+      "duration": 4.56
+    },
+    {
+      "text": "mustach",
+      "start": 20.96,
+      "duration": 3.0
+    },
+    {
+      "text": "mustach I'm just going to go to the",
+      "start": 24.96,
+      "duration": 7.0
+    },
+    {
+      "text": "store I think you got my I like it",
+      "start": 27.279,
+      "duration": 4.681
+    }
+  ]
+}

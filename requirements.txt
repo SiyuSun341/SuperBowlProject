@@ -1,49 +1,77 @@
-# Data Collection
-requests>=2.31.0
-youtube-dl>=2021.12.17
-praw>=7.7.1
-google-api-python-client>=2.108.0
-google-auth-oauthlib>=1.1.0
-beautifulsoup4>=4.12.2
-selenium>=4.15.2
+# Super Bowl Advertisement Analysis Project Requirements
+# Core scraping dependencies for immediate use
 
-# Data Processing
+# Data Collection - Core
+requests>=2.31.0
+selenium>=4.15.0
+webdriver-manager==4.0.1
+beautifulsoup4>=4.12.2
+undetected-chromedriver==3.5.0
+lxml>=4.9.3
+pytube
+yt-dlp
+fake-useragent>=1.4.0
+
+# Data Processing - Essential
 pandas>=2.1.3
 numpy>=1.24.3
-scipy>=1.11.3
-nltk>=3.8.1
-spacy>=3.7.2
-textblob>=0.17.1
-vaderSentiment>=3.3.2
-
-# Machine Learning
-scikit-learn>=1.3.2
-tensorflow>=2.14.0
-torch>=2.1.1
-transformers>=4.35.2
-gensim>=4.3.2
-
-# Visualization
-matplotlib>=3.8.2
-seaborn>=0.13.0
-plotly>=5.18.0
-dash>=2.14.2
-streamlit>=1.29.0
-
-# Database
-sqlalchemy>=2.0.23
-pymongo>=4.6.1
+python-dateutil>=2.8.2
 
 # Utilities
 python-dotenv>=1.0.0
 pyyaml>=6.0.1
 tqdm>=4.66.1
-joblib>=1.3.2
+openpyxl>=3.1.2
+Pillow>=10.1.0
+json5>=0.9.6
+
+# Optional - YouTube Data Collection
+youtube-dl>=2021.12.17
+youtube-transcript-api
+google-api-python-client>=2.108.0
+google-auth-oauthlib>=1.1.0
+stem>=1.8.2
+
+# Optional - Reddit Data Collection
+praw>=7.7.1
+
+# Optional - Advanced Data Processing
+scipy>=1.11.3
+nltk>=3.8.1
+textblob>=0.17.1
+vaderSentiment>=3.3.2
+langdetect>=1.0.9
+
+# Optional - Machine Learning
+scikit-learn>=1.3.2
+xgboost>=2.0.3
+lightgbm>=4.1.0
+
+# Optional - Visualization
+matplotlib>=3.8.2
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# Optional - Database
+sqlalchemy>=2.0.23
+
+# Optional - Advanced AI (install only if needed)
+openai>=1.3.7
+google-generativeai>=0.3.2
+transformers>=4.35.2
+tensorflow>=2.14.0
+
+# GPU Whisper & Torch (CUDA 12.1 compatible)
+# Make sure your NVIDIA driver supports CUDA 12.1
+torch==2.1.1+cu121 --extra-index-url https://download.pytorch.org/whl/cu121
+torchaudio==2.1.1+cu121 --extra-index-url https://download.pytorch.org/whl/cu121
+whisper @ git+https://github.com/openai/whisper.git
+
+# Audio / Video Tools
+ffmpeg-python>=0.2.0
+librosa>=0.10.1  
+soundfile>=0.12.1  
+
+# Development Tools
 pytest>=7.4.3
 black>=23.11.0
-flake8>=6.1.0
-isort>=5.12.0
-
-# Documentation
-sphinx>=7.2.6
-sphinx-rtd-theme>=1.3.0 
