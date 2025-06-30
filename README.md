@@ -454,6 +454,7 @@ GOOGLE_APPLICATION_CREDENTIALS=path/to/credentials.json
 **Author**: Siyu Sun  
 **Email**: sunsiyu.suzy@gmail.com  
 **GitHub**: [@SiyuSun341](https://github.com/SiyuSun341)  
+**Linkedin**:[@Siyu Sun](https://www.linkedin.com/in/siyu667)
 
 ### Contributing
 While this is an academic project, suggestions and feedback are welcome! Please open an issue for discussion.
