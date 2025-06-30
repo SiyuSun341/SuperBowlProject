@@ -12,7 +12,7 @@ This project delivers a comprehensive AI-powered analysis of 25 years of Super B
 
 ### 📊 Key Achievements
 
-- **Data Volume**: 1,205 Super Bowl ads analyzed (2000-2025)
+- **Data Volume**: 1,205(1,185) Super Bowl ads analyzed (2000-2025)
 - **Model Performance**: 92.7% accuracy with CatBoost algorithm
 - **Business Impact**: Strategic guidance for $11M advertising investment
 - **Technical Innovation**: Multimodal analysis combining video, audio, and text sentiment
