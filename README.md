@@ -359,6 +359,7 @@ SuperBowlProject/
 - [Model Documentation](docs/model_documentation.md) - ML model details
 - [Setup Guide](docs/setup_guide.md) - Detailed environment setup
 - [User Guide](docs/user_guide.md) - Complete analysis walkthrough
+- [Superbowl setup](docs/superbowl_python_setup.md) -Complete Superbowl setup
 
 ---
 
@@ -442,8 +443,8 @@ GOOGLE_APPLICATION_CREDENTIALS=path/to/credentials.json
 - **GPU**: CUDA 11.0+ for Whisper and transformer models
 
 ### Performance Benchmarks
-- Data collection: ~24 hours for full 25-year dataset
-- Video processing: ~2-3 minutes per video with GPU
+- Data collection: ~150 hours for full 25-year dataset
+- Video processing: ~2 minutes per video with GPU
 - Model training: ~30 minutes for full pipeline
 - Gemini analysis: ~1-2 minutes per video
 
