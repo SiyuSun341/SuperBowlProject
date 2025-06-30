@@ -1,0 +1,1860 @@
+2025-06-14 14:10:51,672 - INFO: Loaded 65 valid videos
+2025-06-14 14:10:51,672 - INFO: Processing batch 1: 5 videos
+2025-06-14 14:10:52,863 - INFO: Successfully saved details for video EFkCnzboCEM
+2025-06-14 14:10:53,018 - INFO: Collected 1 comments for video EFkCnzboCEM
+2025-06-14 14:10:55,595 - INFO: Successfully saved details for video X-zeJJnS8bw
+2025-06-14 14:11:00,358 - INFO: Collected 460 comments for video X-zeJJnS8bw
+2025-06-14 14:11:03,232 - INFO: Successfully saved details for video K2Gj9BufAqo
+2025-06-14 14:11:03,402 - INFO: Collected 5 comments for video K2Gj9BufAqo
+2025-06-14 14:11:06,961 - INFO: Successfully saved details for video MgAAbLN7bcE
+2025-06-14 14:11:09,596 - INFO: Collected 223 comments for video MgAAbLN7bcE
+2025-06-14 14:11:12,312 - INFO: Successfully saved details for video -vmJfJVRyA0
+2025-06-14 14:11:13,810 - INFO: Collected 128 comments for video -vmJfJVRyA0
+2025-06-14 14:11:25,976 - INFO: Processing batch 2: 5 videos
+2025-06-14 14:11:26,919 - INFO: Successfully saved details for video gqxwX1ZYg58
+2025-06-14 14:11:41,082 - INFO: Collected 1000 comments for video gqxwX1ZYg58
+2025-06-14 14:11:43,416 - INFO: Successfully saved details for video rnbrFm-B3QI
+2025-06-14 14:11:43,597 - INFO: Collected 0 comments for video rnbrFm-B3QI
+2025-06-14 14:11:45,971 - INFO: Successfully saved details for video 82msI_KFp9M
+2025-06-14 14:11:46,168 - INFO: Collected 19 comments for video 82msI_KFp9M
+2025-06-14 14:11:48,354 - INFO: Successfully saved details for video of3GixFUGfI
+2025-06-14 14:11:48,623 - INFO: Collected 11 comments for video of3GixFUGfI
+2025-06-14 14:11:50,848 - WARNING: No details found for video pIFNZ9NpLIE
+2025-06-14 14:11:57,609 - INFO: Processing batch 3: 5 videos
+2025-06-14 14:11:58,733 - INFO: Successfully saved details for video 62-rXriXL3Q
+2025-06-14 14:12:10,719 - INFO: Collected 979 comments for video 62-rXriXL3Q
+2025-06-14 14:12:13,628 - WARNING: No details found for video cDn_uFEXGXk
+2025-06-14 14:12:16,655 - INFO: Successfully saved details for video I7KfNlBA9mo
+2025-06-14 14:12:16,767 - INFO: Collected 0 comments for video I7KfNlBA9mo
+2025-06-14 14:12:19,212 - INFO: Successfully saved details for video haYFuGljJ_M
+2025-06-14 14:12:19,465 - INFO: Collected 92 comments for video haYFuGljJ_M
+2025-06-14 14:12:23,176 - INFO: Successfully saved details for video 4LDn46rb_gc
+2025-06-14 14:12:23,479 - INFO: Collected 69 comments for video 4LDn46rb_gc
+2025-06-14 14:12:33,302 - INFO: Processing batch 4: 5 videos
+2025-06-14 14:12:34,312 - WARNING: Transcript retrieval failed for rzJPAqhIbXw: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=rzJPAqhIbXw! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:12:34,315 - INFO: Successfully saved details for video rzJPAqhIbXw
+2025-06-14 14:12:34,562 - INFO: Collected 58 comments for video rzJPAqhIbXw
+2025-06-14 14:12:38,220 - INFO: Successfully saved details for video vAbLsQGygmc
+2025-06-14 14:12:38,401 - INFO: Collected 7 comments for video vAbLsQGygmc
+2025-06-14 14:12:41,829 - INFO: Successfully saved details for video b0Ezn5pZE7o
+2025-06-14 14:12:48,913 - INFO: Collected 591 comments for video b0Ezn5pZE7o
+2025-06-14 14:12:52,229 - INFO: Successfully saved details for video EZqmBcqDkyw
+2025-06-14 14:12:52,444 - INFO: Collected 16 comments for video EZqmBcqDkyw
+2025-06-14 14:12:56,027 - INFO: Successfully saved details for video jqtWWWhIMas
+2025-06-14 14:12:56,292 - INFO: Collected 77 comments for video jqtWWWhIMas
+2025-06-14 14:13:04,392 - INFO: Processing batch 5: 5 videos
+2025-06-14 14:13:05,329 - INFO: Successfully saved details for video -7e6g11BJc0
+2025-06-14 14:13:12,918 - INFO: Collected 671 comments for video -7e6g11BJc0
+2025-06-14 14:13:15,892 - INFO: Successfully saved details for video kIhb5pEo_j0
+2025-06-14 14:13:21,488 - INFO: Collected 558 comments for video kIhb5pEo_j0
+2025-06-14 14:13:23,817 - INFO: Successfully saved details for video HLw6ZovMpLI
+2025-06-14 14:13:25,266 - INFO: Collected 160 comments for video HLw6ZovMpLI
+2025-06-14 14:13:29,031 - INFO: Successfully saved details for video 1WnJyyyec1g
+2025-06-14 14:13:29,245 - INFO: Collected 40 comments for video 1WnJyyyec1g
+2025-06-14 14:13:31,779 - INFO: Successfully saved details for video hUUszE29jS0
+2025-06-14 14:13:44,872 - INFO: Collected 1000 comments for video hUUszE29jS0
+2025-06-14 14:13:54,662 - INFO: Processing batch 6: 5 videos
+2025-06-14 14:13:55,755 - INFO: Successfully saved details for video W5VzQ8OV3X0
+2025-06-14 14:13:55,858 - INFO: Collected 0 comments for video W5VzQ8OV3X0
+2025-06-14 14:13:58,130 - INFO: Successfully saved details for video Rp2qgvIbirI
+2025-06-14 14:13:58,327 - INFO: Collected 10 comments for video Rp2qgvIbirI
+2025-06-14 14:14:00,800 - INFO: Successfully saved details for video -cqwXxUo_q8
+2025-06-14 14:14:02,562 - INFO: Collected 110 comments for video -cqwXxUo_q8
+2025-06-14 14:14:04,366 - WARNING: No details found for video g6ObkYnfVL8
+2025-06-14 14:14:06,934 - INFO: Successfully saved details for video sIAnQwiCpRc
+2025-06-14 14:14:08,017 - INFO: Collected 185 comments for video sIAnQwiCpRc
+2025-06-14 14:14:17,995 - INFO: Processing batch 7: 5 videos
+2025-06-14 14:14:19,053 - WARNING: Transcript retrieval failed for h0DQWw26bSg: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=h0DQWw26bSg! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (h0DQWw26bSg) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:14:19,058 - INFO: Successfully saved details for video h0DQWw26bSg
+2025-06-14 14:14:19,254 - INFO: Collected 20 comments for video h0DQWw26bSg
+2025-06-14 14:14:22,951 - INFO: Successfully saved details for video eAJW_-i4-kc
+2025-06-14 14:14:27,513 - INFO: Collected 312 comments for video eAJW_-i4-kc
+2025-06-14 14:14:31,094 - INFO: Successfully saved details for video wNLhMZuA00c
+2025-06-14 14:14:31,191 - INFO: Collected 0 comments for video wNLhMZuA00c
+2025-06-14 14:14:33,857 - INFO: Successfully saved details for video xNjINFAdmhI
+2025-06-14 14:14:33,969 - INFO: Collected 0 comments for video xNjINFAdmhI
+2025-06-14 14:14:36,968 - INFO: Successfully saved details for video Zn_sUFnwHDg
+2025-06-14 14:14:37,213 - INFO: Collected 8 comments for video Zn_sUFnwHDg
+2025-06-14 14:14:48,413 - INFO: Processing batch 8: 5 videos
+2025-06-14 14:14:49,405 - WARNING: Transcript retrieval failed for hKBxN5Fllhg: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=hKBxN5Fllhg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:14:49,410 - INFO: Successfully saved details for video hKBxN5Fllhg
+2025-06-14 14:14:49,672 - INFO: Collected 62 comments for video hKBxN5Fllhg
+2025-06-14 14:14:52,453 - INFO: Successfully saved details for video _fHqcDASbGs
+2025-06-14 14:14:52,719 - INFO: Collected 28 comments for video _fHqcDASbGs
+2025-06-14 14:14:54,097 - WARNING: No details found for video EJSxfrPf5qI
+2025-06-14 14:14:57,183 - WARNING: No details found for video _9ot1x4oEaQ
+2025-06-14 14:14:59,889 - INFO: Successfully saved details for video Mc-XvA9sNKU
+2025-06-14 14:15:00,108 - INFO: Collected 13 comments for video Mc-XvA9sNKU
+2025-06-14 14:15:10,549 - INFO: Processing batch 9: 5 videos
+2025-06-14 14:15:10,649 - WARNING: No details found for video 3W9deDxEPjQ
+2025-06-14 14:15:12,872 - WARNING: No details found for video 8QPLoTLAdh8
+2025-06-14 14:15:15,304 - INFO: Successfully saved details for video FIYkPHUiCW4
+2025-06-14 14:15:17,048 - INFO: Collected 157 comments for video FIYkPHUiCW4
+2025-06-14 14:15:20,404 - INFO: Successfully saved details for video 6g3s16dPsik
+2025-06-14 14:15:20,642 - INFO: Collected 32 comments for video 6g3s16dPsik
+2025-06-14 14:15:22,951 - WARNING: No details found for video fIoMjrfGy28
+2025-06-14 14:15:35,115 - INFO: Processing batch 10: 5 videos
+2025-06-14 14:15:36,081 - INFO: Successfully saved details for video gmzklpZFNiE
+2025-06-14 14:15:37,968 - INFO: Collected 155 comments for video gmzklpZFNiE
+2025-06-14 14:15:41,084 - INFO: Successfully saved details for video GAoeGC-eL4I
+2025-06-14 14:15:43,702 - INFO: Collected 206 comments for video GAoeGC-eL4I
+2025-06-14 14:15:47,500 - INFO: Successfully saved details for video LC5V4aIoWes
+2025-06-14 14:15:47,586 - INFO: Collected 0 comments for video LC5V4aIoWes
+2025-06-14 14:15:50,147 - INFO: Successfully saved details for video nwcZ2dxPUo0
+2025-06-14 14:15:50,423 - INFO: Collected 63 comments for video nwcZ2dxPUo0
+2025-06-14 14:15:52,847 - INFO: Successfully saved details for video AOxm8LmH7Y4
+2025-06-14 14:15:52,944 - INFO: Collected 0 comments for video AOxm8LmH7Y4
+2025-06-14 14:16:02,084 - INFO: Processing batch 11: 5 videos
+2025-06-14 14:16:02,420 - WARNING: No details found for video KPeAKY73c10
+2025-06-14 14:16:05,205 - WARNING: Transcript retrieval failed for TTppVzG8gpU: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=TTppVzG8gpU! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:16:05,208 - INFO: Successfully saved details for video TTppVzG8gpU
+2025-06-14 14:16:05,579 - INFO: Collected 92 comments for video TTppVzG8gpU
+2025-06-14 14:16:09,025 - INFO: Successfully saved details for video 0x-nGdi_3_o
+2025-06-14 14:16:09,265 - INFO: Collected 39 comments for video 0x-nGdi_3_o
+2025-06-14 14:16:11,887 - WARNING: No details found for video QTj2BH0qJjU
+2025-06-14 14:16:15,912 - INFO: Successfully saved details for video laBjQ9uJDg8
+2025-06-14 14:16:16,218 - INFO: Collected 88 comments for video laBjQ9uJDg8
+2025-06-14 14:16:26,191 - INFO: Processing batch 12: 5 videos
+2025-06-14 14:16:27,095 - INFO: Successfully saved details for video tU_vZpbnYF4
+2025-06-14 14:16:28,429 - INFO: Collected 198 comments for video tU_vZpbnYF4
+2025-06-14 14:16:30,685 - INFO: Successfully saved details for video x7qbswwBCDo
+2025-06-14 14:16:36,451 - INFO: Collected 499 comments for video x7qbswwBCDo
+2025-06-14 14:16:39,245 - INFO: Successfully saved details for video 2cK-v7sSiUI
+2025-06-14 14:16:39,487 - INFO: Collected 37 comments for video 2cK-v7sSiUI
+2025-06-14 14:16:41,492 - INFO: Successfully saved details for video nVUPazjaHl8
+2025-06-14 14:16:42,620 - INFO: Collected 165 comments for video nVUPazjaHl8
+2025-06-14 14:16:45,855 - INFO: Successfully saved details for video SvcpZ-GuOgo
+2025-06-14 14:16:46,021 - INFO: Collected 0 comments for video SvcpZ-GuOgo
+2025-06-14 14:16:56,441 - INFO: Processing batch 13: 5 videos
+2025-06-14 14:16:57,459 - INFO: Successfully saved details for video RIXB-7RHjBY
+2025-06-14 14:16:57,556 - INFO: Collected 0 comments for video RIXB-7RHjBY
+2025-06-14 14:17:01,375 - INFO: Successfully saved details for video iOXWmZbA2Io
+2025-06-14 14:17:04,099 - INFO: Collected 204 comments for video iOXWmZbA2Io
+2025-06-14 14:17:05,906 - INFO: Successfully saved details for video a_-AqDbYOtM
+2025-06-14 14:17:06,011 - INFO: Collected 0 comments for video a_-AqDbYOtM
+2025-06-14 14:17:08,982 - INFO: Successfully saved details for video GxH8dlWyjNU
+2025-06-14 14:17:09,100 - INFO: Collected 0 comments for video GxH8dlWyjNU
+2025-06-14 14:17:11,700 - INFO: Successfully saved details for video K0iKgJXy_gk
+2025-06-14 14:17:20,452 - INFO: Collected 757 comments for video K0iKgJXy_gk
+2025-06-14 14:17:29,291 - WARNING: Failed to process 10 videos. Details saved to S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.json and S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.csv
+2025-06-14 14:17:29,292 - WARNING: Failed Video - ID: pIFNZ9NpLIE, URL: https://www.superbowl-ads.com/duracell-super-bowl-lix-2025-ad-brady-reboost/, Reason: No video details found
+2025-06-14 14:17:29,292 - WARNING: Failed Video - ID: cDn_uFEXGXk, URL: https://www.superbowl-ads.com/jeep-super-bowl-lix-2025-ad-with-harrison-ford-owners-manual/, Reason: No video details found
+2025-06-14 14:17:29,292 - WARNING: Failed Video - ID: g6ObkYnfVL8, URL: https://www.superbowl-ads.com/he-gets-us-super-bowl-lix-2025-ad-what-is-greatness/, Reason: No video details found
+2025-06-14 14:17:29,293 - WARNING: Failed Video - ID: EJSxfrPf5qI, URL: https://www.superbowl-ads.com/cirkul-super-bowl-lix-2025-ad-you-got-cirkul/, Reason: No video details found
+2025-06-14 14:17:29,293 - WARNING: Failed Video - ID: _9ot1x4oEaQ, URL: https://www.superbowl-ads.com/ram-trucks-super-bowl-lix-2025-ad-goldilocks-and-the-three-trucks-feat-glen-powell/, Reason: No video details found
+2025-06-14 14:17:29,293 - WARNING: Failed Video - ID: 3W9deDxEPjQ, URL: https://www.superbowl-ads.com/nerdwallet-super-bowl-lix-2025-ad-genius-beluga/, Reason: No video details found
+2025-06-14 14:17:29,293 - WARNING: Failed Video - ID: 8QPLoTLAdh8, URL: https://www.superbowl-ads.com/mtn-dew-official-song-of-mountain-dew-baja-blast-kiss-from-a-lime-ft-seal-becky-g-the-mountain-dude/, Reason: No video details found
+2025-06-14 14:17:29,293 - WARNING: Failed Video - ID: fIoMjrfGy28, URL: https://www.superbowl-ads.com/uber-eats-super-bowl-lix-2025-ad-a-century-of-cravings/, Reason: No video details found
+2025-06-14 14:17:29,293 - WARNING: Failed Video - ID: KPeAKY73c10, URL: https://www.superbowl-ads.com/little-ceasars-pizza-super-bowl-lix-2025-ad-woah-with-eugene-levy/, Reason: No video details found
+2025-06-14 14:17:29,294 - WARNING: Failed Video - ID: QTj2BH0qJjU, URL: https://www.superbowl-ads.com/coors-light-super-bowl-lix-2025-ad-slow-monday/, Reason: No video details found
+2025-06-14 14:18:21,911 - INFO: Loaded 62 valid videos
+2025-06-14 14:18:21,911 - INFO: Processing batch 1: 5 videos
+2025-06-14 14:18:23,211 - INFO: Successfully saved details for video bXrhgATNVbE
+2025-06-14 14:18:24,874 - INFO: Collected 161 comments for video bXrhgATNVbE
+2025-06-14 14:18:27,868 - INFO: Successfully saved details for video HjP7A2AWgZI
+2025-06-14 14:18:27,974 - INFO: Collected 0 comments for video HjP7A2AWgZI
+2025-06-14 14:18:30,845 - INFO: Successfully saved details for video AJNUI0WqEdE
+2025-06-14 14:18:32,482 - INFO: Collected 135 comments for video AJNUI0WqEdE
+2025-06-14 14:18:35,928 - WARNING: Transcript retrieval failed for vQ88JB-lgtQ: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=vQ88JB-lgtQ! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:18:35,933 - INFO: Successfully saved details for video vQ88JB-lgtQ
+2025-06-14 14:18:37,954 - INFO: Collected 175 comments for video vQ88JB-lgtQ
+2025-06-14 14:18:41,712 - INFO: Successfully saved details for video DTLM5o-9hYg
+2025-06-14 14:18:51,193 - INFO: Collected 811 comments for video DTLM5o-9hYg
+2025-06-14 14:18:59,930 - INFO: Processing batch 2: 5 videos
+2025-06-14 14:19:00,042 - WARNING: No details found for video MAZ4Yxk9ggw
+2025-06-14 14:19:03,051 - WARNING: No details found for video lWVFBkx8_4E
+2025-06-14 14:19:05,230 - INFO: Successfully saved details for video ubSnD737JaM
+2025-06-14 14:19:05,384 - INFO: Collected 0 comments for video ubSnD737JaM
+2025-06-14 14:19:07,704 - INFO: Successfully saved details for video D6HUxANY8z8
+2025-06-14 14:19:07,884 - INFO: Collected 0 comments for video D6HUxANY8z8
+2025-06-14 14:19:10,331 - WARNING: No details found for video qoER8XCOPaM
+2025-06-14 14:19:20,248 - INFO: Processing batch 3: 5 videos
+2025-06-14 14:19:21,203 - WARNING: Transcript retrieval failed for JRadjMeUKko: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=JRadjMeUKko! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (JRadjMeUKko) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:19:21,205 - INFO: Successfully saved details for video JRadjMeUKko
+2025-06-14 14:19:21,579 - INFO: Collected 83 comments for video JRadjMeUKko
+2025-06-14 14:19:24,158 - WARNING: Transcript retrieval failed for QrQQgLH0p_Y: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=QrQQgLH0p_Y! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:19:24,159 - INFO: Successfully saved details for video QrQQgLH0p_Y
+2025-06-14 14:19:24,303 - INFO: Collected 0 comments for video QrQQgLH0p_Y
+2025-06-14 14:19:27,371 - INFO: Successfully saved details for video Ve2miT5iF2M
+2025-06-14 14:19:40,774 - INFO: Collected 1000 comments for video Ve2miT5iF2M
+2025-06-14 14:19:43,484 - INFO: Successfully saved details for video 7glIC7OaIro
+2025-06-14 14:19:46,685 - INFO: Collected 224 comments for video 7glIC7OaIro
+2025-06-14 14:19:49,891 - INFO: Successfully saved details for video z5fcvlWdfdA
+2025-06-14 14:19:51,457 - INFO: Collected 145 comments for video z5fcvlWdfdA
+2025-06-14 14:20:01,364 - INFO: Processing batch 4: 5 videos
+2025-06-14 14:20:02,309 - WARNING: Transcript retrieval failed for vAf5TjiUJgo: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=vAf5TjiUJgo! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:20:02,311 - INFO: Successfully saved details for video vAf5TjiUJgo
+2025-06-14 14:20:12,089 - INFO: Collected 808 comments for video vAf5TjiUJgo
+2025-06-14 14:20:16,052 - INFO: Successfully saved details for video wdok0rZdmx4
+2025-06-14 14:20:29,776 - INFO: Collected 1000 comments for video wdok0rZdmx4
+2025-06-14 14:20:31,881 - INFO: Successfully saved details for video 5Od0aOse1wc
+2025-06-14 14:20:46,630 - INFO: Collected 1000 comments for video 5Od0aOse1wc
+2025-06-14 14:20:50,078 - WARNING: Transcript retrieval failed for vAf5TjiUJgo: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=vAf5TjiUJgo! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:20:50,082 - INFO: Successfully saved details for video vAf5TjiUJgo
+2025-06-14 14:21:00,133 - INFO: Collected 808 comments for video vAf5TjiUJgo
+2025-06-14 14:21:02,412 - WARNING: No details found for video JjLr4bdLPIs
+2025-06-14 14:21:15,075 - INFO: Processing batch 5: 5 videos
+2025-06-14 14:21:16,017 - WARNING: Transcript retrieval failed for 94BqlDQ-Ppo: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=94BqlDQ-Ppo! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (94BqlDQ-Ppo) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")[TRANSLATABLE]
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+ - ar ("Arabic")
+ - zh-Hant ("Chinese (Traditional)")
+ - nl ("Dutch")
+ - fr ("French")
+ - de ("German")
+ - hi ("Hindi")
+ - id ("Indonesian")
+ - it ("Italian")
+ - ja ("Japanese")
+ - ko ("Korean")
+ - pt ("Portuguese")
+ - ru ("Russian")
+ - es ("Spanish")
+ - th ("Thai")
+ - tr ("Turkish")
+ - uk ("Ukrainian")
+ - vi ("Vietnamese")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:21:16,020 - INFO: Successfully saved details for video 94BqlDQ-Ppo
+2025-06-14 14:21:28,871 - INFO: Collected 1000 comments for video 94BqlDQ-Ppo
+2025-06-14 14:21:30,284 - WARNING: No details found for video C3zN6lT_fPI
+2025-06-14 14:21:33,786 - INFO: Successfully saved details for video Neul4wINfUQ
+2025-06-14 14:21:34,019 - INFO: Collected 38 comments for video Neul4wINfUQ
+2025-06-14 14:21:36,477 - WARNING: No details found for video 1MXYI3ZKLqQ
+2025-06-14 14:21:40,397 - INFO: Successfully saved details for video XtFI7SNtVpY
+2025-06-14 14:21:53,722 - INFO: Collected 1000 comments for video XtFI7SNtVpY
+2025-06-14 14:22:05,997 - INFO: Processing batch 6: 5 videos
+2025-06-14 14:22:07,364 - INFO: Successfully saved details for video F1dvX9Vs0ns
+2025-06-14 14:22:21,134 - INFO: Collected 1000 comments for video F1dvX9Vs0ns
+2025-06-14 14:22:23,441 - INFO: Successfully saved details for video BEkziTXz9Js
+2025-06-14 14:22:23,573 - INFO: Collected 0 comments for video BEkziTXz9Js
+2025-06-14 14:22:27,148 - INFO: Successfully saved details for video uJMCNJP2ipI
+2025-06-14 14:22:39,368 - INFO: Collected 1000 comments for video uJMCNJP2ipI
+2025-06-14 14:22:42,915 - INFO: Successfully saved details for video 5UiFkOJoP-8
+2025-06-14 14:22:45,132 - INFO: Collected 268 comments for video 5UiFkOJoP-8
+2025-06-14 14:22:48,932 - WARNING: Transcript retrieval failed for g0D5MU6_0n0: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=g0D5MU6_0n0! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:22:48,936 - INFO: Successfully saved details for video g0D5MU6_0n0
+2025-06-14 14:22:49,019 - INFO: Collected 0 comments for video g0D5MU6_0n0
+2025-06-14 14:22:57,428 - INFO: Processing batch 7: 5 videos
+2025-06-14 14:22:58,302 - INFO: Successfully saved details for video WmpmKkRDQZg
+2025-06-14 14:22:58,448 - INFO: Collected 0 comments for video WmpmKkRDQZg
+2025-06-14 14:23:01,860 - INFO: Successfully saved details for video H3EsFtUCOno
+2025-06-14 14:23:02,100 - INFO: Collected 44 comments for video H3EsFtUCOno
+2025-06-14 14:23:04,843 - WARNING: No details found for video 1xA7ENrLtUw
+2025-06-14 14:23:08,652 - INFO: Successfully saved details for video SJa1oSgs8Gw
+2025-06-14 14:23:08,753 - INFO: Collected 0 comments for video SJa1oSgs8Gw
+2025-06-14 14:23:10,796 - INFO: Successfully saved details for video XZmMvVCcW0M
+2025-06-14 14:23:11,001 - INFO: Collected 16 comments for video XZmMvVCcW0M
+2025-06-14 14:23:20,346 - INFO: Processing batch 8: 5 videos
+2025-06-14 14:23:21,544 - INFO: Successfully saved details for video cXT8JgdvCHc
+2025-06-14 14:23:23,546 - INFO: Collected 127 comments for video cXT8JgdvCHc
+2025-06-14 14:23:25,775 - INFO: Successfully saved details for video sfB-glrgn5o
+2025-06-14 14:23:35,010 - INFO: Collected 643 comments for video sfB-glrgn5o
+2025-06-14 14:23:37,627 - INFO: Successfully saved details for video YVeCwSWNLrM
+2025-06-14 14:23:49,787 - INFO: Collected 943 comments for video YVeCwSWNLrM
+2025-06-14 14:23:52,493 - INFO: Successfully saved details for video xXKuSJy5cPE
+2025-06-14 14:23:52,693 - INFO: Collected 1 comments for video xXKuSJy5cPE
+2025-06-14 14:23:54,706 - INFO: Successfully saved details for video Y7mLeyIETu0
+2025-06-14 14:23:56,320 - INFO: Collected 199 comments for video Y7mLeyIETu0
+2025-06-14 14:24:05,386 - INFO: Processing batch 9: 5 videos
+2025-06-14 14:24:10,473 - WARNING: No details found for video V3Y6tW7MoR8
+2025-06-14 14:24:14,062 - INFO: Successfully saved details for video NBuB85VsZfI
+2025-06-14 14:24:16,640 - INFO: Collected 293 comments for video NBuB85VsZfI
+2025-06-14 14:24:20,071 - INFO: Successfully saved details for video kwUJq0DA0xo
+2025-06-14 14:24:20,366 - INFO: Collected 63 comments for video kwUJq0DA0xo
+2025-06-14 14:24:23,386 - WARNING: No details found for video fwvjimuwVyY
+2025-06-14 14:24:26,098 - WARNING: Transcript retrieval failed for pUhq4w9mKWg: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=pUhq4w9mKWg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:24:26,100 - INFO: Successfully saved details for video pUhq4w9mKWg
+2025-06-14 14:24:26,261 - INFO: Collected 1 comments for video pUhq4w9mKWg
+2025-06-14 14:24:34,495 - INFO: Processing batch 10: 5 videos
+2025-06-14 14:24:35,265 - INFO: Successfully saved details for video 6zolFHbtEew
+2025-06-14 14:24:35,807 - INFO: Collected 92 comments for video 6zolFHbtEew
+2025-06-14 14:24:37,836 - WARNING: No details found for video SaCVSUbYpVc
+2025-06-14 14:24:41,507 - INFO: Successfully saved details for video kjVf8ptmDmk
+2025-06-14 14:24:45,903 - INFO: Collected 302 comments for video kjVf8ptmDmk
+2025-06-14 14:24:48,442 - WARNING: No details found for video OU7BJc96lI4
+2025-06-14 14:24:50,993 - WARNING: Transcript retrieval failed for fQ7Az_7pzDM: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=fQ7Az_7pzDM! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (fQ7Az_7pzDM) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")[TRANSLATABLE]
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+ - ar ("Arabic")
+ - zh-Hant ("Chinese (Traditional)")
+ - nl ("Dutch")
+ - fr ("French")
+ - de ("German")
+ - hi ("Hindi")
+ - id ("Indonesian")
+ - it ("Italian")
+ - ja ("Japanese")
+ - ko ("Korean")
+ - pt ("Portuguese")
+ - ru ("Russian")
+ - es ("Spanish")
+ - th ("Thai")
+ - tr ("Turkish")
+ - uk ("Ukrainian")
+ - vi ("Vietnamese")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:24:50,997 - INFO: Successfully saved details for video fQ7Az_7pzDM
+2025-06-14 14:24:52,732 - INFO: Collected 116 comments for video fQ7Az_7pzDM
+2025-06-14 14:25:03,933 - INFO: Processing batch 11: 5 videos
+2025-06-14 14:25:04,819 - WARNING: Transcript retrieval failed for zo8PQgark7c: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=zo8PQgark7c! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:25:04,824 - INFO: Successfully saved details for video zo8PQgark7c
+2025-06-14 14:25:06,736 - INFO: Collected 128 comments for video zo8PQgark7c
+2025-06-14 14:25:09,701 - INFO: Successfully saved details for video xp5v3-3Hc-E
+2025-06-14 14:25:09,828 - INFO: Collected 0 comments for video xp5v3-3Hc-E
+2025-06-14 14:25:12,784 - INFO: Successfully saved details for video Cl--5P79iRs
+2025-06-14 14:25:12,932 - INFO: Collected 0 comments for video Cl--5P79iRs
+2025-06-14 14:25:16,801 - WARNING: Transcript retrieval failed for -kI-vfyl2mo: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=-kI-vfyl2mo! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:25:16,804 - INFO: Successfully saved details for video -kI-vfyl2mo
+2025-06-14 14:25:17,153 - INFO: Collected 71 comments for video -kI-vfyl2mo
+2025-06-14 14:25:20,320 - INFO: Successfully saved details for video oGnyO_lEW2E
+2025-06-14 14:25:20,612 - INFO: Collected 53 comments for video oGnyO_lEW2E
+2025-06-14 14:25:30,922 - INFO: Processing batch 12: 5 videos
+2025-06-14 14:25:31,837 - INFO: Successfully saved details for video wYPTZIFQoDQ
+2025-06-14 14:25:33,012 - INFO: Collected 170 comments for video wYPTZIFQoDQ
+2025-06-14 14:25:35,779 - INFO: Successfully saved details for video 88tPE7AAUxM
+2025-06-14 14:25:36,123 - INFO: Collected 65 comments for video 88tPE7AAUxM
+2025-06-14 14:25:40,429 - INFO: Successfully saved details for video YKzk1h7qrj8
+2025-06-14 14:25:54,091 - INFO: Collected 1000 comments for video YKzk1h7qrj8
+2025-06-14 14:25:57,649 - WARNING: Transcript retrieval failed for tMltLxq0Jbo: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=tMltLxq0Jbo! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:25:57,650 - INFO: Successfully saved details for video tMltLxq0Jbo
+2025-06-14 14:25:57,794 - INFO: Collected 1 comments for video tMltLxq0Jbo
+2025-06-14 14:26:00,318 - INFO: Successfully saved details for video sn4_CjtmQKw
+2025-06-14 14:26:00,500 - INFO: Collected 2 comments for video sn4_CjtmQKw
+2025-06-14 14:26:12,028 - INFO: Processing batch 13: 2 videos
+2025-06-14 14:26:13,057 - INFO: Successfully saved details for video 8C4DNSV3IRE
+2025-06-14 14:26:22,340 - INFO: Collected 753 comments for video 8C4DNSV3IRE
+2025-06-14 14:26:24,886 - INFO: Successfully saved details for video 8qQ7Q6INWOw
+2025-06-14 14:26:26,516 - INFO: Collected 199 comments for video 8qQ7Q6INWOw
+2025-06-14 14:26:35,572 - WARNING: Failed to process 11 videos. Details saved to S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.json and S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.csv
+2025-06-14 14:26:35,572 - WARNING: Failed Video - ID: MAZ4Yxk9ggw, URL: https://www.superbowl-ads.com/paramount-2024-super-bowl-ad-knuckles/, Reason: No video details found
+2025-06-14 14:26:35,573 - WARNING: Failed Video - ID: lWVFBkx8_4E, URL: https://www.superbowl-ads.com/homes-com-2024-super-bowl-ad-quick-question/, Reason: No video details found
+2025-06-14 14:26:35,573 - WARNING: Failed Video - ID: qoER8XCOPaM, URL: https://www.superbowl-ads.com/homes-com-2024-super-bowl-ad-so-tell-us-about-this-corn-festival/, Reason: No video details found
+2025-06-14 14:26:35,573 - WARNING: Failed Video - ID: JjLr4bdLPIs, URL: https://www.superbowl-ads.com/etrade-2024-super-bowl-ad-picklebabies/, Reason: No video details found
+2025-06-14 14:26:35,574 - WARNING: Failed Video - ID: C3zN6lT_fPI, URL: https://www.superbowl-ads.com/homes-com-2024-super-bowl-ad-now-that-is-worth-celebrating/, Reason: No video details found
+2025-06-14 14:26:35,574 - WARNING: Failed Video - ID: 1MXYI3ZKLqQ, URL: https://www.superbowl-ads.com/apartments-com-2024-super-bowl-ad-extraterrentals-with-jeff-goldblum/, Reason: No video details found
+2025-06-14 14:26:35,574 - WARNING: Failed Video - ID: 1xA7ENrLtUw, URL: https://www.superbowl-ads.com/starry-2024-super-bowl-ad-its-time-to-see-other-sodas-with-ice-spice/, Reason: No video details found
+2025-06-14 14:26:35,574 - WARNING: Failed Video - ID: V3Y6tW7MoR8, URL: https://www.superbowl-ads.com/doritos-dinamita-2024-super-bowl-ad-dina-mita/, Reason: No video details found
+2025-06-14 14:26:35,574 - WARNING: Failed Video - ID: fwvjimuwVyY, URL: https://www.superbowl-ads.com/pfizer-2024-super-bowl-ad-heres-to-science/, Reason: No video details found
+2025-06-14 14:26:35,574 - WARNING: Failed Video - ID: SaCVSUbYpVc, URL: https://www.superbowl-ads.com/microsoft-2024-super-bowl-ad-copilot-your-everyday-ai-companion/, Reason: No video details found
+2025-06-14 14:26:35,574 - WARNING: Failed Video - ID: OU7BJc96lI4, URL: https://www.superbowl-ads.com/kia-2024-super-bowl-ad-perfect-10/, Reason: No video details found
+2025-06-14 14:28:20,720 - INFO: Loaded 53 valid videos
+2025-06-14 14:28:20,720 - INFO: Processing batch 1: 5 videos
+2025-06-14 14:28:20,874 - WARNING: No details found for video https://videos.files.wordpress.com/HfVteTbl/37.jacks-new-angle.mp4
+2025-06-14 14:28:24,060 - INFO: Successfully saved details for video fdN0GWOtsHQ
+2025-06-14 14:28:27,389 - INFO: Collected 233 comments for video fdN0GWOtsHQ
+2025-06-14 14:28:28,561 - WARNING: No details found for video https://videos.files.wordpress.com/9GtMlhpd/36.make-it-better-e28093-avocados-from-mexico-efbd9c-big-game-commercial-2023-efbd9c-makeitbetter-efbd9c-long-version-efbc9a60.mp4
+2025-06-14 14:28:30,356 - WARNING: No details found for video https://videos.files.wordpress.com/O4KQrmuh/39.great-acting-or-great-tasteefbc9f-efbd9c-steve-martin.mp4
+2025-06-14 14:28:32,619 - WARNING: No details found for video https://www.superbowl-ads.com/wp-content/uploads/2023/02/lpu-bth5j2u.jpg
+2025-06-14 14:28:41,750 - INFO: Processing batch 2: 5 videos
+2025-06-14 14:28:42,875 - INFO: Successfully saved details for video h5D5BQM6D-M
+2025-06-14 14:28:43,019 - INFO: Collected 0 comments for video h5D5BQM6D-M
+2025-06-14 14:28:45,147 - WARNING: No details found for video https://videos.files.wordpress.com/tkK77P4s/42.why-not-an-evefbc9f-efbd9c-gm-x-netflix.mp4
+2025-06-14 14:28:49,097 - INFO: Successfully saved details for video QKZ7asNNhcI
+2025-06-14 14:28:49,308 - INFO: Collected 23 comments for video QKZ7asNNhcI
+2025-06-14 14:28:53,042 - INFO: Successfully saved details for video gKCScoG83SA
+2025-06-14 14:28:53,389 - INFO: Collected 46 comments for video gKCScoG83SA
+2025-06-14 14:28:55,111 - WARNING: No details found for video 2ID-1mzRAew
+2025-06-14 14:29:02,535 - INFO: Processing batch 3: 5 videos
+2025-06-14 14:29:02,638 - WARNING: No details found for video https://videos.files.wordpress.com/LZq7wjiG/49.not-so-clueless-efbd9c-rakuten-big-game-commercial.mp4
+2025-06-14 14:29:04,302 - WARNING: No details found for video r_xfLBvk-AA
+2025-06-14 14:29:05,660 - WARNING: No details found for video ZMlemd6U24Y
+2025-06-14 14:29:08,202 - INFO: Successfully saved details for video 8Bsgj1ihEOg
+2025-06-14 14:29:08,414 - INFO: Collected 34 comments for video 8Bsgj1ihEOg
+2025-06-14 14:29:12,616 - INFO: Successfully saved details for video GizRGO3PVD8
+2025-06-14 14:29:17,223 - INFO: Collected 336 comments for video GizRGO3PVD8
+2025-06-14 14:29:26,522 - INFO: Processing batch 4: 5 videos
+2025-06-14 14:29:27,274 - INFO: Successfully saved details for video azCNwGnxq0s
+2025-06-14 14:29:39,688 - INFO: Collected 1000 comments for video azCNwGnxq0s
+2025-06-14 14:29:42,210 - INFO: Successfully saved details for video AKbXPXOQAmQ
+2025-06-14 14:29:42,465 - INFO: Collected 14 comments for video AKbXPXOQAmQ
+2025-06-14 14:29:45,285 - INFO: Successfully saved details for video VPK_JIM6Hi0
+2025-06-14 14:29:45,521 - INFO: Collected 63 comments for video VPK_JIM6Hi0
+2025-06-14 14:29:49,451 - WARNING: Transcript retrieval failed for 5YsxXj5kycs: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5YsxXj5kycs! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:29:49,453 - INFO: Successfully saved details for video 5YsxXj5kycs
+2025-06-14 14:29:50,858 - INFO: Collected 108 comments for video 5YsxXj5kycs
+2025-06-14 14:29:54,547 - INFO: Successfully saved details for video wlPM7E8uLJ8
+2025-06-14 14:29:54,733 - INFO: Collected 15 comments for video wlPM7E8uLJ8
+2025-06-14 14:30:05,439 - INFO: Processing batch 5: 5 videos
+2025-06-14 14:30:05,548 - WARNING: No details found for video https://videos.files.wordpress.com/RqnGcMHk/64.knowing-their-order-extended-efbd9c-mcdonalds.mp4
+2025-06-14 14:30:08,238 - INFO: Successfully saved details for video yBPQ2rxjD7g
+2025-06-14 14:30:09,797 - INFO: Collected 106 comments for video yBPQ2rxjD7g
+2025-06-14 14:30:11,907 - INFO: Successfully saved details for video 73p4lL1iq7w
+2025-06-14 14:30:23,673 - INFO: Collected 1000 comments for video 73p4lL1iq7w
+2025-06-14 14:30:27,624 - INFO: Successfully saved details for video UEx75kcWgxc
+2025-06-14 14:30:27,768 - INFO: Collected 7 comments for video UEx75kcWgxc
+2025-06-14 14:30:31,111 - INFO: Successfully saved details for video -bueUljGJ2M
+2025-06-14 14:30:34,930 - INFO: Collected 343 comments for video -bueUljGJ2M
+2025-06-14 14:30:42,189 - INFO: Processing batch 6: 5 videos
+2025-06-14 14:30:42,275 - WARNING: No details found for video https://videos.files.wordpress.com/jsm8cSQA/16.mms-super-bowl-2023.mp4
+2025-06-14 14:30:44,497 - WARNING: No details found for video https://videos.files.wordpress.com/R5bvekOk/45.nfl-super-bowl-lvii-commercial-efbd9cefbd9c-run-with-it.mp4
+2025-06-14 14:30:47,455 - INFO: Successfully saved details for video cjiPkaGdbAQ
+2025-06-14 14:30:48,904 - INFO: Collected 149 comments for video cjiPkaGdbAQ
+2025-06-14 14:30:52,897 - INFO: Successfully saved details for video 8gatiYW5kWs
+2025-06-14 14:30:53,080 - INFO: Collected 25 comments for video 8gatiYW5kWs
+2025-06-14 14:30:56,288 - WARNING: Transcript retrieval failed for GtyxWvifru8: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=GtyxWvifru8! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:30:56,292 - INFO: Successfully saved details for video GtyxWvifru8
+2025-06-14 14:31:01,198 - INFO: Collected 418 comments for video GtyxWvifru8
+2025-06-14 14:31:08,322 - INFO: Processing batch 7: 5 videos
+2025-06-14 14:31:09,252 - INFO: Successfully saved details for video DNpd1rAfoCU
+2025-06-14 14:31:09,378 - INFO: Collected 0 comments for video DNpd1rAfoCU
+2025-06-14 14:31:13,141 - INFO: Successfully saved details for video jzE68RiXbT8
+2025-06-14 14:31:13,806 - INFO: Collected 86 comments for video jzE68RiXbT8
+2025-06-14 14:31:16,278 - WARNING: Transcript retrieval failed for h4my8CdjU8w: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=h4my8CdjU8w! This is most likely caused by:
+
+This video is age-restricted. Therefore, you are unable to retrieve transcripts for it without authenticating yourself.
+
+Unfortunately, Cookie Authentication is temporarily unsupported in youtube-transcript-api, as recent changes in YouTube's API broke the previous implementation. I will do my best to re-implement it as soon as possible.
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:31:16,282 - INFO: Successfully saved details for video h4my8CdjU8w
+2025-06-14 14:31:16,456 - INFO: Collected 19 comments for video h4my8CdjU8w
+2025-06-14 14:31:19,994 - INFO: Successfully saved details for video AO0aIHyetAw
+2025-06-14 14:31:20,361 - INFO: Collected 30 comments for video AO0aIHyetAw
+2025-06-14 14:31:23,565 - WARNING: Transcript retrieval failed for Tz-ML9Fxx5o: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Tz-ML9Fxx5o! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (Tz-ML9Fxx5o) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:31:23,569 - INFO: Successfully saved details for video Tz-ML9Fxx5o
+2025-06-14 14:31:23,934 - INFO: Collected 85 comments for video Tz-ML9Fxx5o
+2025-06-14 14:31:33,762 - INFO: Processing batch 8: 5 videos
+2025-06-14 14:31:34,664 - WARNING: Transcript retrieval failed for M0zdJOM_5Vg: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=M0zdJOM_5Vg! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (M0zdJOM_5Vg) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:31:34,668 - INFO: Successfully saved details for video M0zdJOM_5Vg
+2025-06-14 14:31:47,342 - INFO: Collected 1000 comments for video M0zdJOM_5Vg
+2025-06-14 14:31:51,308 - INFO: Successfully saved details for video ogLX2heol5E
+2025-06-14 14:31:51,394 - INFO: Collected 0 comments for video ogLX2heol5E
+2025-06-14 14:31:53,290 - INFO: Successfully saved details for video TQpwONzpcy4
+2025-06-14 14:32:06,162 - INFO: Collected 1000 comments for video TQpwONzpcy4
+2025-06-14 14:32:09,016 - INFO: Successfully saved details for video 8oBHRjnQCFE
+2025-06-14 14:32:12,868 - INFO: Collected 321 comments for video 8oBHRjnQCFE
+2025-06-14 14:32:16,336 - INFO: Successfully saved details for video BBIX9FG6kZ0
+2025-06-14 14:32:23,283 - INFO: Collected 517 comments for video BBIX9FG6kZ0
+2025-06-14 14:32:31,512 - INFO: Processing batch 9: 5 videos
+2025-06-14 14:32:32,518 - INFO: Successfully saved details for video qXBsJW4LOCQ
+2025-06-14 14:32:35,442 - INFO: Collected 318 comments for video qXBsJW4LOCQ
+2025-06-14 14:32:37,719 - WARNING: Transcript retrieval failed for de5m3NWhi-Y: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=de5m3NWhi-Y! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (de5m3NWhi-Y) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:32:37,729 - INFO: Successfully saved details for video de5m3NWhi-Y
+2025-06-14 14:32:37,953 - INFO: Collected 52 comments for video de5m3NWhi-Y
+2025-06-14 14:32:41,387 - INFO: Successfully saved details for video x_gAb7tLoXM
+2025-06-14 14:32:50,729 - INFO: Collected 790 comments for video x_gAb7tLoXM
+2025-06-14 14:32:53,775 - WARNING: No details found for video https://videos.files.wordpress.com/lEpMMpP7/ram_1500rev-premature_electrification.mp4
+2025-06-14 14:32:55,044 - WARNING: No details found for video https://videos.files.wordpress.com/XFaJcW3k/21.jeepc2ae-efbd9c-the-jeep-4xe-electric-boogie.mp4
+2025-06-14 14:33:03,437 - INFO: Processing batch 10: 5 videos
+2025-06-14 14:33:03,546 - WARNING: No details found for video RpYzhCYaEIM
+2025-06-14 14:33:06,399 - INFO: Successfully saved details for video IAIo-pUDl0s
+2025-06-14 14:33:10,714 - INFO: Collected 332 comments for video IAIo-pUDl0s
+2025-06-14 14:33:12,321 - WARNING: No details found for video X8aV2tbCMUM
+2025-06-14 14:33:14,552 - WARNING: No details found for video https://videos.files.wordpress.com/C3ukpu64/26.we-get-groceries-doordash-big-game-commercial.mp4
+2025-06-14 14:33:17,851 - INFO: Successfully saved details for video jSO-Whn2sCQ
+2025-06-14 14:33:27,696 - INFO: Collected 836 comments for video jSO-Whn2sCQ
+2025-06-14 14:33:37,953 - INFO: Processing batch 11: 3 videos
+2025-06-14 14:33:38,900 - INFO: Successfully saved details for video mManLnHyyek
+2025-06-14 14:33:39,027 - INFO: Collected 0 comments for video mManLnHyyek
+2025-06-14 14:33:42,495 - INFO: Successfully saved details for video f8LE9gxtxTY
+2025-06-14 14:33:42,714 - INFO: Collected 29 comments for video f8LE9gxtxTY
+2025-06-14 14:33:44,984 - WARNING: Transcript retrieval failed for 6uLgF2K2n5M: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=6uLgF2K2n5M! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (6uLgF2K2n5M) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:33:44,984 - INFO: Successfully saved details for video 6uLgF2K2n5M
+2025-06-14 14:36:01,804 - INFO: Loaded 65 valid videos
+2025-06-14 14:36:01,805 - INFO: Processing batch 1: 5 videos
+2025-06-14 14:36:02,945 - INFO: Successfully saved details for video EFkCnzboCEM
+2025-06-14 14:36:03,076 - INFO: Collected 1 comments for video EFkCnzboCEM
+2025-06-14 14:36:06,808 - INFO: Successfully saved details for video X-zeJJnS8bw
+2025-06-14 14:36:11,496 - INFO: Collected 460 comments for video X-zeJJnS8bw
+2025-06-14 14:36:14,743 - INFO: Successfully saved details for video K2Gj9BufAqo
+2025-06-14 14:36:14,938 - INFO: Collected 5 comments for video K2Gj9BufAqo
+2025-06-14 14:36:18,327 - INFO: Successfully saved details for video MgAAbLN7bcE
+2025-06-14 14:36:21,412 - INFO: Collected 223 comments for video MgAAbLN7bcE
+2025-06-14 14:36:23,551 - INFO: Successfully saved details for video -vmJfJVRyA0
+2025-06-14 14:36:24,521 - INFO: Collected 128 comments for video -vmJfJVRyA0
+2025-06-14 14:36:31,498 - INFO: Processing batch 2: 5 videos
+2025-06-14 14:36:32,406 - INFO: Successfully saved details for video gqxwX1ZYg58
+2025-06-14 14:36:45,360 - INFO: Collected 1000 comments for video gqxwX1ZYg58
+2025-06-14 14:36:47,558 - INFO: Successfully saved details for video rnbrFm-B3QI
+2025-06-14 14:36:47,717 - INFO: Collected 0 comments for video rnbrFm-B3QI
+2025-06-14 14:36:50,289 - INFO: Successfully saved details for video 82msI_KFp9M
+2025-06-14 14:36:50,399 - INFO: Collected 19 comments for video 82msI_KFp9M
+2025-06-14 14:36:54,466 - INFO: Successfully saved details for video of3GixFUGfI
+2025-06-14 14:36:54,664 - INFO: Collected 11 comments for video of3GixFUGfI
+2025-06-14 14:36:57,322 - WARNING: No details found for video pIFNZ9NpLIE
+2025-06-14 14:37:05,854 - INFO: Processing batch 3: 5 videos
+2025-06-14 14:37:06,906 - INFO: Successfully saved details for video 62-rXriXL3Q
+2025-06-14 14:37:18,553 - INFO: Collected 979 comments for video 62-rXriXL3Q
+2025-06-14 14:37:20,839 - WARNING: No details found for video cDn_uFEXGXk
+2025-06-14 14:37:23,563 - INFO: Successfully saved details for video I7KfNlBA9mo
+2025-06-14 14:37:23,678 - INFO: Collected 0 comments for video I7KfNlBA9mo
+2025-06-14 14:37:25,670 - INFO: Successfully saved details for video haYFuGljJ_M
+2025-06-14 14:37:25,858 - INFO: Collected 92 comments for video haYFuGljJ_M
+2025-06-14 14:37:28,064 - INFO: Successfully saved details for video 4LDn46rb_gc
+2025-06-14 14:37:28,288 - INFO: Collected 69 comments for video 4LDn46rb_gc
+2025-06-14 14:37:39,593 - INFO: Processing batch 4: 5 videos
+2025-06-14 14:37:40,680 - WARNING: Transcript retrieval failed for rzJPAqhIbXw: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=rzJPAqhIbXw! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:37:40,682 - INFO: Successfully saved details for video rzJPAqhIbXw
+2025-06-14 14:37:40,838 - INFO: Collected 58 comments for video rzJPAqhIbXw
+2025-06-14 14:37:44,322 - INFO: Successfully saved details for video vAbLsQGygmc
+2025-06-14 14:37:44,522 - INFO: Collected 7 comments for video vAbLsQGygmc
+2025-06-14 14:37:48,126 - INFO: Successfully saved details for video b0Ezn5pZE7o
+2025-06-14 14:37:53,789 - INFO: Collected 591 comments for video b0Ezn5pZE7o
+2025-06-14 14:37:56,300 - INFO: Successfully saved details for video EZqmBcqDkyw
+2025-06-14 14:37:56,421 - INFO: Collected 16 comments for video EZqmBcqDkyw
+2025-06-14 14:37:59,921 - INFO: Successfully saved details for video jqtWWWhIMas
+2025-06-14 14:38:00,159 - INFO: Collected 77 comments for video jqtWWWhIMas
+2025-06-14 14:38:12,485 - INFO: Processing batch 5: 5 videos
+2025-06-14 14:38:13,650 - INFO: Successfully saved details for video -7e6g11BJc0
+2025-06-14 14:38:20,796 - INFO: Collected 671 comments for video -7e6g11BJc0
+2025-06-14 14:38:24,571 - INFO: Successfully saved details for video kIhb5pEo_j0
+2025-06-14 14:38:30,139 - INFO: Collected 558 comments for video kIhb5pEo_j0
+2025-06-14 14:38:32,938 - INFO: Successfully saved details for video HLw6ZovMpLI
+2025-06-14 14:38:34,072 - INFO: Collected 160 comments for video HLw6ZovMpLI
+2025-06-14 14:38:36,732 - INFO: Successfully saved details for video 1WnJyyyec1g
+2025-06-14 14:38:36,892 - INFO: Collected 40 comments for video 1WnJyyyec1g
+2025-06-14 14:38:40,782 - INFO: Successfully saved details for video hUUszE29jS0
+2025-06-14 14:38:52,475 - INFO: Collected 1000 comments for video hUUszE29jS0
+2025-06-14 14:39:04,311 - INFO: Processing batch 6: 5 videos
+2025-06-14 14:39:05,126 - INFO: Successfully saved details for video W5VzQ8OV3X0
+2025-06-14 14:39:05,345 - INFO: Collected 0 comments for video W5VzQ8OV3X0
+2025-06-14 14:39:09,140 - INFO: Successfully saved details for video Rp2qgvIbirI
+2025-06-14 14:39:09,373 - INFO: Collected 10 comments for video Rp2qgvIbirI
+2025-06-14 14:39:13,010 - INFO: Successfully saved details for video -cqwXxUo_q8
+2025-06-14 14:39:13,863 - INFO: Collected 110 comments for video -cqwXxUo_q8
+2025-06-14 14:39:14,981 - WARNING: No details found for video g6ObkYnfVL8
+2025-06-14 14:39:17,633 - INFO: Successfully saved details for video sIAnQwiCpRc
+2025-06-14 14:39:19,005 - INFO: Collected 185 comments for video sIAnQwiCpRc
+2025-06-14 14:39:29,425 - INFO: Processing batch 7: 5 videos
+2025-06-14 14:39:30,596 - WARNING: Transcript retrieval failed for h0DQWw26bSg: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=h0DQWw26bSg! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (h0DQWw26bSg) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:39:30,600 - INFO: Successfully saved details for video h0DQWw26bSg
+2025-06-14 14:39:30,707 - INFO: Collected 20 comments for video h0DQWw26bSg
+2025-06-14 14:39:33,056 - INFO: Successfully saved details for video eAJW_-i4-kc
+2025-06-14 14:39:37,261 - INFO: Collected 312 comments for video eAJW_-i4-kc
+2025-06-14 14:39:40,492 - INFO: Successfully saved details for video wNLhMZuA00c
+2025-06-14 14:39:40,593 - INFO: Collected 0 comments for video wNLhMZuA00c
+2025-06-14 14:39:42,619 - INFO: Successfully saved details for video xNjINFAdmhI
+2025-06-14 14:39:42,702 - INFO: Collected 0 comments for video xNjINFAdmhI
+2025-06-14 14:39:44,884 - INFO: Successfully saved details for video Zn_sUFnwHDg
+2025-06-14 14:39:44,995 - INFO: Collected 8 comments for video Zn_sUFnwHDg
+2025-06-14 14:39:55,501 - INFO: Processing batch 8: 5 videos
+2025-06-14 14:39:56,319 - WARNING: Transcript retrieval failed for hKBxN5Fllhg: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=hKBxN5Fllhg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:39:56,325 - INFO: Successfully saved details for video hKBxN5Fllhg
+2025-06-14 14:39:56,484 - INFO: Collected 62 comments for video hKBxN5Fllhg
+2025-06-14 14:40:00,244 - INFO: Successfully saved details for video _fHqcDASbGs
+2025-06-14 14:40:00,378 - INFO: Collected 28 comments for video _fHqcDASbGs
+2025-06-14 14:40:02,429 - WARNING: No details found for video EJSxfrPf5qI
+2025-06-14 14:40:03,624 - WARNING: No details found for video _9ot1x4oEaQ
+2025-06-14 14:40:07,115 - INFO: Successfully saved details for video Mc-XvA9sNKU
+2025-06-14 14:40:07,308 - INFO: Collected 13 comments for video Mc-XvA9sNKU
+2025-06-14 14:40:15,335 - INFO: Processing batch 9: 5 videos
+2025-06-14 14:40:15,449 - WARNING: No details found for video 3W9deDxEPjQ
+2025-06-14 14:40:17,771 - WARNING: No details found for video 8QPLoTLAdh8
+2025-06-14 14:40:20,340 - INFO: Successfully saved details for video FIYkPHUiCW4
+2025-06-14 14:40:21,570 - INFO: Collected 157 comments for video FIYkPHUiCW4
+2025-06-14 14:40:25,246 - INFO: Successfully saved details for video 6g3s16dPsik
+2025-06-14 14:40:25,385 - INFO: Collected 32 comments for video 6g3s16dPsik
+2025-06-14 14:40:28,409 - WARNING: No details found for video fIoMjrfGy28
+2025-06-14 14:40:37,513 - INFO: Processing batch 10: 5 videos
+2025-06-14 14:40:38,642 - INFO: Successfully saved details for video gmzklpZFNiE
+2025-06-14 14:40:40,346 - INFO: Collected 155 comments for video gmzklpZFNiE
+2025-06-14 14:40:42,815 - INFO: Successfully saved details for video GAoeGC-eL4I
+2025-06-14 14:40:45,891 - INFO: Collected 206 comments for video GAoeGC-eL4I
+2025-06-14 14:40:48,227 - INFO: Successfully saved details for video LC5V4aIoWes
+2025-06-14 14:40:48,345 - INFO: Collected 0 comments for video LC5V4aIoWes
+2025-06-14 14:40:50,760 - INFO: Successfully saved details for video nwcZ2dxPUo0
+2025-06-14 14:40:50,928 - INFO: Collected 63 comments for video nwcZ2dxPUo0
+2025-06-14 14:40:54,693 - INFO: Successfully saved details for video AOxm8LmH7Y4
+2025-06-14 14:40:54,792 - INFO: Collected 0 comments for video AOxm8LmH7Y4
+2025-06-14 14:41:03,205 - INFO: Processing batch 11: 5 videos
+2025-06-14 14:41:03,332 - WARNING: No details found for video KPeAKY73c10
+2025-06-14 14:41:06,256 - WARNING: Transcript retrieval failed for TTppVzG8gpU: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=TTppVzG8gpU! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:41:06,260 - INFO: Successfully saved details for video TTppVzG8gpU
+2025-06-14 14:41:06,539 - INFO: Collected 92 comments for video TTppVzG8gpU
+2025-06-14 14:41:09,638 - INFO: Successfully saved details for video 0x-nGdi_3_o
+2025-06-14 14:41:09,832 - INFO: Collected 39 comments for video 0x-nGdi_3_o
+2025-06-14 14:41:12,302 - WARNING: No details found for video QTj2BH0qJjU
+2025-06-14 14:41:15,120 - INFO: Successfully saved details for video laBjQ9uJDg8
+2025-06-14 14:41:15,333 - INFO: Collected 88 comments for video laBjQ9uJDg8
+2025-06-14 14:41:25,976 - INFO: Processing batch 12: 5 videos
+2025-06-14 14:41:27,028 - INFO: Successfully saved details for video tU_vZpbnYF4
+2025-06-14 14:41:28,313 - INFO: Collected 198 comments for video tU_vZpbnYF4
+2025-06-14 14:41:32,008 - INFO: Successfully saved details for video x7qbswwBCDo
+2025-06-14 14:41:36,652 - INFO: Collected 499 comments for video x7qbswwBCDo
+2025-06-14 14:41:39,724 - INFO: Successfully saved details for video 2cK-v7sSiUI
+2025-06-14 14:41:39,892 - INFO: Collected 37 comments for video 2cK-v7sSiUI
+2025-06-14 14:41:43,819 - INFO: Successfully saved details for video nVUPazjaHl8
+2025-06-14 14:41:45,399 - INFO: Collected 165 comments for video nVUPazjaHl8
+2025-06-14 14:41:48,030 - INFO: Successfully saved details for video SvcpZ-GuOgo
+2025-06-14 14:41:48,174 - INFO: Collected 0 comments for video SvcpZ-GuOgo
+2025-06-14 14:41:59,618 - INFO: Processing batch 13: 5 videos
+2025-06-14 14:42:00,498 - INFO: Successfully saved details for video RIXB-7RHjBY
+2025-06-14 14:42:00,622 - INFO: Collected 0 comments for video RIXB-7RHjBY
+2025-06-14 14:42:03,556 - INFO: Successfully saved details for video iOXWmZbA2Io
+2025-06-14 14:42:06,749 - INFO: Collected 204 comments for video iOXWmZbA2Io
+2025-06-14 14:42:10,162 - INFO: Successfully saved details for video a_-AqDbYOtM
+2025-06-14 14:42:10,259 - INFO: Collected 0 comments for video a_-AqDbYOtM
+2025-06-14 14:42:12,734 - INFO: Successfully saved details for video GxH8dlWyjNU
+2025-06-14 14:42:12,873 - INFO: Collected 0 comments for video GxH8dlWyjNU
+2025-06-14 14:42:16,484 - INFO: Successfully saved details for video K0iKgJXy_gk
+2025-06-14 14:42:25,613 - INFO: Collected 757 comments for video K0iKgJXy_gk
+2025-06-14 14:42:34,376 - WARNING: Failed to process 10 videos. Details saved to S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.json and S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.csv
+2025-06-14 14:42:34,376 - WARNING: Failed Video - ID: pIFNZ9NpLIE, URL: https://www.superbowl-ads.com/duracell-super-bowl-lix-2025-ad-brady-reboost/, Reason: No video details found
+2025-06-14 14:42:34,376 - WARNING: Failed Video - ID: cDn_uFEXGXk, URL: https://www.superbowl-ads.com/jeep-super-bowl-lix-2025-ad-with-harrison-ford-owners-manual/, Reason: No video details found
+2025-06-14 14:42:34,376 - WARNING: Failed Video - ID: g6ObkYnfVL8, URL: https://www.superbowl-ads.com/he-gets-us-super-bowl-lix-2025-ad-what-is-greatness/, Reason: No video details found
+2025-06-14 14:42:34,376 - WARNING: Failed Video - ID: EJSxfrPf5qI, URL: https://www.superbowl-ads.com/cirkul-super-bowl-lix-2025-ad-you-got-cirkul/, Reason: No video details found
+2025-06-14 14:42:34,376 - WARNING: Failed Video - ID: _9ot1x4oEaQ, URL: https://www.superbowl-ads.com/ram-trucks-super-bowl-lix-2025-ad-goldilocks-and-the-three-trucks-feat-glen-powell/, Reason: No video details found
+2025-06-14 14:42:34,376 - WARNING: Failed Video - ID: 3W9deDxEPjQ, URL: https://www.superbowl-ads.com/nerdwallet-super-bowl-lix-2025-ad-genius-beluga/, Reason: No video details found
+2025-06-14 14:42:34,376 - WARNING: Failed Video - ID: 8QPLoTLAdh8, URL: https://www.superbowl-ads.com/mtn-dew-official-song-of-mountain-dew-baja-blast-kiss-from-a-lime-ft-seal-becky-g-the-mountain-dude/, Reason: No video details found
+2025-06-14 14:42:34,377 - WARNING: Failed Video - ID: fIoMjrfGy28, URL: https://www.superbowl-ads.com/uber-eats-super-bowl-lix-2025-ad-a-century-of-cravings/, Reason: No video details found
+2025-06-14 14:42:34,377 - WARNING: Failed Video - ID: KPeAKY73c10, URL: https://www.superbowl-ads.com/little-ceasars-pizza-super-bowl-lix-2025-ad-woah-with-eugene-levy/, Reason: No video details found
+2025-06-14 14:42:34,377 - WARNING: Failed Video - ID: QTj2BH0qJjU, URL: https://www.superbowl-ads.com/coors-light-super-bowl-lix-2025-ad-slow-monday/, Reason: No video details found
+2025-06-14 14:44:52,923 - INFO: Loaded 62 valid videos
+2025-06-14 14:44:52,924 - INFO: Processing batch 1: 5 videos
+2025-06-14 14:44:54,129 - INFO: Successfully saved details for video bXrhgATNVbE
+2025-06-14 14:44:55,366 - INFO: Collected 161 comments for video bXrhgATNVbE
+2025-06-14 14:44:59,382 - INFO: Successfully saved details for video HjP7A2AWgZI
+2025-06-14 14:44:59,495 - INFO: Collected 0 comments for video HjP7A2AWgZI
+2025-06-14 14:45:02,225 - INFO: Successfully saved details for video AJNUI0WqEdE
+2025-06-14 14:45:03,726 - INFO: Collected 135 comments for video AJNUI0WqEdE
+2025-06-14 14:45:07,087 - WARNING: Transcript retrieval failed for vQ88JB-lgtQ: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=vQ88JB-lgtQ! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:45:07,091 - INFO: Successfully saved details for video vQ88JB-lgtQ
+2025-06-14 14:45:08,644 - INFO: Collected 175 comments for video vQ88JB-lgtQ
+2025-06-14 14:45:12,194 - INFO: Successfully saved details for video DTLM5o-9hYg
+2025-06-14 14:45:22,819 - INFO: Collected 811 comments for video DTLM5o-9hYg
+2025-06-14 14:45:31,254 - INFO: Processing batch 2: 5 videos
+2025-06-14 14:45:31,335 - WARNING: No details found for video MAZ4Yxk9ggw
+2025-06-14 14:45:33,380 - WARNING: No details found for video lWVFBkx8_4E
+2025-06-14 14:45:36,358 - INFO: Successfully saved details for video ubSnD737JaM
+2025-06-14 14:45:36,441 - INFO: Collected 0 comments for video ubSnD737JaM
+2025-06-14 14:45:38,603 - INFO: Successfully saved details for video D6HUxANY8z8
+2025-06-14 14:45:38,699 - INFO: Collected 0 comments for video D6HUxANY8z8
+2025-06-14 14:45:40,789 - WARNING: No details found for video qoER8XCOPaM
+2025-06-14 14:45:50,063 - INFO: Processing batch 3: 5 videos
+2025-06-14 14:45:51,022 - WARNING: Transcript retrieval failed for JRadjMeUKko: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=JRadjMeUKko! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (JRadjMeUKko) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:45:51,024 - INFO: Successfully saved details for video JRadjMeUKko
+2025-06-14 14:45:51,263 - INFO: Collected 83 comments for video JRadjMeUKko
+2025-06-14 14:45:53,651 - WARNING: Transcript retrieval failed for QrQQgLH0p_Y: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=QrQQgLH0p_Y! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:45:53,652 - INFO: Successfully saved details for video QrQQgLH0p_Y
+2025-06-14 14:45:53,777 - INFO: Collected 0 comments for video QrQQgLH0p_Y
+2025-06-14 14:45:57,115 - INFO: Successfully saved details for video Ve2miT5iF2M
+2025-06-14 14:46:09,420 - INFO: Collected 1000 comments for video Ve2miT5iF2M
+2025-06-14 14:46:12,824 - INFO: Successfully saved details for video 7glIC7OaIro
+2025-06-14 14:46:15,150 - INFO: Collected 224 comments for video 7glIC7OaIro
+2025-06-14 14:46:19,029 - INFO: Successfully saved details for video z5fcvlWdfdA
+2025-06-14 14:46:20,068 - INFO: Collected 145 comments for video z5fcvlWdfdA
+2025-06-14 14:46:31,006 - INFO: Processing batch 4: 5 videos
+2025-06-14 14:46:31,942 - WARNING: Transcript retrieval failed for vAf5TjiUJgo: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=vAf5TjiUJgo! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:46:31,945 - INFO: Successfully saved details for video vAf5TjiUJgo
+2025-06-14 14:46:40,860 - INFO: Collected 808 comments for video vAf5TjiUJgo
+2025-06-14 14:46:43,171 - INFO: Successfully saved details for video wdok0rZdmx4
+2025-06-14 14:46:54,067 - INFO: Collected 1000 comments for video wdok0rZdmx4
+2025-06-14 14:46:56,988 - INFO: Successfully saved details for video 5Od0aOse1wc
+2025-06-14 14:47:08,682 - INFO: Collected 1000 comments for video 5Od0aOse1wc
+2025-06-14 14:47:11,757 - WARNING: Transcript retrieval failed for vAf5TjiUJgo: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=vAf5TjiUJgo! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:47:11,759 - INFO: Successfully saved details for video vAf5TjiUJgo
+2025-06-14 14:47:21,606 - INFO: Collected 808 comments for video vAf5TjiUJgo
+2025-06-14 14:47:23,244 - WARNING: No details found for video JjLr4bdLPIs
+2025-06-14 14:47:32,345 - INFO: Processing batch 5: 5 videos
+2025-06-14 14:47:33,448 - WARNING: Transcript retrieval failed for 94BqlDQ-Ppo: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=94BqlDQ-Ppo! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (94BqlDQ-Ppo) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")[TRANSLATABLE]
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+ - ar ("Arabic")
+ - zh-Hant ("Chinese (Traditional)")
+ - nl ("Dutch")
+ - fr ("French")
+ - de ("German")
+ - hi ("Hindi")
+ - id ("Indonesian")
+ - it ("Italian")
+ - ja ("Japanese")
+ - ko ("Korean")
+ - pt ("Portuguese")
+ - ru ("Russian")
+ - es ("Spanish")
+ - th ("Thai")
+ - tr ("Turkish")
+ - uk ("Ukrainian")
+ - vi ("Vietnamese")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:47:33,450 - INFO: Successfully saved details for video 94BqlDQ-Ppo
+2025-06-14 14:47:45,127 - INFO: Collected 1000 comments for video 94BqlDQ-Ppo
+2025-06-14 14:47:47,144 - WARNING: No details found for video C3zN6lT_fPI
+2025-06-14 14:47:50,012 - INFO: Successfully saved details for video Neul4wINfUQ
+2025-06-14 14:47:50,157 - INFO: Collected 38 comments for video Neul4wINfUQ
+2025-06-14 14:47:51,659 - WARNING: No details found for video 1MXYI3ZKLqQ
+2025-06-14 14:47:53,750 - INFO: Successfully saved details for video XtFI7SNtVpY
+2025-06-14 14:48:05,851 - INFO: Collected 1000 comments for video XtFI7SNtVpY
+2025-06-14 14:48:16,739 - INFO: Processing batch 6: 5 videos
+2025-06-14 14:48:17,563 - INFO: Successfully saved details for video F1dvX9Vs0ns
+2025-06-14 14:48:29,206 - INFO: Collected 1000 comments for video F1dvX9Vs0ns
+2025-06-14 14:48:31,068 - INFO: Successfully saved details for video BEkziTXz9Js
+2025-06-14 14:48:31,263 - INFO: Collected 0 comments for video BEkziTXz9Js
+2025-06-14 14:48:33,561 - INFO: Successfully saved details for video uJMCNJP2ipI
+2025-06-14 14:48:45,786 - INFO: Collected 1000 comments for video uJMCNJP2ipI
+2025-06-14 14:48:48,405 - INFO: Successfully saved details for video 5UiFkOJoP-8
+2025-06-14 14:48:51,296 - INFO: Collected 268 comments for video 5UiFkOJoP-8
+2025-06-14 14:48:53,160 - WARNING: Transcript retrieval failed for g0D5MU6_0n0: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=g0D5MU6_0n0! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:48:53,164 - INFO: Successfully saved details for video g0D5MU6_0n0
+2025-06-14 14:48:53,642 - INFO: Collected 0 comments for video g0D5MU6_0n0
+2025-06-14 14:49:00,872 - INFO: Processing batch 7: 5 videos
+2025-06-14 14:49:01,791 - INFO: Successfully saved details for video WmpmKkRDQZg
+2025-06-14 14:49:01,961 - INFO: Collected 0 comments for video WmpmKkRDQZg
+2025-06-14 14:49:05,891 - INFO: Successfully saved details for video H3EsFtUCOno
+2025-06-14 14:49:06,227 - INFO: Collected 44 comments for video H3EsFtUCOno
+2025-06-14 14:49:07,790 - WARNING: No details found for video 1xA7ENrLtUw
+2025-06-14 14:49:11,712 - INFO: Successfully saved details for video SJa1oSgs8Gw
+2025-06-14 14:49:11,804 - INFO: Collected 0 comments for video SJa1oSgs8Gw
+2025-06-14 14:49:14,090 - INFO: Successfully saved details for video XZmMvVCcW0M
+2025-06-14 14:49:14,271 - INFO: Collected 16 comments for video XZmMvVCcW0M
+2025-06-14 14:49:21,298 - INFO: Processing batch 8: 5 videos
+2025-06-14 14:49:22,501 - INFO: Successfully saved details for video cXT8JgdvCHc
+2025-06-14 14:49:23,791 - INFO: Collected 127 comments for video cXT8JgdvCHc
+2025-06-14 14:49:26,963 - INFO: Successfully saved details for video sfB-glrgn5o
+2025-06-14 14:49:34,231 - INFO: Collected 643 comments for video sfB-glrgn5o
+2025-06-14 14:49:37,853 - INFO: Successfully saved details for video YVeCwSWNLrM
+2025-06-14 14:49:49,379 - INFO: Collected 943 comments for video YVeCwSWNLrM
+2025-06-14 14:49:53,291 - INFO: Successfully saved details for video xXKuSJy5cPE
+2025-06-14 14:49:53,459 - INFO: Collected 1 comments for video xXKuSJy5cPE
+2025-06-14 14:49:56,520 - INFO: Successfully saved details for video Y7mLeyIETu0
+2025-06-14 14:49:58,471 - INFO: Collected 199 comments for video Y7mLeyIETu0
+2025-06-14 14:50:10,325 - INFO: Processing batch 9: 5 videos
+2025-06-14 14:50:10,426 - WARNING: No details found for video V3Y6tW7MoR8
+2025-06-14 14:50:12,550 - INFO: Successfully saved details for video NBuB85VsZfI
+2025-06-14 14:50:15,200 - INFO: Collected 293 comments for video NBuB85VsZfI
+2025-06-14 14:50:17,410 - INFO: Successfully saved details for video kwUJq0DA0xo
+2025-06-14 14:50:17,594 - INFO: Collected 63 comments for video kwUJq0DA0xo
+2025-06-14 14:50:19,302 - WARNING: No details found for video fwvjimuwVyY
+2025-06-14 14:50:21,534 - WARNING: Transcript retrieval failed for pUhq4w9mKWg: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=pUhq4w9mKWg! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:50:21,536 - INFO: Successfully saved details for video pUhq4w9mKWg
+2025-06-14 14:50:21,667 - INFO: Collected 1 comments for video pUhq4w9mKWg
+2025-06-14 14:50:30,722 - INFO: Processing batch 10: 5 videos
+2025-06-14 14:50:31,482 - INFO: Successfully saved details for video 6zolFHbtEew
+2025-06-14 14:50:31,753 - INFO: Collected 92 comments for video 6zolFHbtEew
+2025-06-14 14:50:33,455 - WARNING: No details found for video SaCVSUbYpVc
+2025-06-14 14:50:36,576 - INFO: Successfully saved details for video kjVf8ptmDmk
+2025-06-14 14:50:40,861 - INFO: Collected 302 comments for video kjVf8ptmDmk
+2025-06-14 14:50:42,331 - WARNING: No details found for video OU7BJc96lI4
+2025-06-14 14:50:44,919 - WARNING: Transcript retrieval failed for fQ7Az_7pzDM: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=fQ7Az_7pzDM! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (fQ7Az_7pzDM) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")[TRANSLATABLE]
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+ - ar ("Arabic")
+ - zh-Hant ("Chinese (Traditional)")
+ - nl ("Dutch")
+ - fr ("French")
+ - de ("German")
+ - hi ("Hindi")
+ - id ("Indonesian")
+ - it ("Italian")
+ - ja ("Japanese")
+ - ko ("Korean")
+ - pt ("Portuguese")
+ - ru ("Russian")
+ - es ("Spanish")
+ - th ("Thai")
+ - tr ("Turkish")
+ - uk ("Ukrainian")
+ - vi ("Vietnamese")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:50:44,923 - INFO: Successfully saved details for video fQ7Az_7pzDM
+2025-06-14 14:50:45,980 - INFO: Collected 116 comments for video fQ7Az_7pzDM
+2025-06-14 14:50:55,215 - INFO: Processing batch 11: 5 videos
+2025-06-14 14:50:56,245 - WARNING: Transcript retrieval failed for zo8PQgark7c: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=zo8PQgark7c! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:50:56,249 - INFO: Successfully saved details for video zo8PQgark7c
+2025-06-14 14:50:57,237 - INFO: Collected 128 comments for video zo8PQgark7c
+2025-06-14 14:51:00,456 - INFO: Successfully saved details for video xp5v3-3Hc-E
+2025-06-14 14:51:00,557 - INFO: Collected 0 comments for video xp5v3-3Hc-E
+2025-06-14 14:51:02,945 - INFO: Successfully saved details for video Cl--5P79iRs
+2025-06-14 14:51:03,037 - INFO: Collected 0 comments for video Cl--5P79iRs
+2025-06-14 14:51:06,337 - WARNING: Transcript retrieval failed for -kI-vfyl2mo: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=-kI-vfyl2mo! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:51:06,341 - INFO: Successfully saved details for video -kI-vfyl2mo
+2025-06-14 14:51:06,550 - INFO: Collected 71 comments for video -kI-vfyl2mo
+2025-06-14 14:51:09,985 - INFO: Successfully saved details for video oGnyO_lEW2E
+2025-06-14 14:51:10,314 - INFO: Collected 53 comments for video oGnyO_lEW2E
+2025-06-14 14:51:22,045 - INFO: Processing batch 12: 5 videos
+2025-06-14 14:51:23,497 - INFO: Successfully saved details for video wYPTZIFQoDQ
+2025-06-14 14:51:24,916 - INFO: Collected 170 comments for video wYPTZIFQoDQ
+2025-06-14 14:51:28,318 - INFO: Successfully saved details for video 88tPE7AAUxM
+2025-06-14 14:51:28,454 - INFO: Collected 65 comments for video 88tPE7AAUxM
+2025-06-14 14:51:30,757 - INFO: Successfully saved details for video YKzk1h7qrj8
+2025-06-14 14:51:42,496 - INFO: Collected 1000 comments for video YKzk1h7qrj8
+2025-06-14 14:51:46,032 - WARNING: Transcript retrieval failed for tMltLxq0Jbo: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=tMltLxq0Jbo! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:51:46,034 - INFO: Successfully saved details for video tMltLxq0Jbo
+2025-06-14 14:51:46,204 - INFO: Collected 1 comments for video tMltLxq0Jbo
+2025-06-14 14:51:48,644 - INFO: Successfully saved details for video sn4_CjtmQKw
+2025-06-14 14:51:48,800 - INFO: Collected 2 comments for video sn4_CjtmQKw
+2025-06-14 14:51:56,128 - INFO: Processing batch 13: 2 videos
+2025-06-14 14:51:57,365 - INFO: Successfully saved details for video 8C4DNSV3IRE
+2025-06-14 14:52:05,189 - INFO: Collected 753 comments for video 8C4DNSV3IRE
+2025-06-14 14:52:08,987 - INFO: Successfully saved details for video 8qQ7Q6INWOw
+2025-06-14 14:52:10,150 - INFO: Collected 199 comments for video 8qQ7Q6INWOw
+2025-06-14 14:52:22,224 - WARNING: Failed to process 11 videos. Details saved to S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.json and S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.csv
+2025-06-14 14:52:22,225 - WARNING: Failed Video - ID: MAZ4Yxk9ggw, URL: https://www.superbowl-ads.com/paramount-2024-super-bowl-ad-knuckles/, Reason: No video details found
+2025-06-14 14:52:22,225 - WARNING: Failed Video - ID: lWVFBkx8_4E, URL: https://www.superbowl-ads.com/homes-com-2024-super-bowl-ad-quick-question/, Reason: No video details found
+2025-06-14 14:52:22,225 - WARNING: Failed Video - ID: qoER8XCOPaM, URL: https://www.superbowl-ads.com/homes-com-2024-super-bowl-ad-so-tell-us-about-this-corn-festival/, Reason: No video details found
+2025-06-14 14:52:22,226 - WARNING: Failed Video - ID: JjLr4bdLPIs, URL: https://www.superbowl-ads.com/etrade-2024-super-bowl-ad-picklebabies/, Reason: No video details found
+2025-06-14 14:52:22,227 - WARNING: Failed Video - ID: C3zN6lT_fPI, URL: https://www.superbowl-ads.com/homes-com-2024-super-bowl-ad-now-that-is-worth-celebrating/, Reason: No video details found
+2025-06-14 14:52:22,227 - WARNING: Failed Video - ID: 1MXYI3ZKLqQ, URL: https://www.superbowl-ads.com/apartments-com-2024-super-bowl-ad-extraterrentals-with-jeff-goldblum/, Reason: No video details found
+2025-06-14 14:52:22,227 - WARNING: Failed Video - ID: 1xA7ENrLtUw, URL: https://www.superbowl-ads.com/starry-2024-super-bowl-ad-its-time-to-see-other-sodas-with-ice-spice/, Reason: No video details found
+2025-06-14 14:52:22,228 - WARNING: Failed Video - ID: V3Y6tW7MoR8, URL: https://www.superbowl-ads.com/doritos-dinamita-2024-super-bowl-ad-dina-mita/, Reason: No video details found
+2025-06-14 14:52:22,228 - WARNING: Failed Video - ID: fwvjimuwVyY, URL: https://www.superbowl-ads.com/pfizer-2024-super-bowl-ad-heres-to-science/, Reason: No video details found
+2025-06-14 14:52:22,228 - WARNING: Failed Video - ID: SaCVSUbYpVc, URL: https://www.superbowl-ads.com/microsoft-2024-super-bowl-ad-copilot-your-everyday-ai-companion/, Reason: No video details found
+2025-06-14 14:52:22,228 - WARNING: Failed Video - ID: OU7BJc96lI4, URL: https://www.superbowl-ads.com/kia-2024-super-bowl-ad-perfect-10/, Reason: No video details found
+2025-06-14 14:56:13,757 - INFO: Loaded 53 valid videos
+2025-06-14 14:56:13,757 - INFO: Processing batch 1: 5 videos
+2025-06-14 14:56:13,879 - WARNING: No details found for video https://videos.files.wordpress.com/HfVteTbl/37.jacks-new-angle.mp4
+2025-06-14 14:56:16,398 - INFO: Successfully saved details for video fdN0GWOtsHQ
+2025-06-14 14:56:19,371 - INFO: Collected 233 comments for video fdN0GWOtsHQ
+2025-06-14 14:56:22,009 - WARNING: No details found for video https://videos.files.wordpress.com/9GtMlhpd/36.make-it-better-e28093-avocados-from-mexico-efbd9c-big-game-commercial-2023-efbd9c-makeitbetter-efbd9c-long-version-efbc9a60.mp4
+2025-06-14 14:56:24,746 - WARNING: No details found for video https://videos.files.wordpress.com/O4KQrmuh/39.great-acting-or-great-tasteefbc9f-efbd9c-steve-martin.mp4
+2025-06-14 14:56:26,259 - WARNING: No details found for video https://www.superbowl-ads.com/wp-content/uploads/2023/02/lpu-bth5j2u.jpg
+2025-06-14 14:56:36,864 - INFO: Processing batch 2: 5 videos
+2025-06-14 14:56:37,836 - INFO: Successfully saved details for video h5D5BQM6D-M
+2025-06-14 14:56:37,967 - INFO: Collected 0 comments for video h5D5BQM6D-M
+2025-06-14 14:56:39,308 - WARNING: No details found for video https://videos.files.wordpress.com/tkK77P4s/42.why-not-an-evefbc9f-efbd9c-gm-x-netflix.mp4
+2025-06-14 14:56:42,208 - INFO: Successfully saved details for video QKZ7asNNhcI
+2025-06-14 14:56:42,358 - INFO: Collected 23 comments for video QKZ7asNNhcI
+2025-06-14 14:56:45,231 - INFO: Successfully saved details for video gKCScoG83SA
+2025-06-14 14:56:45,466 - INFO: Collected 46 comments for video gKCScoG83SA
+2025-06-14 14:56:47,289 - WARNING: No details found for video 2ID-1mzRAew
+2025-06-14 14:56:56,109 - INFO: Processing batch 3: 5 videos
+2025-06-14 14:56:56,180 - WARNING: No details found for video https://videos.files.wordpress.com/LZq7wjiG/49.not-so-clueless-efbd9c-rakuten-big-game-commercial.mp4
+2025-06-14 14:56:58,472 - WARNING: No details found for video r_xfLBvk-AA
+2025-06-14 14:57:01,606 - WARNING: No details found for video ZMlemd6U24Y
+2025-06-14 14:57:05,318 - INFO: Successfully saved details for video 8Bsgj1ihEOg
+2025-06-14 14:57:05,445 - INFO: Collected 34 comments for video 8Bsgj1ihEOg
+2025-06-14 14:57:07,457 - INFO: Successfully saved details for video GizRGO3PVD8
+2025-06-14 14:57:11,576 - INFO: Collected 336 comments for video GizRGO3PVD8
+2025-06-14 14:57:21,048 - INFO: Processing batch 4: 5 videos
+2025-06-14 14:57:22,681 - INFO: Successfully saved details for video azCNwGnxq0s
+2025-06-14 14:57:34,703 - INFO: Collected 1000 comments for video azCNwGnxq0s
+2025-06-14 14:57:38,228 - INFO: Successfully saved details for video AKbXPXOQAmQ
+2025-06-14 14:57:38,391 - INFO: Collected 14 comments for video AKbXPXOQAmQ
+2025-06-14 14:57:41,225 - INFO: Successfully saved details for video VPK_JIM6Hi0
+2025-06-14 14:57:41,395 - INFO: Collected 63 comments for video VPK_JIM6Hi0
+2025-06-14 14:57:44,751 - WARNING: Transcript retrieval failed for 5YsxXj5kycs: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5YsxXj5kycs! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:57:44,764 - INFO: Successfully saved details for video 5YsxXj5kycs
+2025-06-14 14:57:46,401 - INFO: Collected 108 comments for video 5YsxXj5kycs
+2025-06-14 14:57:50,012 - INFO: Successfully saved details for video wlPM7E8uLJ8
+2025-06-14 14:57:50,134 - INFO: Collected 15 comments for video wlPM7E8uLJ8
+2025-06-14 14:57:58,659 - INFO: Processing batch 5: 5 videos
+2025-06-14 14:57:58,746 - WARNING: No details found for video https://videos.files.wordpress.com/RqnGcMHk/64.knowing-their-order-extended-efbd9c-mcdonalds.mp4
+2025-06-14 14:58:02,616 - INFO: Successfully saved details for video yBPQ2rxjD7g
+2025-06-14 14:58:03,686 - INFO: Collected 106 comments for video yBPQ2rxjD7g
+2025-06-14 14:58:06,438 - INFO: Successfully saved details for video 73p4lL1iq7w
+2025-06-14 14:58:18,153 - INFO: Collected 1000 comments for video 73p4lL1iq7w
+2025-06-14 14:58:20,234 - INFO: Successfully saved details for video UEx75kcWgxc
+2025-06-14 14:58:20,338 - INFO: Collected 7 comments for video UEx75kcWgxc
+2025-06-14 14:58:22,642 - INFO: Successfully saved details for video -bueUljGJ2M
+2025-06-14 14:58:26,531 - INFO: Collected 343 comments for video -bueUljGJ2M
+2025-06-14 14:58:35,100 - INFO: Processing batch 6: 5 videos
+2025-06-14 14:58:35,206 - WARNING: No details found for video https://videos.files.wordpress.com/jsm8cSQA/16.mms-super-bowl-2023.mp4
+2025-06-14 14:58:37,623 - WARNING: No details found for video https://videos.files.wordpress.com/R5bvekOk/45.nfl-super-bowl-lvii-commercial-efbd9cefbd9c-run-with-it.mp4
+2025-06-14 14:58:41,635 - INFO: Successfully saved details for video cjiPkaGdbAQ
+2025-06-14 14:58:42,607 - INFO: Collected 149 comments for video cjiPkaGdbAQ
+2025-06-14 14:58:45,206 - INFO: Successfully saved details for video 8gatiYW5kWs
+2025-06-14 14:58:45,345 - INFO: Collected 25 comments for video 8gatiYW5kWs
+2025-06-14 14:58:47,873 - WARNING: Transcript retrieval failed for GtyxWvifru8: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=GtyxWvifru8! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:58:47,879 - INFO: Successfully saved details for video GtyxWvifru8
+2025-06-14 14:58:52,679 - INFO: Collected 418 comments for video GtyxWvifru8
+2025-06-14 14:59:04,061 - INFO: Processing batch 7: 5 videos
+2025-06-14 14:59:05,128 - INFO: Successfully saved details for video DNpd1rAfoCU
+2025-06-14 14:59:05,405 - INFO: Collected 0 comments for video DNpd1rAfoCU
+2025-06-14 14:59:09,325 - INFO: Successfully saved details for video jzE68RiXbT8
+2025-06-14 14:59:09,510 - INFO: Collected 86 comments for video jzE68RiXbT8
+2025-06-14 14:59:12,496 - WARNING: Transcript retrieval failed for h4my8CdjU8w: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=h4my8CdjU8w! This is most likely caused by:
+
+This video is age-restricted. Therefore, you are unable to retrieve transcripts for it without authenticating yourself.
+
+Unfortunately, Cookie Authentication is temporarily unsupported in youtube-transcript-api, as recent changes in YouTube's API broke the previous implementation. I will do my best to re-implement it as soon as possible.
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:59:12,499 - INFO: Successfully saved details for video h4my8CdjU8w
+2025-06-14 14:59:12,703 - INFO: Collected 19 comments for video h4my8CdjU8w
+2025-06-14 14:59:15,178 - INFO: Successfully saved details for video AO0aIHyetAw
+2025-06-14 14:59:15,406 - INFO: Collected 30 comments for video AO0aIHyetAw
+2025-06-14 14:59:19,124 - WARNING: Transcript retrieval failed for Tz-ML9Fxx5o: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Tz-ML9Fxx5o! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (Tz-ML9Fxx5o) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:59:19,126 - INFO: Successfully saved details for video Tz-ML9Fxx5o
+2025-06-14 14:59:19,332 - INFO: Collected 85 comments for video Tz-ML9Fxx5o
+2025-06-14 14:59:27,130 - INFO: Processing batch 8: 5 videos
+2025-06-14 14:59:28,166 - WARNING: Transcript retrieval failed for M0zdJOM_5Vg: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=M0zdJOM_5Vg! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (M0zdJOM_5Vg) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 14:59:28,166 - INFO: Successfully saved details for video M0zdJOM_5Vg
+2025-06-14 14:59:39,687 - INFO: Collected 1000 comments for video M0zdJOM_5Vg
+2025-06-14 14:59:43,451 - INFO: Successfully saved details for video ogLX2heol5E
+2025-06-14 14:59:43,539 - INFO: Collected 0 comments for video ogLX2heol5E
+2025-06-14 14:59:45,936 - INFO: Successfully saved details for video TQpwONzpcy4
+2025-06-14 14:59:57,487 - INFO: Collected 1000 comments for video TQpwONzpcy4
+2025-06-14 15:00:00,336 - INFO: Successfully saved details for video 8oBHRjnQCFE
+2025-06-14 15:00:03,525 - INFO: Collected 321 comments for video 8oBHRjnQCFE
+2025-06-14 15:00:05,862 - INFO: Successfully saved details for video BBIX9FG6kZ0
+2025-06-14 15:00:12,108 - INFO: Collected 517 comments for video BBIX9FG6kZ0
+2025-06-14 15:00:23,662 - INFO: Processing batch 9: 5 videos
+2025-06-14 15:00:24,835 - INFO: Successfully saved details for video qXBsJW4LOCQ
+2025-06-14 15:00:28,614 - INFO: Collected 318 comments for video qXBsJW4LOCQ
+2025-06-14 15:00:32,225 - WARNING: Transcript retrieval failed for de5m3NWhi-Y: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=de5m3NWhi-Y! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (de5m3NWhi-Y) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:00:32,225 - INFO: Successfully saved details for video de5m3NWhi-Y
+2025-06-14 15:00:32,382 - INFO: Collected 52 comments for video de5m3NWhi-Y
+2025-06-14 15:00:35,821 - INFO: Successfully saved details for video x_gAb7tLoXM
+2025-06-14 15:00:45,004 - INFO: Collected 790 comments for video x_gAb7tLoXM
+2025-06-14 15:00:46,377 - WARNING: No details found for video https://videos.files.wordpress.com/lEpMMpP7/ram_1500rev-premature_electrification.mp4
+2025-06-14 15:00:47,931 - WARNING: No details found for video https://videos.files.wordpress.com/XFaJcW3k/21.jeepc2ae-efbd9c-the-jeep-4xe-electric-boogie.mp4
+2025-06-14 15:00:54,928 - INFO: Processing batch 10: 5 videos
+2025-06-14 15:00:55,047 - WARNING: No details found for video RpYzhCYaEIM
+2025-06-14 15:00:57,256 - INFO: Successfully saved details for video IAIo-pUDl0s
+2025-06-14 15:01:01,385 - INFO: Collected 332 comments for video IAIo-pUDl0s
+2025-06-14 15:01:03,937 - WARNING: No details found for video X8aV2tbCMUM
+2025-06-14 15:01:05,645 - WARNING: No details found for video https://videos.files.wordpress.com/C3ukpu64/26.we-get-groceries-doordash-big-game-commercial.mp4
+2025-06-14 15:01:08,263 - INFO: Successfully saved details for video jSO-Whn2sCQ
+2025-06-14 15:01:17,690 - INFO: Collected 836 comments for video jSO-Whn2sCQ
+2025-06-14 15:01:28,443 - INFO: Processing batch 11: 3 videos
+2025-06-14 15:01:29,533 - INFO: Successfully saved details for video mManLnHyyek
+2025-06-14 15:01:29,683 - INFO: Collected 0 comments for video mManLnHyyek
+2025-06-14 15:01:32,824 - INFO: Successfully saved details for video f8LE9gxtxTY
+2025-06-14 15:01:33,022 - INFO: Collected 29 comments for video f8LE9gxtxTY
+2025-06-14 15:01:36,457 - WARNING: Transcript retrieval failed for 6uLgF2K2n5M: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=6uLgF2K2n5M! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (6uLgF2K2n5M) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:01:36,457 - INFO: Successfully saved details for video 6uLgF2K2n5M
+2025-06-14 15:01:42,531 - INFO: Collected 482 comments for video 6uLgF2K2n5M
+2025-06-14 15:01:52,431 - WARNING: Failed to process 17 videos. Details saved to S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.json and S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.csv
+2025-06-14 15:01:52,431 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/HfVteTbl/37.jacks-new-angle.mp4, URL: https://www.superbowl-ads.com/doritos-2023-super-bowl-ad-jacks-new-angle/, Reason: No video details found
+2025-06-14 15:01:52,431 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/9GtMlhpd/36.make-it-better-e28093-avocados-from-mexico-efbd9c-big-game-commercial-2023-efbd9c-makeitbetter-efbd9c-long-version-efbc9a60.mp4, URL: https://www.superbowl-ads.com/avocados-from-mexico-2023-super-bowl-ad-make-it-better/, Reason: No video details found
+2025-06-14 15:01:52,431 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/O4KQrmuh/39.great-acting-or-great-tasteefbc9f-efbd9c-steve-martin.mp4, URL: https://www.superbowl-ads.com/pepsi-2023-super-bowl-ad-great-acting-or-grrat-taste-with-steve-martin/, Reason: No video details found
+2025-06-14 15:01:52,431 - WARNING: Failed Video - ID: https://www.superbowl-ads.com/wp-content/uploads/2023/02/lpu-bth5j2u.jpg, URL: https://www.superbowl-ads.com/sam-adams-2023-super-bowl-commercial-your-cousins-brighter-boston/, Reason: No video details found
+2025-06-14 15:01:52,431 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/tkK77P4s/42.why-not-an-evefbc9f-efbd9c-gm-x-netflix.mp4, URL: https://www.superbowl-ads.com/gm-and-netflix-2023-super-bowl-ad-why-not-an-ev/, Reason: No video details found
+2025-06-14 15:01:52,431 - WARNING: Failed Video - ID: 2ID-1mzRAew, URL: https://www.superbowl-ads.com/workday-2023-super-bowl-ad-rock-star/, Reason: No video details found
+2025-06-14 15:01:52,431 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/LZq7wjiG/49.not-so-clueless-efbd9c-rakuten-big-game-commercial.mp4, URL: https://www.superbowl-ads.com/rakuten-2023-super-bowl-ad-not-so-clueless-with-alicia-silverstone-as-cher-horowitz/, Reason: No video details found
+2025-06-14 15:01:52,431 - WARNING: Failed Video - ID: r_xfLBvk-AA, URL: https://www.superbowl-ads.com/hellmanns-2023-super-bowl-ad-whos-in-the-fridge-with-jon-hamm-brie-larson-and-pete-davidson/, Reason: No video details found
+2025-06-14 15:01:52,431 - WARNING: Failed Video - ID: ZMlemd6U24Y, URL: https://www.superbowl-ads.com/popcorners-2023-super-bowl-ad-breaking-good/, Reason: No video details found
+2025-06-14 15:01:52,447 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/RqnGcMHk/64.knowing-their-order-extended-efbd9c-mcdonalds.mp4, URL: https://www.superbowl-ads.com/mcdonalds-2023-pregame-super-bowl-commercial-knowing-their-order/, Reason: No video details found
+2025-06-14 15:01:52,447 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/jsm8cSQA/16.mms-super-bowl-2023.mp4, URL: https://www.superbowl-ads.com/mms-2023-super-bowl-ad/, Reason: No video details found
+2025-06-14 15:01:52,448 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/R5bvekOk/45.nfl-super-bowl-lvii-commercial-efbd9cefbd9c-run-with-it.mp4, URL: https://www.superbowl-ads.com/nfl-2023-super-bowl-ad-run-with-it-with-diana-flores/, Reason: No video details found
+2025-06-14 15:01:52,448 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/lEpMMpP7/ram_1500rev-premature_electrification.mp4, URL: https://www.superbowl-ads.com/ram-trucks-2023-super-bowl-ad-premature-electrification/, Reason: No video details found
+2025-06-14 15:01:52,449 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/XFaJcW3k/21.jeepc2ae-efbd9c-the-jeep-4xe-electric-boogie.mp4, URL: https://www.superbowl-ads.com/jeep-2023-super-bowl-ad-electric-boogie/, Reason: No video details found
+2025-06-14 15:01:52,449 - WARNING: Failed Video - ID: RpYzhCYaEIM, URL: https://www.superbowl-ads.com/dexcom-2023-super-bowl-ad-with-nick-jonas/, Reason: No video details found
+2025-06-14 15:01:52,449 - WARNING: Failed Video - ID: X8aV2tbCMUM, URL: https://www.superbowl-ads.com/etrade-2023-super-bowl-ad-wedding-with-etrade-baby/, Reason: No video details found
+2025-06-14 15:01:52,449 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/C3ukpu64/26.we-get-groceries-doordash-big-game-commercial.mp4, URL: https://www.superbowl-ads.com/doordash-2023-super-bowl-ad-we-get-groceries/, Reason: No video details found
+2025-06-14 15:02:21,068 - INFO: Loaded 41 valid videos
+2025-06-14 15:02:21,068 - INFO: Processing batch 1: 5 videos
+2025-06-14 15:02:22,257 - INFO: Successfully saved details for video ev82iHoLk8s
+2025-06-14 15:02:22,560 - INFO: Collected 96 comments for video ev82iHoLk8s
+2025-06-14 15:02:25,813 - INFO: Successfully saved details for video eIUD_NE1BDo
+2025-06-14 15:02:27,657 - INFO: Collected 113 comments for video eIUD_NE1BDo
+2025-06-14 15:02:30,332 - INFO: Successfully saved details for video -x__vh1H0dQ
+2025-06-14 15:02:31,530 - INFO: Collected 109 comments for video -x__vh1H0dQ
+2025-06-14 15:02:34,277 - INFO: Successfully saved details for video zDHBioJ-jQ8
+2025-06-14 15:02:34,462 - INFO: Collected 37 comments for video zDHBioJ-jQ8
+2025-06-14 15:02:36,648 - WARNING: No details found for video https://videos.files.wordpress.com/JfQ2HoXs/2022_cutwaterspirits_lazy-ones.mp4
+2025-06-14 15:02:45,237 - INFO: Processing batch 2: 5 videos
+2025-06-14 15:02:45,337 - WARNING: No details found for video https://videos.files.wordpress.com/UdzrHW0I/2022_t-mobile_zach-braff-and-donald-faison-sing-duet.mp4
+2025-06-14 15:02:47,395 - WARNING: No details found for video https://videos.files.wordpress.com/9hghwhoN/2022_etoro-flying-your-way.mp4
+2025-06-14 15:02:50,402 - INFO: Successfully saved details for video 6rcw6GdCQC8
+2025-06-14 15:02:53,986 - INFO: Collected 378 comments for video 6rcw6GdCQC8
+2025-06-14 15:02:57,046 - WARNING: No details found for video https://videos.files.wordpress.com/CRHrc3a0/2022_t-mobile_miley-cyrus-sings-for-5g-phones.mp4
+2025-06-14 15:02:59,279 - INFO: Successfully saved details for video AV8NXzi5Lj0
+2025-06-14 15:03:02,349 - INFO: Collected 247 comments for video AV8NXzi5Lj0
+2025-06-14 15:03:09,500 - INFO: Processing batch 3: 5 videos
+2025-06-14 15:03:09,590 - WARNING: No details found for video https://videos.files.wordpress.com/hDDudh1m/2022_youtubetv_strange-choices_tvai.mp4
+2025-06-14 15:03:13,505 - WARNING: Transcript retrieval failed for Ha8ofuzpriE: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Ha8ofuzpriE! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (Ha8ofuzpriE) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:03:13,505 - INFO: Successfully saved details for video Ha8ofuzpriE
+2025-06-14 15:03:13,728 - INFO: Collected 37 comments for video Ha8ofuzpriE
+2025-06-14 15:03:17,281 - WARNING: Transcript retrieval failed for B4QI0VzbkHk: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=B4QI0VzbkHk! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:03:17,297 - INFO: Successfully saved details for video B4QI0VzbkHk
+2025-06-14 15:03:22,732 - INFO: Collected 415 comments for video B4QI0VzbkHk
+2025-06-14 15:03:26,321 - INFO: Successfully saved details for video KM3Yx-5Ymiw
+2025-06-14 15:03:38,296 - INFO: Collected 1000 comments for video KM3Yx-5Ymiw
+2025-06-14 15:03:39,409 - WARNING: No details found for video https://videos.files.wordpress.com/HxtyAVui/2022_t-mobile_dolly-parton-and-miley-cyrus-help-5g.mp4
+2025-06-14 15:03:46,752 - INFO: Processing batch 4: 5 videos
+2025-06-14 15:03:47,613 - INFO: Successfully saved details for video PqgaQ9WnJSI
+2025-06-14 15:03:47,690 - INFO: Collected 0 comments for video PqgaQ9WnJSI
+2025-06-14 15:03:49,526 - WARNING: No details found for video https://videos.files.wordpress.com/4R6XBAKl/2022_gmdrev-il.mp4
+2025-06-14 15:03:50,977 - WARNING: No details found for video https://videos.files.wordpress.com/djZYq0Au/amazons-big-game-commercial-mind-reader.mp4
+2025-06-14 15:03:54,738 - INFO: Successfully saved details for video UihVmkDISsg
+2025-06-14 15:03:54,827 - INFO: Collected 0 comments for video UihVmkDISsg
+2025-06-14 15:03:58,277 - WARNING: Transcript retrieval failed for rjZ_O-c3QRw: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=rjZ_O-c3QRw! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:03:58,277 - INFO: Successfully saved details for video rjZ_O-c3QRw
+2025-06-14 15:04:00,987 - INFO: Collected 314 comments for video rjZ_O-c3QRw
+2025-06-14 15:04:07,771 - INFO: Processing batch 5: 5 videos
+2025-06-14 15:04:08,577 - INFO: Successfully saved details for video nUC1QA5gRcU
+2025-06-14 15:04:22,824 - INFO: Collected 1000 comments for video nUC1QA5gRcU
+2025-06-14 15:04:26,001 - INFO: Successfully saved details for video X5-nAFdvg7c
+2025-06-14 15:04:26,301 - INFO: Collected 35 comments for video X5-nAFdvg7c
+2025-06-14 15:04:28,827 - INFO: Successfully saved details for video Vs0YHD0JoCk
+2025-06-14 15:04:29,078 - INFO: Collected 51 comments for video Vs0YHD0JoCk
+2025-06-14 15:04:32,155 - WARNING: Transcript retrieval failed for -QdSFj17Su8: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=-QdSFj17Su8! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (-QdSFj17Su8) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - es ("Spanish (auto-generated)")[TRANSLATABLE]
+
+(TRANSLATION LANGUAGES)
+ - en ("English")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:04:32,157 - INFO: Successfully saved details for video -QdSFj17Su8
+2025-06-14 15:04:32,346 - INFO: Collected 2 comments for video -QdSFj17Su8
+2025-06-14 15:04:34,855 - WARNING: No details found for video XhUgcYw9cj4
+2025-06-14 15:04:46,038 - INFO: Processing batch 6: 5 videos
+2025-06-14 15:04:46,166 - WARNING: No details found for video https://videos.files.wordpress.com/YuXnxlBm/2022_meta_old-friends.mp4
+2025-06-14 15:04:49,244 - WARNING: No details found for video nolcJF_197c
+2025-06-14 15:04:51,518 - WARNING: Transcript retrieval failed for YPV7X8_zKfc: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=YPV7X8_zKfc! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (YPV7X8_zKfc) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:04:51,518 - INFO: Successfully saved details for video YPV7X8_zKfc
+2025-06-14 15:04:51,710 - INFO: Collected 40 comments for video YPV7X8_zKfc
+2025-06-14 15:04:55,650 - INFO: Successfully saved details for video 0XXmCAwO3qg
+2025-06-14 15:04:55,914 - INFO: Collected 23 comments for video 0XXmCAwO3qg
+2025-06-14 15:04:58,603 - INFO: Successfully saved details for video CMaispXEh94
+2025-06-14 15:05:00,244 - INFO: Collected 132 comments for video CMaispXEh94
+2025-06-14 15:05:11,038 - INFO: Processing batch 7: 5 videos
+2025-06-14 15:05:12,109 - INFO: Successfully saved details for video YchR7cbFuAU
+2025-06-14 15:05:12,345 - INFO: Collected 7 comments for video YchR7cbFuAU
+2025-06-14 15:05:15,364 - WARNING: No details found for video https://videos.files.wordpress.com/tLy8b15N/2022_avocados-from-mexico_alwaysgood.mp4
+2025-06-14 15:05:16,691 - WARNING: No details found for video https://videos.files.wordpress.com/HReeei2N/2022_irish-spring_welcome.mp4
+2025-06-14 15:05:19,386 - WARNING: No details found for video https://videos.files.wordpress.com/VYI8wVOt/2022_plantersnuts_debate_tvai.mp4
+2025-06-14 15:05:21,853 - INFO: Successfully saved details for video fwnbHVYgprA
+2025-06-14 15:05:22,032 - INFO: Collected 0 comments for video fwnbHVYgprA
+2025-06-14 15:05:30,697 - INFO: Processing batch 8: 5 videos
+2025-06-14 15:05:30,770 - WARNING: No details found for video https://videos.files.wordpress.com/tb9Ygljq/2022_bud-light-next_zero.mp4
+2025-06-14 15:05:32,182 - WARNING: No details found for video https://videos.files.wordpress.com/qYNhtUwB/2022_sams-club-vip-with-kevin-hart.mp4
+2025-06-14 15:05:35,082 - WARNING: Transcript retrieval failed for 4TEKZo6b11M: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=4TEKZo6b11M! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:05:35,082 - INFO: Successfully saved details for video 4TEKZo6b11M
+2025-06-14 15:05:38,973 - INFO: Collected 126 comments for video 4TEKZo6b11M
+2025-06-14 15:05:42,186 - INFO: Successfully saved details for video YpKYj8edUOg
+2025-06-14 15:05:44,168 - INFO: Collected 174 comments for video YpKYj8edUOg
+2025-06-14 15:05:46,647 - WARNING: No details found for video https://videos.files.wordpress.com/hvHUhgSU/2022-pepsi-the-call.mp4
+2025-06-14 15:05:57,173 - INFO: Processing batch 9: 1 videos
+2025-06-14 15:05:57,383 - WARNING: No details found for video 9f0W1YyZVA4
+2025-06-14 15:06:08,246 - WARNING: Failed to process 18 videos. Details saved to S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.json and S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.csv
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/JfQ2HoXs/2022_cutwaterspirits_lazy-ones.mp4, URL: https://www.superbowl-ads.com/2022-cutwater-spirits-heres-to-the-lazy-ones/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/UdzrHW0I/2022_t-mobile_zach-braff-and-donald-faison-sing-duet.mp4, URL: https://www.superbowl-ads.com/2022-t-mobile-zach-braff-and-donald-faison-duet-for-home-internet/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/9hghwhoN/2022_etoro-flying-your-way.mp4, URL: https://www.superbowl-ads.com/2022-etoro-flying-your-way/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/CRHrc3a0/2022_t-mobile_miley-cyrus-sings-for-5g-phones.mp4, URL: https://www.superbowl-ads.com/2022-t-mobile-miley-cyrus-sings-for-5g-phones/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/hDDudh1m/2022_youtubetv_strange-choices_tvai.mp4, URL: https://www.superbowl-ads.com/2022-youtube-tv-strange-choices/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/HxtyAVui/2022_t-mobile_dolly-parton-and-miley-cyrus-help-5g.mp4, URL: https://www.superbowl-ads.com/2022-t-mobile-do-it-for-the-phones/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/4R6XBAKl/2022_gmdrev-il.mp4, URL: https://www.superbowl-ads.com/2022-gm-dr-ev-il/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/djZYq0Au/amazons-big-game-commercial-mind-reader.mp4, URL: https://www.superbowl-ads.com/2022-amazon-mind-reader/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: XhUgcYw9cj4, URL: https://www.superbowl-ads.com/2022-google-lizzo-in-real-tone/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/YuXnxlBm/2022_meta_old-friends.mp4, URL: https://www.superbowl-ads.com/2022-meta-old-friends-new-fun/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: nolcJF_197c, URL: https://www.superbowl-ads.com/2022-peacock-bel-air-with-will-smith/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/tLy8b15N/2022_avocados-from-mexico_alwaysgood.mp4, URL: https://www.superbowl-ads.com/2022-avocados-from-mexico-always-good/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/HReeei2N/2022_irish-spring_welcome.mp4, URL: https://www.superbowl-ads.com/2022-irish-spring-welcome-to-irish-spring/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/VYI8wVOt/2022_plantersnuts_debate_tvai.mp4, URL: https://www.superbowl-ads.com/2022-planters-feed-the-debate/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/tb9Ygljq/2022_bud-light-next_zero.mp4, URL: https://www.superbowl-ads.com/2022-bud-light-next-zero-in-the-way-of-possibility/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/qYNhtUwB/2022_sams-club-vip-with-kevin-hart.mp4, URL: https://www.superbowl-ads.com/2022-sams-club-vip-with-kevin-hart/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: https://videos.files.wordpress.com/hvHUhgSU/2022-pepsi-the-call.mp4, URL: https://www.superbowl-ads.com/2022-pepsi-the-call/, Reason: No video details found
+2025-06-14 15:06:08,246 - WARNING: Failed Video - ID: 9f0W1YyZVA4, URL: https://www.superbowl-ads.com/2022-vroom-flake-the-musical/, Reason: No video details found
+2025-06-14 15:08:19,013 - INFO: Loaded 29 valid videos
+2025-06-14 15:08:19,014 - INFO: Processing batch 1: 5 videos
+2025-06-14 15:08:19,188 - WARNING: No details found for video 512077183
+2025-06-14 15:08:22,967 - WARNING: Transcript retrieval failed for wtR1kB9RXVo: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=wtR1kB9RXVo! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (wtR1kB9RXVo) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - es ("Spanish (auto-generated)")[TRANSLATABLE]
+
+(TRANSLATION LANGUAGES)
+ - en ("English")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:08:23,021 - INFO: Successfully saved details for video wtR1kB9RXVo
+2025-06-14 15:08:23,292 - INFO: Collected 95 comments for video wtR1kB9RXVo
+2025-06-14 15:08:26,377 - INFO: Successfully saved details for video XgiRUoIsr3E
+2025-06-14 15:08:26,584 - INFO: Collected 5 comments for video XgiRUoIsr3E
+2025-06-14 15:08:29,379 - WARNING: Transcript retrieval failed for r2-f-qBcQFs: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r2-f-qBcQFs! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (r2-f-qBcQFs) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - pt ("Portuguese (auto-generated)")[TRANSLATABLE]
+
+(TRANSLATION LANGUAGES)
+ - en ("English")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:08:29,384 - INFO: Successfully saved details for video r2-f-qBcQFs
+2025-06-14 15:08:30,836 - INFO: Collected 192 comments for video r2-f-qBcQFs
+2025-06-14 15:08:34,532 - INFO: Successfully saved details for video XelsNvpibpQ
+2025-06-14 15:08:37,351 - INFO: Collected 350 comments for video XelsNvpibpQ
+2025-06-14 15:08:49,028 - INFO: Processing batch 2: 5 videos
+2025-06-14 15:08:50,350 - INFO: Successfully saved details for video T0biHjojjnI
+2025-06-14 15:08:52,184 - INFO: Collected 159 comments for video T0biHjojjnI
+2025-06-14 15:08:55,462 - INFO: Successfully saved details for video GkDreLMZUns
+2025-06-14 15:08:55,657 - INFO: Collected 47 comments for video GkDreLMZUns
+2025-06-14 15:08:58,410 - WARNING: Transcript retrieval failed for cIP_Qw7UQyY: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=cIP_Qw7UQyY! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (cIP_Qw7UQyY) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - de ("German (auto-generated)")[TRANSLATABLE]
+
+(TRANSLATION LANGUAGES)
+ - en ("English")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:08:58,410 - INFO: Successfully saved details for video cIP_Qw7UQyY
+2025-06-14 15:08:58,586 - INFO: Collected 22 comments for video cIP_Qw7UQyY
+2025-06-14 15:09:00,594 - INFO: Successfully saved details for video eB1m-WogYeg
+2025-06-14 15:09:13,877 - INFO: Collected 1000 comments for video eB1m-WogYeg
+2025-06-14 15:09:16,899 - INFO: Successfully saved details for video 9cEiYQwYLPk
+2025-06-14 15:09:20,802 - INFO: Collected 357 comments for video 9cEiYQwYLPk
+2025-06-14 15:09:28,179 - INFO: Processing batch 3: 5 videos
+2025-06-14 15:09:29,402 - INFO: Successfully saved details for video yfLz54hzpPs
+2025-06-14 15:09:29,677 - INFO: Collected 61 comments for video yfLz54hzpPs
+2025-06-14 15:09:33,187 - INFO: Successfully saved details for video vDHNMqOLw_o
+2025-06-14 15:09:39,152 - INFO: Collected 421 comments for video vDHNMqOLw_o
+2025-06-14 15:09:42,190 - INFO: Successfully saved details for video iG0jvqAfiKA
+2025-06-14 15:09:56,927 - INFO: Collected 1000 comments for video iG0jvqAfiKA
+2025-06-14 15:10:00,375 - WARNING: Transcript retrieval failed for 5L6juLUkwuw: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5L6juLUkwuw! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (5L6juLUkwuw) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")[TRANSLATABLE]
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+ - ar ("Arabic")
+ - zh-Hant ("Chinese (Traditional)")
+ - nl ("Dutch")
+ - fr ("French")
+ - de ("German")
+ - hi ("Hindi")
+ - id ("Indonesian")
+ - it ("Italian")
+ - ja ("Japanese")
+ - ko ("Korean")
+ - pt ("Portuguese")
+ - ru ("Russian")
+ - es ("Spanish")
+ - th ("Thai")
+ - tr ("Turkish")
+ - uk ("Ukrainian")
+ - vi ("Vietnamese")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:10:00,384 - INFO: Successfully saved details for video 5L6juLUkwuw
+2025-06-14 15:10:11,472 - INFO: Collected 1000 comments for video 5L6juLUkwuw
+2025-06-14 15:10:14,192 - INFO: Successfully saved details for video 7ZUT9ftBWI8
+2025-06-14 15:10:14,384 - INFO: Collected 10 comments for video 7ZUT9ftBWI8
+2025-06-14 15:10:23,822 - INFO: Processing batch 4: 5 videos
+2025-06-14 15:10:24,735 - INFO: Successfully saved details for video 3F1KdZCJ6Vg
+2025-06-14 15:10:26,141 - INFO: Collected 118 comments for video 3F1KdZCJ6Vg
+2025-06-14 15:10:30,635 - INFO: Successfully saved details for video _nwSmOEiDls
+2025-06-14 15:10:30,943 - INFO: Collected 91 comments for video _nwSmOEiDls
+2025-06-14 15:10:33,485 - INFO: Successfully saved details for video dgu5ppBIr9A
+2025-06-14 15:10:33,780 - INFO: Collected 35 comments for video dgu5ppBIr9A
+2025-06-14 15:10:37,670 - WARNING: Transcript retrieval failed for zN8naTqX3TI: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=zN8naTqX3TI! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (zN8naTqX3TI) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - pt ("Portuguese (auto-generated)")[TRANSLATABLE]
+
+(TRANSLATION LANGUAGES)
+ - en ("English")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:10:37,670 - INFO: Successfully saved details for video zN8naTqX3TI
+2025-06-14 15:10:37,784 - INFO: Collected 0 comments for video zN8naTqX3TI
+2025-06-14 15:10:39,693 - WARNING: No details found for video aaC457-XO9M
+2025-06-14 15:10:49,136 - INFO: Processing batch 5: 5 videos
+2025-06-14 15:10:50,154 - WARNING: Transcript retrieval failed for 1B9LY9zoox0: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=1B9LY9zoox0! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:10:50,154 - INFO: Successfully saved details for video 1B9LY9zoox0
+2025-06-14 15:10:50,419 - INFO: Collected 1 comments for video 1B9LY9zoox0
+2025-06-14 15:10:54,246 - INFO: Successfully saved details for video xxNxqveseyI
+2025-06-14 15:11:07,243 - INFO: Collected 1000 comments for video xxNxqveseyI
+2025-06-14 15:11:09,485 - WARNING: Transcript retrieval failed for fIF3ijdpUwI: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=fIF3ijdpUwI! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:11:09,485 - INFO: Successfully saved details for video fIF3ijdpUwI
+2025-06-14 15:11:09,611 - INFO: Collected 0 comments for video fIF3ijdpUwI
+2025-06-14 15:11:11,699 - WARNING: No details found for video 505846138
+2025-06-14 15:11:13,146 - WARNING: No details found for video 505846094
+2025-06-14 15:11:22,353 - INFO: Processing batch 6: 4 videos
+2025-06-14 15:11:23,066 - WARNING: Transcript retrieval failed for APIMNM5X4jA: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=APIMNM5X4jA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:11:23,080 - INFO: Successfully saved details for video APIMNM5X4jA
+2025-06-14 15:11:23,446 - INFO: Collected 65 comments for video APIMNM5X4jA
+2025-06-14 15:11:26,678 - INFO: Successfully saved details for video eppEgrmFacQ
+2025-06-14 15:11:26,860 - INFO: Collected 2 comments for video eppEgrmFacQ
+2025-06-14 15:11:29,619 - INFO: Successfully saved details for video BkXHqihY4RE
+2025-06-14 15:11:29,695 - INFO: Collected 0 comments for video BkXHqihY4RE
+2025-06-14 15:11:30,902 - WARNING: No details found for video haXc74orwhg
+2025-06-14 15:11:40,652 - WARNING: Failed to process 5 videos. Details saved to S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.json and S:\Documents\2025 - Purdue\AAAAAPURDUE\5 Capstone\SuperBowlProject\data\raw\ad_features\failed_videos.csv
+2025-06-14 15:11:40,652 - WARNING: Failed Video - ID: 512077183, URL: https://www.superbowl-ads.com/superbowl-ads-com-top-5-ads-of-2021-super-bowl-lv/, Reason: No video details found
+2025-06-14 15:11:40,652 - WARNING: Failed Video - ID: aaC457-XO9M, URL: https://www.superbowl-ads.com/2021-huggies-welcome-to-the-world-baby/, Reason: No video details found
+2025-06-14 15:11:40,652 - WARNING: Failed Video - ID: 505846138, URL: https://www.superbowl-ads.com/2021-weathertech-we-never-left/, Reason: No video details found
+2025-06-14 15:11:40,652 - WARNING: Failed Video - ID: 505846094, URL: https://www.superbowl-ads.com/2021-weathertech-family/, Reason: No video details found
+2025-06-14 15:11:40,652 - WARNING: Failed Video - ID: haXc74orwhg, URL: https://www.superbowl-ads.com/2021-vroom-dealership-pain/, Reason: No video details found
+2025-06-14 15:16:09,213 - INFO: Loaded 24 valid videos
+2025-06-14 15:16:09,214 - INFO: Processing batch 1: 5 videos
+2025-06-14 15:16:09,356 - WARNING: No details found for video SAYJqf6Bjio
+2025-06-14 15:16:12,356 - WARNING: No details found for video 62EB4JniuTc
+2025-06-14 15:16:15,388 - WARNING: No details found for video 7BgcG_l9J0A
+2025-06-14 15:16:17,882 - WARNING: No details found for video jct5PVDDUtc
+2025-06-14 15:16:19,954 - WARNING: No details found for video MoVpgtAJHfU
+2025-06-14 15:16:30,770 - INFO: Loaded 24 valid videos
+2025-06-14 15:16:30,770 - INFO: Processing batch 1: 5 videos
+2025-06-14 15:16:31,742 - WARNING: Transcript retrieval failed for SAYJqf6Bjio: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=SAYJqf6Bjio! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:16:31,795 - INFO: Successfully saved details for video SAYJqf6Bjio
+2025-06-14 15:16:34,557 - INFO: Collected 268 comments for video SAYJqf6Bjio
+2025-06-14 15:16:36,960 - WARNING: Transcript retrieval failed for 62EB4JniuTc: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=62EB4JniuTc! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (62EB4JniuTc) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")[TRANSLATABLE]
+
+(GENERATED)
+ - nl ("Dutch (auto-generated)")[TRANSLATABLE]
+
+(TRANSLATION LANGUAGES)
+ - ar ("Arabic")
+ - zh-Hant ("Chinese (Traditional)")
+ - nl ("Dutch")
+ - en ("English")
+ - fr ("French")
+ - de ("German")
+ - hi ("Hindi")
+ - id ("Indonesian")
+ - it ("Italian")
+ - ja ("Japanese")
+ - ko ("Korean")
+ - pt ("Portuguese")
+ - ru ("Russian")
+ - es ("Spanish")
+ - th ("Thai")
+ - tr ("Turkish")
+ - uk ("Ukrainian")
+ - vi ("Vietnamese")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:16:36,960 - INFO: Successfully saved details for video 62EB4JniuTc
+2025-06-14 15:16:48,678 - INFO: Collected 1000 comments for video 62EB4JniuTc
+2025-06-14 15:16:52,236 - WARNING: Transcript retrieval failed for 7BgcG_l9J0A: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=7BgcG_l9J0A! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:16:52,236 - INFO: Successfully saved details for video 7BgcG_l9J0A
+2025-06-14 15:17:04,394 - INFO: Collected 1000 comments for video 7BgcG_l9J0A
+2025-06-14 15:17:06,428 - INFO: Successfully saved details for video jct5PVDDUtc
+2025-06-14 15:17:06,655 - INFO: Collected 43 comments for video jct5PVDDUtc
+2025-06-14 15:17:10,119 - INFO: Successfully saved details for video MoVpgtAJHfU
+2025-06-14 15:17:10,206 - INFO: Collected 0 comments for video MoVpgtAJHfU
+2025-06-14 15:17:22,106 - INFO: Processing batch 2: 5 videos
+2025-06-14 15:17:23,220 - WARNING: Transcript retrieval failed for pHYiE4W4EO8: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=pHYiE4W4EO8! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:17:23,237 - INFO: Successfully saved details for video pHYiE4W4EO8
+2025-06-14 15:17:24,333 - INFO: Collected 169 comments for video pHYiE4W4EO8
+2025-06-14 15:17:26,594 - WARNING: Transcript retrieval failed for lTL3OZkVMHQ: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=lTL3OZkVMHQ! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (lTL3OZkVMHQ) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")[TRANSLATABLE]
+
+(GENERATED)
+ - es ("Spanish (auto-generated)")[TRANSLATABLE]
+
+(TRANSLATION LANGUAGES)
+ - ar ("Arabic")
+ - zh-Hant ("Chinese (Traditional)")
+ - nl ("Dutch")
+ - en ("English")
+ - fr ("French")
+ - de ("German")
+ - hi ("Hindi")
+ - id ("Indonesian")
+ - it ("Italian")
+ - ja ("Japanese")
+ - ko ("Korean")
+ - pt ("Portuguese")
+ - ru ("Russian")
+ - es ("Spanish")
+ - th ("Thai")
+ - tr ("Turkish")
+ - uk ("Ukrainian")
+ - vi ("Vietnamese")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:17:26,596 - INFO: Successfully saved details for video lTL3OZkVMHQ
+2025-06-14 15:17:38,672 - INFO: Collected 1000 comments for video lTL3OZkVMHQ
+2025-06-14 15:17:40,842 - WARNING: Transcript retrieval failed for pPZDV1eCI0c: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=pPZDV1eCI0c! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:17:40,845 - INFO: Successfully saved details for video pPZDV1eCI0c
+2025-06-14 15:17:46,002 - INFO: Collected 423 comments for video pPZDV1eCI0c
+2025-06-14 15:17:49,250 - WARNING: Transcript retrieval failed for NSmkA7hcNjs: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=NSmkA7hcNjs! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (NSmkA7hcNjs) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:17:49,250 - INFO: Successfully saved details for video NSmkA7hcNjs
+2025-06-14 15:17:51,142 - INFO: Collected 167 comments for video NSmkA7hcNjs
+2025-06-14 15:17:53,796 - WARNING: Transcript retrieval failed for EjVUaAT1Ftc: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=EjVUaAT1Ftc! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:17:53,796 - INFO: Successfully saved details for video EjVUaAT1Ftc
+2025-06-14 15:17:53,942 - INFO: Collected 0 comments for video EjVUaAT1Ftc
+2025-06-14 15:18:04,162 - INFO: Processing batch 3: 5 videos
+2025-06-14 15:18:05,139 - INFO: Successfully saved details for video yHz3lJq1Vu0
+2025-06-14 15:18:06,754 - INFO: Collected 105 comments for video yHz3lJq1Vu0
+2025-06-14 15:18:10,329 - INFO: Successfully saved details for video -gAZRN3SCBw
+2025-06-14 15:18:12,299 - INFO: Collected 138 comments for video -gAZRN3SCBw
+2025-06-14 15:18:15,269 - WARNING: Transcript retrieval failed for mi5RoP1-8-I: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=mi5RoP1-8-I! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:18:15,273 - INFO: Successfully saved details for video mi5RoP1-8-I
+2025-06-14 15:18:15,511 - INFO: Collected 97 comments for video mi5RoP1-8-I
+2025-06-14 15:18:17,945 - INFO: Successfully saved details for video 8btMI_N8v8U
+2025-06-14 15:18:23,683 - INFO: Collected 518 comments for video 8btMI_N8v8U
+2025-06-14 15:18:27,430 - WARNING: Transcript retrieval failed for D1dnw4t23P8: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=D1dnw4t23P8! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ('en',)
+
+For this video (D1dnw4t23P8) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - nl ("Dutch (auto-generated)")[TRANSLATABLE]
+
+(TRANSLATION LANGUAGES)
+ - en ("English")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:18:27,432 - INFO: Successfully saved details for video D1dnw4t23P8
+2025-06-14 15:18:29,322 - INFO: Collected 124 comments for video D1dnw4t23P8
+2025-06-14 15:18:39,864 - INFO: Processing batch 4: 5 videos
+2025-06-14 15:18:40,974 - INFO: Successfully saved details for video m4sVnOsXlAA
+2025-06-14 15:18:41,154 - INFO: Collected 22 comments for video m4sVnOsXlAA
+2025-06-14 15:18:44,561 - INFO: Successfully saved details for video 9Yp0yN8UxVg
+2025-06-14 15:18:44,638 - INFO: Collected 0 comments for video 9Yp0yN8UxVg
+2025-06-14 15:18:47,505 - INFO: Successfully saved details for video B5lslSPfhkg
+2025-06-14 15:18:47,765 - INFO: Collected 42 comments for video B5lslSPfhkg
+2025-06-14 15:18:50,747 - WARNING: Transcript retrieval failed for cXw4sQJINgo: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=cXw4sQJINgo! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-06-14 15:18:50,752 - INFO: Successfully saved details for video cXw4sQJINgo
+2025-06-14 15:18:50,935 - INFO: Collected 41 comments for video cXw4sQJINgo
+2025-06-14 15:18:54,771 - INFO: Successfully saved details for video Cdpf1Dl5b_4
+2025-06-14 15:18:54,929 - INFO: Collected 0 comments for video Cdpf1Dl5b_4
+2025-06-14 15:19:02,442 - INFO: Processing batch 5: 4 videos
+2025-06-14 15:19:03,412 - INFO: Successfully saved details for video tHoYKy1GMgM
+2025-06-14 15:19:08,414 - INFO: Collected 478 comments for video tHoYKy1GMgM
+2025-06-14 15:19:12,312 - INFO: Successfully saved details for video U7h6Vls-uO8
+2025-06-14 15:19:13,968 - INFO: Collected 167 comments for video U7h6Vls-uO8
+2025-06-14 15:19:16,278 - INFO: Successfully saved details for video ANarZ_113Xc
+2025-06-14 15:19:16,350 - INFO: Collected 0 comments for video ANarZ_113Xc
+2025-06-14 15:19:19,818 - INFO: Successfully saved details for video gckObDeYpAA
+2025-06-14 15:19:19,968 - INFO: Collected 0 comments for video gckObDeYpAA
+2025-06-14 15:19:26,335 - INFO: All videos processed successfully!

@@ -1,0 +1,912 @@
+"E:\Doc US\SSJ\superbowlcomment\venv\Scripts\python.exe" "E:/Doc US/SSJ/superbowlcomment/reddit updata.py"
+当前工作目录: E:\Doc US\SSJ\superbowlcomment
+开始在Reddit上搜索并爬取帖子和评论，并保存为JSON文件...
+
+--- 正在处理广告 35/751: 'close-up video ofMuhammad Alishadowboxing is shown. On-screen text makes obscure references to circumventing the healthcare system.' (2000) ---
+
+正在搜索 Reddit 上关于广告 'A - close-up video ofMuhammad Alishadowboxing is shown. On-screen text makes obscure references to circumventing the healthcare system.' (2000) 的帖子和评论...
+  [1/4] 尝试搜索查询: "closeup video ofMuhammad Alishadowboxing is shown Onscreen text makes obscure references to circumventing the healthcare system" "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' (ID: 1aoh70f)
+    帖子链接: https://www.cnn.com/2023/02/11/us/he-gets-us-super-bowl-commercials-cec/index.html
+    帖子 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' 抓取到 1267 条评论。
+    找到相关 Reddit 帖子: 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' (ID: ey9jiy)
+    帖子链接: https://admeter.usatoday.com/results/2020
+    帖子 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' 抓取到 3862 条评论。
+    找到相关 Reddit 帖子: 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' (ID: eyclt3)
+    帖子链接: https://youtu.be/ANarZ_113Xc?t=53
+    帖子 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' 抓取到 1848 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads In Order (Constantly Updated)' (ID: exwejs)
+    帖子链接: https://www.reddit.com/r/television/comments/exwejs/super_bowl_liv_ads_in_order_constantly_updated/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Super Bowl LIV Ads In Order (Constantly Updated)' 抓取到 1643 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LV Ads In Order (Constantly Updated)' (ID: lexol9)
+    帖子链接: https://www.reddit.com/r/television/comments/lexol9/super_bowl_lv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LV Ads In Order (Constantly Updated)' 抓取到 2061 条评论。
+    找到相关 Reddit 帖子: 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' (ID: l03fsu)
+    帖子链接: https://hypebeast.com/2021/1/coca-cola-pepsi-super-bowl-lv-2021-benching-ads-announcement
+    帖子 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' 抓取到 982 条评论。
+    找到相关 Reddit 帖子: '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' (ID: lgjrh7)
+    帖子链接: https://deadline.com/2021/02/the-falcon-and-the-winter-soldier-marvel-super-bowl-ad-record-views-1234690914/
+    帖子 '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' 抓取到 740 条评论。
+    找到相关 Reddit 帖子: 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' (ID: 10v8ryj)
+    帖子链接: https://deadline.com/2023/02/fox-sells-out-super-bowl-ad-inventory-30-second-spots-7-million-1235250591/
+    帖子 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' 抓取到 455 条评论。
+    找到相关 Reddit 帖子: 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' (ID: akee47)
+    帖子链接: https://awfulannouncing.com/nfl/despite-rebounding-nfl-ratings-super-bowl-ad-prices-look-flat.html
+    帖子 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' 抓取到 720 条评论。
+    找到相关 Reddit 帖子: '2+ years between 7 episode seasons is pathetic and unacceptable' (ID: 1kwlymk)
+    帖子链接: https://www.reddit.com/r/television/comments/1kwlymk/2_years_between_7_episode_seasons_is_pathetic_and/
+    帖子 '2+ years between 7 episode seasons is pathetic and unacceptable' 抓取到 3030 条评论。
+    找到相关 Reddit 帖子: 'Westworld Season 2 | Official Super Bowl Ad' (ID: 7vbfwj)
+    帖子链接: https://youtu.be/qUmfriZoMw0
+    帖子 'Westworld Season 2 | Official Super Bowl Ad' 抓取到 316 条评论。
+    找到相关 Reddit 帖子: 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' (ID: 1aghwkp)
+    帖子链接: https://finance.yahoo.com/news/nickelodeon-cbs-sports-reveal-details-172300000.html
+    帖子 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' 抓取到 107 条评论。
+    找到相关 Reddit 帖子: 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' (ID: 1al5c2d)
+    帖子链接: https://www.reddit.com/r/television/comments/1al5c2d/this_sub_should_ban_articles_about_super_bowl_ads/
+    帖子 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' 抓取到 145 条评论。
+    找到相关 Reddit 帖子: 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' (ID: 1kkwzes)
+    帖子链接: https://variety.com/2025/tv/news/the-rehearsal-nathan-fielder-fake-singing-show-contestant-1236393533/
+    帖子 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' 抓取到 1367 条评论。
+    找到相关 Reddit 帖子: 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' (ID: 1l86hd8)
+    帖子链接: https://www.comicbasics.com/eric-kripke-is-absolutely-terrified-about-delivering-a-great-series-finale-for-the-boys-you-could-have-the-greatest-show-for-years-but-if-you-stiff-that-ending/
+    帖子 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' 抓取到 1203 条评论。
+  查询 '"closeup video ofMuhammad Alishadowboxing is shown Onscreen text makes obscure references to circumventing the healthcare system" "A" Super Bowl 2000 ad' 实际处理了 15 个帖子。
+  [2/4] 尝试搜索查询: "A" "closeup video ofMuhammad Alishadowboxing is shown Onscreen text makes obscure references to circumventing the healthcare system" Super Bowl ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' (ID: 1l90hx8)
+    帖子链接: https://www.adweek.com/media/amazon-doubles-prime-video-ad-load/
+    帖子 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' 抓取到 1427 条评论。
+  查询 '"A" "closeup video ofMuhammad Alishadowboxing is shown Onscreen text makes obscure references to circumventing the healthcare system" Super Bowl ad' 实际处理了 1 个帖子。
+  [3/4] 尝试搜索查询: "closeup video ofMuhammad Alishadowboxing is shown Onscreen text makes obscure references to circumventing the healthcare system" Super Bowl 2000 (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' (ID: scatm8)
+    帖子链接: https://pagesix.com/2022/01/23/super-bowl-lvi-asks-dancers-to-perform-halftime-show-for-free/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' 抓取到 1506 条评论。
+    找到相关 Reddit 帖子: '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' (ID: 10uvwio)
+    帖子链接: https://www.hollywoodreporter.com/tv/tv-news/the-last-of-us-episode-5-premiere-date-time-1235317263/
+    帖子 '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' 抓取到 440 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ratings Hit 10-Year Low' (ID: an2gbi)
+    帖子链接: https://deadline.com/2019/02/super-bowl-ratings-patriots-rams-marron-5-worlds-best-cbs-1202548893/
+    帖子 'Super Bowl Ratings Hit 10-Year Low' 抓取到 5688 条评论。
+    找到相关 Reddit 帖子: 'Usher Confirmed as Super Bowl 2024 Halftime Performer' (ID: 16qxxcj)
+    帖子链接: https://variety.com/2023/music/news/usher-super-bowl-2023-halftime-performer-1235733632/
+    帖子 'Usher Confirmed as Super Bowl 2024 Halftime Performer' 抓取到 1002 条评论。
+    找到相关 Reddit 帖子: 'Stranger Things Season 2 Super Bowl Teaser' (ID: 5sbey0)
+    帖子链接: https://youtu.be/9Egf5U8xLo8
+    帖子 'Stranger Things Season 2 Super Bowl Teaser' 抓取到 2122 条评论。
+    找到相关 Reddit 帖子: 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' (ID: al63ar)
+    帖子链接: https://www.thescore.com/news/1707004
+    帖子 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' 抓取到 1029 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVIII Commercial Megathread' (ID: 1aol7jw)
+    帖子链接: https://www.reddit.com/r/television/comments/1aol7jw/super_bowl_lviii_commercial_megathread/
+    帖子 'Super Bowl LVIII Commercial Megathread' 抓取到 1275 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl overtime earned CBS an estimated $60 million from more commercials' (ID: 1as95am)
+    帖子链接: https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/super-bowl-overtime-earned-cbs-an-estimated-60-million-from-more-commercials
+    帖子 'Super Bowl overtime earned CBS an estimated $60 million from more commercials' 抓取到 210 条评论。
+  查询 '"closeup video ofMuhammad Alishadowboxing is shown Onscreen text makes obscure references to circumventing the healthcare system" Super Bowl 2000' 实际处理了 8 个帖子。
+  [4/4] 尝试搜索查询: "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Why'd it take so long for Super Bowl ads to become a really big deal?' (ID: 1inxpid)
+    帖子链接: https://www.reddit.com/r/television/comments/1inxpid/whyd_it_take_so_long_for_super_bowl_ads_to_become/
+    帖子 'Why'd it take so long for Super Bowl ads to become a really big deal?' 抓取到 12 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LII Ads In Order (Constantly Updated)' (ID: amvg7f)
+    帖子链接: https://www.reddit.com/r/television/comments/amvg7f/super_bowl_lii_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LII Ads In Order (Constantly Updated)' 抓取到 533 条评论。
+    找到相关 Reddit 帖子: 'The 5 Marketing Mistakes Great Businesses Avoid' (ID: xmfu0)
+    帖子链接: https://www.reddit.com/r/marketing/comments/xmfu0/the_5_marketing_mistakes_great_businesses_avoid/
+    帖子 'The 5 Marketing Mistakes Great Businesses Avoid' 抓取到 8 条评论。
+    找到相关 Reddit 帖子: 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' (ID: dmxjlz)
+    帖子链接: https://www.reddit.com/r/television/comments/dmxjlz/just_finished_rewatching_13_seasons_of_its_always/
+    帖子 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' 抓取到 1000 条评论。
+    找到相关 Reddit 帖子: 'Hulu: I don’t see the actual Super Bowl ads.' (ID: 1imn7bi)
+    帖子链接: https://www.reddit.com/r/advertising/comments/1imn7bi/hulu_i_dont_see_the_actual_super_bowl_ads/
+    帖子 'Hulu: I don’t see the actual Super Bowl ads.' 抓取到 6 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ads' (ID: 1io0pqg)
+    帖子链接: https://www.reddit.com/r/marketing/comments/1io0pqg/super_bowl_ads/
+    帖子 'Super Bowl Ads' 抓取到 2 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads Megathread' (ID: exxhdc)
+    帖子链接: https://www.reddit.com/r/advertising/comments/exxhdc/super_bowl_liv_ads_megathread/
+    帖子 'Super Bowl LIV Ads Megathread' 抓取到 105 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' (ID: 17m3cun)
+    帖子链接: https://variety.com/2023/tv/news/super-bowl-commercials-sold-out-cbs-tv-advertising-1235777413/
+    帖子 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' 抓取到 14 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVII Commercial Megathread' (ID: 110tlsg)
+    帖子链接: https://www.reddit.com/r/television/comments/110tlsg/super_bowl_lvii_commercial_megathread/
+    帖子 'Super Bowl LVII Commercial Megathread' 抓取到 773 条评论。
+    找到相关 Reddit 帖子: 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' (ID: lf2rqd)
+    帖子链接: https://www.reddit.com/r/marketing/comments/lf2rqd/hey_did_you_guys_see_it_reddit_bought_a_5_second/
+    帖子 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' 抓取到 19 条评论。
+  查询 '"A" Super Bowl 2000 ad' 实际处理了 10 个帖子。
+成功将广告 'close-up video ofMuhammad Alishadowboxing is shown. On-screen text makes obscure references to circumventing the healthcare system.' (2000) 的数据保存到 'reddit_ad_data_json\2000_close-up_video_ofMuhammad_Alishadowboxing_is_shown_On-screen_text_makes_obscure_references_to_circum.json'
+进度已保存：广告索引 34 已处理。
+
+--- 正在处理广告 5/751: 'dog s not crying in a movie scene, so the director tells the dog to think back to his worst day. The dog's worst day was jumping over a hedge to chase a Budweiser truck, only to ram head first into the side of a lawn care truck. The dog then gives the howl of his life.' (2000) ---
+
+正在搜索 Reddit 上关于广告 'A - dog s not crying in a movie scene, so the director tells the dog to think back to his worst day. The dog's worst day was jumping over a hedge to chase a Budweiser truck, only to ram head first into the side of a lawn care truck. The dog then gives the howl of his life.' (2000) 的帖子和评论...
+  [1/4] 尝试搜索查询: "dog s not crying in a movie scene so the director tells the dog to think back to his worst day The dogs worst day was jumping over a hedge to chase a Budweiser truck only to ram head first into the side of a lawn care truck The dog then gives the howl of his life" "A" Super Bowl 2000 ad (广告重试 1/3)
+  查询 '"dog s not crying in a movie scene so the director tells the dog to think back to his worst day The dogs worst day was jumping over a hedge to chase a Budweiser truck only to ram head first into the side of a lawn care truck The dog then gives the howl of his life" "A" Super Bowl 2000 ad' 实际处理了 0 个帖子。
+  [2/4] 尝试搜索查询: "A" "dog s not crying in a movie scene so the director tells the dog to think back to his worst day The dogs worst day was jumping over a hedge to chase a Budweiser truck only to ram head first into the side of a lawn care truck The dog then gives the howl of his life" Super Bowl ad (广告重试 1/3)
+  查询 '"A" "dog s not crying in a movie scene so the director tells the dog to think back to his worst day The dogs worst day was jumping over a hedge to chase a Budweiser truck only to ram head first into the side of a lawn care truck The dog then gives the howl of his life" Super Bowl ad' 实际处理了 0 个帖子。
+  [3/4] 尝试搜索查询: "dog s not crying in a movie scene so the director tells the dog to think back to his worst day The dogs worst day was jumping over a hedge to chase a Budweiser truck only to ram head first into the side of a lawn care truck The dog then gives the howl of his life" Super Bowl 2000 (广告重试 1/3)
+  查询 '"dog s not crying in a movie scene so the director tells the dog to think back to his worst day The dogs worst day was jumping over a hedge to chase a Budweiser truck only to ram head first into the side of a lawn care truck The dog then gives the howl of his life" Super Bowl 2000' 实际处理了 0 个帖子。
+  [4/4] 尝试搜索查询: "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Why'd it take so long for Super Bowl ads to become a really big deal?' (ID: 1inxpid)
+    帖子链接: https://www.reddit.com/r/television/comments/1inxpid/whyd_it_take_so_long_for_super_bowl_ads_to_become/
+    帖子 'Why'd it take so long for Super Bowl ads to become a really big deal?' 抓取到 12 条评论。
+    找到相关 Reddit 帖子: 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' (ID: eyclt3)
+    帖子链接: https://youtu.be/ANarZ_113Xc?t=53
+    帖子 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' 抓取到 1848 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads In Order (Constantly Updated)' (ID: exwejs)
+    帖子链接: https://www.reddit.com/r/television/comments/exwejs/super_bowl_liv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LIV Ads In Order (Constantly Updated)' 抓取到 1643 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LV Ads In Order (Constantly Updated)' (ID: lexol9)
+    帖子链接: https://www.reddit.com/r/television/comments/lexol9/super_bowl_lv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LV Ads In Order (Constantly Updated)' 抓取到 2061 条评论。
+    找到相关 Reddit 帖子: 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' (ID: 1al5c2d)
+    帖子链接: https://www.reddit.com/r/television/comments/1al5c2d/this_sub_should_ban_articles_about_super_bowl_ads/
+    帖子 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' 抓取到 145 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LII Ads In Order (Constantly Updated)' (ID: amvg7f)
+    帖子链接: https://www.reddit.com/r/television/comments/amvg7f/super_bowl_lii_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LII Ads In Order (Constantly Updated)' 抓取到 533 条评论。
+    找到相关 Reddit 帖子: 'The 5 Marketing Mistakes Great Businesses Avoid' (ID: xmfu0)
+    帖子链接: https://www.reddit.com/r/marketing/comments/xmfu0/the_5_marketing_mistakes_great_businesses_avoid/
+    帖子 'The 5 Marketing Mistakes Great Businesses Avoid' 抓取到 8 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVIII Commercial Megathread' (ID: 1aol7jw)
+    帖子链接: https://www.reddit.com/r/television/comments/1aol7jw/super_bowl_lviii_commercial_megathread/
+    帖子 'Super Bowl LVIII Commercial Megathread' 抓取到 1275 条评论。
+    找到相关 Reddit 帖子: 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' (ID: dmxjlz)
+    帖子链接: https://www.reddit.com/r/television/comments/dmxjlz/just_finished_rewatching_13_seasons_of_its_always/
+    帖子 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' 抓取到 1000 条评论。
+    找到相关 Reddit 帖子: 'Hulu: I don’t see the actual Super Bowl ads.' (ID: 1imn7bi)
+    帖子链接: https://www.reddit.com/r/advertising/comments/1imn7bi/hulu_i_dont_see_the_actual_super_bowl_ads/
+    帖子 'Hulu: I don’t see the actual Super Bowl ads.' 抓取到 6 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ads' (ID: 1io0pqg)
+    帖子链接: https://www.reddit.com/r/marketing/comments/1io0pqg/super_bowl_ads/
+    帖子 'Super Bowl Ads' 抓取到 2 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads Megathread' (ID: exxhdc)
+    帖子链接: https://www.reddit.com/r/advertising/comments/exxhdc/super_bowl_liv_ads_megathread/
+    帖子 'Super Bowl LIV Ads Megathread' 抓取到 105 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' (ID: 17m3cun)
+    帖子链接: https://variety.com/2023/tv/news/super-bowl-commercials-sold-out-cbs-tv-advertising-1235777413/
+    帖子 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' 抓取到 14 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVII Commercial Megathread' (ID: 110tlsg)
+    帖子链接: https://www.reddit.com/r/television/comments/110tlsg/super_bowl_lvii_commercial_megathread/
+    帖子 'Super Bowl LVII Commercial Megathread' 抓取到 773 条评论。
+    找到相关 Reddit 帖子: 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' (ID: lf2rqd)
+    帖子链接: https://www.reddit.com/r/marketing/comments/lf2rqd/hey_did_you_guys_see_it_reddit_bought_a_5_second/
+    帖子 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' 抓取到 19 条评论。
+  查询 '"A" Super Bowl 2000 ad' 实际处理了 15 个帖子。
+成功将广告 'dog s not crying in a movie scene, so the director tells the dog to think back to his worst day. The dog's worst day was jumping over a hedge to chase a Budweiser truck, only to ram head first into the side of a lawn care truck. The dog then gives the howl of his life.' (2000) 的数据保存到 'reddit_ad_data_json\2000_dog_s_not_crying_in_a_movie_scene_so_the_director_tells_the_dog_to_think_back_to_his_worst_day_The_d.json'
+进度已保存：广告索引 4 已处理。
+
+--- 正在处理广告 21/751: 'man is rushed to the ER. Doctors discover that he has money "coming out the wazoo".' (2000) ---
+
+正在搜索 Reddit 上关于广告 'A - man is rushed to the ER. Doctors discover that he has money "coming out the wazoo".' (2000) 的帖子和评论...
+  [1/4] 尝试搜索查询: "man is rushed to the ER Doctors discover that he has money coming out the wazoo" "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' (ID: 1aoh70f)
+    帖子链接: https://www.cnn.com/2023/02/11/us/he-gets-us-super-bowl-commercials-cec/index.html
+    帖子 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' 抓取到 1267 条评论。
+    找到相关 Reddit 帖子: 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' (ID: ey9jiy)
+    帖子链接: https://admeter.usatoday.com/results/2020
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' 抓取到 3862 条评论。
+    找到相关 Reddit 帖子: 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' (ID: eyclt3)
+    帖子链接: https://youtu.be/ANarZ_113Xc?t=53
+    帖子 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' 抓取到 1848 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads In Order (Constantly Updated)' (ID: exwejs)
+    帖子链接: https://www.reddit.com/r/television/comments/exwejs/super_bowl_liv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LIV Ads In Order (Constantly Updated)' 抓取到 1643 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LV Ads In Order (Constantly Updated)' (ID: lexol9)
+    帖子链接: https://www.reddit.com/r/television/comments/lexol9/super_bowl_lv_ads_in_order_constantly_updated/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Super Bowl LV Ads In Order (Constantly Updated)' 抓取到 2061 条评论。
+    找到相关 Reddit 帖子: 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' (ID: l03fsu)
+    帖子链接: https://hypebeast.com/2021/1/coca-cola-pepsi-super-bowl-lv-2021-benching-ads-announcement
+    帖子 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' 抓取到 982 条评论。
+    找到相关 Reddit 帖子: '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' (ID: lgjrh7)
+    帖子链接: https://deadline.com/2021/02/the-falcon-and-the-winter-soldier-marvel-super-bowl-ad-record-views-1234690914/
+    帖子 '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' 抓取到 740 条评论。
+    找到相关 Reddit 帖子: 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' (ID: 10v8ryj)
+    帖子链接: https://deadline.com/2023/02/fox-sells-out-super-bowl-ad-inventory-30-second-spots-7-million-1235250591/
+    帖子 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' 抓取到 455 条评论。
+    找到相关 Reddit 帖子: 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' (ID: akee47)
+    帖子链接: https://awfulannouncing.com/nfl/despite-rebounding-nfl-ratings-super-bowl-ad-prices-look-flat.html
+    帖子 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' 抓取到 720 条评论。
+    找到相关 Reddit 帖子: '2+ years between 7 episode seasons is pathetic and unacceptable' (ID: 1kwlymk)
+    帖子链接: https://www.reddit.com/r/television/comments/1kwlymk/2_years_between_7_episode_seasons_is_pathetic_and/
+    帖子 '2+ years between 7 episode seasons is pathetic and unacceptable' 抓取到 3030 条评论。
+    找到相关 Reddit 帖子: 'Westworld Season 2 | Official Super Bowl Ad' (ID: 7vbfwj)
+    帖子链接: https://youtu.be/qUmfriZoMw0
+    帖子 'Westworld Season 2 | Official Super Bowl Ad' 抓取到 316 条评论。
+    找到相关 Reddit 帖子: 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' (ID: 1aghwkp)
+    帖子链接: https://finance.yahoo.com/news/nickelodeon-cbs-sports-reveal-details-172300000.html
+    帖子 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' 抓取到 107 条评论。
+    找到相关 Reddit 帖子: 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' (ID: 1al5c2d)
+    帖子链接: https://www.reddit.com/r/television/comments/1al5c2d/this_sub_should_ban_articles_about_super_bowl_ads/
+    帖子 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' 抓取到 145 条评论。
+    找到相关 Reddit 帖子: 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' (ID: 1kkwzes)
+    帖子链接: https://variety.com/2025/tv/news/the-rehearsal-nathan-fielder-fake-singing-show-contestant-1236393533/
+    帖子 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' 抓取到 1367 条评论。
+    找到相关 Reddit 帖子: 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' (ID: 1l86hd8)
+    帖子链接: https://www.comicbasics.com/eric-kripke-is-absolutely-terrified-about-delivering-a-great-series-finale-for-the-boys-you-could-have-the-greatest-show-for-years-but-if-you-stiff-that-ending/
+    帖子 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' 抓取到 1203 条评论。
+  查询 '"man is rushed to the ER Doctors discover that he has money coming out the wazoo" "A" Super Bowl 2000 ad' 实际处理了 15 个帖子。
+  [2/4] 尝试搜索查询: "A" "man is rushed to the ER Doctors discover that he has money coming out the wazoo" Super Bowl ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' (ID: 1l90hx8)
+    帖子链接: https://www.adweek.com/media/amazon-doubles-prime-video-ad-load/
+    帖子 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' 抓取到 1427 条评论。
+  查询 '"A" "man is rushed to the ER Doctors discover that he has money coming out the wazoo" Super Bowl ad' 实际处理了 1 个帖子。
+  [3/4] 尝试搜索查询: "man is rushed to the ER Doctors discover that he has money coming out the wazoo" Super Bowl 2000 (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' (ID: scatm8)
+    帖子链接: https://pagesix.com/2022/01/23/super-bowl-lvi-asks-dancers-to-perform-halftime-show-for-free/
+    帖子 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' 抓取到 1506 条评论。
+    找到相关 Reddit 帖子: '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' (ID: 10uvwio)
+    帖子链接: https://www.hollywoodreporter.com/tv/tv-news/the-last-of-us-episode-5-premiere-date-time-1235317263/
+    帖子 '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' 抓取到 440 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ratings Hit 10-Year Low' (ID: an2gbi)
+    帖子链接: https://deadline.com/2019/02/super-bowl-ratings-patriots-rams-marron-5-worlds-best-cbs-1202548893/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Super Bowl Ratings Hit 10-Year Low' 抓取到 5688 条评论。
+    找到相关 Reddit 帖子: 'Usher Confirmed as Super Bowl 2024 Halftime Performer' (ID: 16qxxcj)
+    帖子链接: https://variety.com/2023/music/news/usher-super-bowl-2023-halftime-performer-1235733632/
+    帖子 'Usher Confirmed as Super Bowl 2024 Halftime Performer' 抓取到 1002 条评论。
+    找到相关 Reddit 帖子: 'Stranger Things Season 2 Super Bowl Teaser' (ID: 5sbey0)
+    帖子链接: https://youtu.be/9Egf5U8xLo8
+    帖子 'Stranger Things Season 2 Super Bowl Teaser' 抓取到 2122 条评论。
+    找到相关 Reddit 帖子: 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' (ID: al63ar)
+    帖子链接: https://www.thescore.com/news/1707004
+    帖子 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' 抓取到 1029 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVIII Commercial Megathread' (ID: 1aol7jw)
+    帖子链接: https://www.reddit.com/r/television/comments/1aol7jw/super_bowl_lviii_commercial_megathread/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Super Bowl LVIII Commercial Megathread' 抓取到 1275 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl overtime earned CBS an estimated $60 million from more commercials' (ID: 1as95am)
+    帖子链接: https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/super-bowl-overtime-earned-cbs-an-estimated-60-million-from-more-commercials
+    帖子 'Super Bowl overtime earned CBS an estimated $60 million from more commercials' 抓取到 210 条评论。
+  查询 '"man is rushed to the ER Doctors discover that he has money coming out the wazoo" Super Bowl 2000' 实际处理了 8 个帖子。
+  [4/4] 尝试搜索查询: "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Why'd it take so long for Super Bowl ads to become a really big deal?' (ID: 1inxpid)
+    帖子链接: https://www.reddit.com/r/television/comments/1inxpid/whyd_it_take_so_long_for_super_bowl_ads_to_become/
+    帖子 'Why'd it take so long for Super Bowl ads to become a really big deal?' 抓取到 12 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LII Ads In Order (Constantly Updated)' (ID: amvg7f)
+    帖子链接: https://www.reddit.com/r/television/comments/amvg7f/super_bowl_lii_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LII Ads In Order (Constantly Updated)' 抓取到 533 条评论。
+    找到相关 Reddit 帖子: 'The 5 Marketing Mistakes Great Businesses Avoid' (ID: xmfu0)
+    帖子链接: https://www.reddit.com/r/marketing/comments/xmfu0/the_5_marketing_mistakes_great_businesses_avoid/
+    帖子 'The 5 Marketing Mistakes Great Businesses Avoid' 抓取到 8 条评论。
+    找到相关 Reddit 帖子: 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' (ID: dmxjlz)
+    帖子链接: https://www.reddit.com/r/television/comments/dmxjlz/just_finished_rewatching_13_seasons_of_its_always/
+    帖子 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' 抓取到 1000 条评论。
+    找到相关 Reddit 帖子: 'Hulu: I don’t see the actual Super Bowl ads.' (ID: 1imn7bi)
+    帖子链接: https://www.reddit.com/r/advertising/comments/1imn7bi/hulu_i_dont_see_the_actual_super_bowl_ads/
+    帖子 'Hulu: I don’t see the actual Super Bowl ads.' 抓取到 6 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ads' (ID: 1io0pqg)
+    帖子链接: https://www.reddit.com/r/marketing/comments/1io0pqg/super_bowl_ads/
+    帖子 'Super Bowl Ads' 抓取到 2 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads Megathread' (ID: exxhdc)
+    帖子链接: https://www.reddit.com/r/advertising/comments/exxhdc/super_bowl_liv_ads_megathread/
+    帖子 'Super Bowl LIV Ads Megathread' 抓取到 105 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' (ID: 17m3cun)
+    帖子链接: https://variety.com/2023/tv/news/super-bowl-commercials-sold-out-cbs-tv-advertising-1235777413/
+    帖子 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' 抓取到 14 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVII Commercial Megathread' (ID: 110tlsg)
+    帖子链接: https://www.reddit.com/r/television/comments/110tlsg/super_bowl_lvii_commercial_megathread/
+    帖子 'Super Bowl LVII Commercial Megathread' 抓取到 773 条评论。
+    找到相关 Reddit 帖子: 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' (ID: lf2rqd)
+    帖子链接: https://www.reddit.com/r/marketing/comments/lf2rqd/hey_did_you_guys_see_it_reddit_bought_a_5_second/
+    帖子 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' 抓取到 19 条评论。
+  查询 '"A" Super Bowl 2000 ad' 实际处理了 10 个帖子。
+成功将广告 'man is rushed to the ER. Doctors discover that he has money "coming out the wazoo".' (2000) 的数据保存到 'reddit_ad_data_json\2000_man_is_rushed_to_the_ER_Doctors_discover_that_he_has_money_coming_out_the_wazoo.json'
+进度已保存：广告索引 20 已处理。
+
+--- 正在处理广告 25/751: 'man leads someone through the red-light district of a city. After walking through a door marked "JOBS", he falls down a chute into a desert. Images of Kforce.com at work are then shown.' (2000) ---
+
+正在搜索 Reddit 上关于广告 'A - man leads someone through the red-light district of a city. After walking through a door marked "JOBS", he falls down a chute into a desert. Images of Kforce.com at work are then shown.' (2000) 的帖子和评论...
+  [1/4] 尝试搜索查询: "man leads someone through the redlight district of a city After walking through a door marked JOBS he falls down a chute into a desert Images of Kforcecom at work are then shown" "A" Super Bowl 2000 ad (广告重试 1/3)
+  查询 '"man leads someone through the redlight district of a city After walking through a door marked JOBS he falls down a chute into a desert Images of Kforcecom at work are then shown" "A" Super Bowl 2000 ad' 实际处理了 0 个帖子。
+  [2/4] 尝试搜索查询: "A" "man leads someone through the redlight district of a city After walking through a door marked JOBS he falls down a chute into a desert Images of Kforcecom at work are then shown" Super Bowl ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' (ID: 1aoh70f)
+    帖子链接: https://www.cnn.com/2023/02/11/us/he-gets-us-super-bowl-commercials-cec/index.html
+    帖子 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' 抓取到 1267 条评论。
+    找到相关 Reddit 帖子: 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' (ID: ey9jiy)
+    帖子链接: https://admeter.usatoday.com/results/2020
+    帖子 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' 抓取到 3862 条评论。
+    找到相关 Reddit 帖子: 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' (ID: eyclt3)
+    帖子链接: https://youtu.be/ANarZ_113Xc?t=53
+    帖子 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' 抓取到 1848 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads In Order (Constantly Updated)' (ID: exwejs)
+    帖子链接: https://www.reddit.com/r/television/comments/exwejs/super_bowl_liv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LIV Ads In Order (Constantly Updated)' 抓取到 1643 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LV Ads In Order (Constantly Updated)' (ID: lexol9)
+    帖子链接: https://www.reddit.com/r/television/comments/lexol9/super_bowl_lv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LV Ads In Order (Constantly Updated)' 抓取到 2061 条评论。
+    找到相关 Reddit 帖子: 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' (ID: l03fsu)
+    帖子链接: https://hypebeast.com/2021/1/coca-cola-pepsi-super-bowl-lv-2021-benching-ads-announcement
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' 抓取到 982 条评论。
+    找到相关 Reddit 帖子: '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' (ID: lgjrh7)
+    帖子链接: https://deadline.com/2021/02/the-falcon-and-the-winter-soldier-marvel-super-bowl-ad-record-views-1234690914/
+    帖子 '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' 抓取到 740 条评论。
+    找到相关 Reddit 帖子: 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' (ID: 10v8ryj)
+    帖子链接: https://deadline.com/2023/02/fox-sells-out-super-bowl-ad-inventory-30-second-spots-7-million-1235250591/
+    帖子 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' 抓取到 455 条评论。
+    找到相关 Reddit 帖子: 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' (ID: akee47)
+    帖子链接: https://awfulannouncing.com/nfl/despite-rebounding-nfl-ratings-super-bowl-ad-prices-look-flat.html
+    帖子 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' 抓取到 720 条评论。
+    找到相关 Reddit 帖子: 'Westworld Season 2 | Official Super Bowl Ad' (ID: 7vbfwj)
+    帖子链接: https://youtu.be/qUmfriZoMw0
+    帖子 'Westworld Season 2 | Official Super Bowl Ad' 抓取到 316 条评论。
+    找到相关 Reddit 帖子: 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' (ID: 1l90hx8)
+    帖子链接: https://www.adweek.com/media/amazon-doubles-prime-video-ad-load/
+    帖子 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' 抓取到 1428 条评论。
+    找到相关 Reddit 帖子: 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' (ID: 1aghwkp)
+    帖子链接: https://finance.yahoo.com/news/nickelodeon-cbs-sports-reveal-details-172300000.html
+    帖子 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' 抓取到 107 条评论。
+    找到相关 Reddit 帖子: 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' (ID: 1al5c2d)
+    帖子链接: https://www.reddit.com/r/television/comments/1al5c2d/this_sub_should_ban_articles_about_super_bowl_ads/
+    帖子 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' 抓取到 145 条评论。
+    找到相关 Reddit 帖子: 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' (ID: 1kkwzes)
+    帖子链接: https://variety.com/2025/tv/news/the-rehearsal-nathan-fielder-fake-singing-show-contestant-1236393533/
+    帖子 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' 抓取到 1367 条评论。
+    找到相关 Reddit 帖子: 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' (ID: 1l86hd8)
+    帖子链接: https://www.comicbasics.com/eric-kripke-is-absolutely-terrified-about-delivering-a-great-series-finale-for-the-boys-you-could-have-the-greatest-show-for-years-but-if-you-stiff-that-ending/
+    帖子 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' 抓取到 1203 条评论。
+  查询 '"A" "man leads someone through the redlight district of a city After walking through a door marked JOBS he falls down a chute into a desert Images of Kforcecom at work are then shown" Super Bowl ad' 实际处理了 15 个帖子。
+  [3/4] 尝试搜索查询: "man leads someone through the redlight district of a city After walking through a door marked JOBS he falls down a chute into a desert Images of Kforcecom at work are then shown" Super Bowl 2000 (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' (ID: scatm8)
+    帖子链接: https://pagesix.com/2022/01/23/super-bowl-lvi-asks-dancers-to-perform-halftime-show-for-free/
+    帖子 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' 抓取到 1506 条评论。
+    找到相关 Reddit 帖子: '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' (ID: 10uvwio)
+    帖子链接: https://www.hollywoodreporter.com/tv/tv-news/the-last-of-us-episode-5-premiere-date-time-1235317263/
+    帖子 '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' 抓取到 440 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ratings Hit 10-Year Low' (ID: an2gbi)
+    帖子链接: https://deadline.com/2019/02/super-bowl-ratings-patriots-rams-marron-5-worlds-best-cbs-1202548893/
+    帖子 'Super Bowl Ratings Hit 10-Year Low' 抓取到 5688 条评论。
+    找到相关 Reddit 帖子: 'Usher Confirmed as Super Bowl 2024 Halftime Performer' (ID: 16qxxcj)
+    帖子链接: https://variety.com/2023/music/news/usher-super-bowl-2023-halftime-performer-1235733632/
+    帖子 'Usher Confirmed as Super Bowl 2024 Halftime Performer' 抓取到 1002 条评论。
+    找到相关 Reddit 帖子: 'Stranger Things Season 2 Super Bowl Teaser' (ID: 5sbey0)
+    帖子链接: https://youtu.be/9Egf5U8xLo8
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Stranger Things Season 2 Super Bowl Teaser' 抓取到 2122 条评论。
+    找到相关 Reddit 帖子: 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' (ID: al63ar)
+    帖子链接: https://www.thescore.com/news/1707004
+    帖子 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' 抓取到 1029 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVIII Commercial Megathread' (ID: 1aol7jw)
+    帖子链接: https://www.reddit.com/r/television/comments/1aol7jw/super_bowl_lviii_commercial_megathread/
+    帖子 'Super Bowl LVIII Commercial Megathread' 抓取到 1275 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl overtime earned CBS an estimated $60 million from more commercials' (ID: 1as95am)
+    帖子链接: https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/super-bowl-overtime-earned-cbs-an-estimated-60-million-from-more-commercials
+    帖子 'Super Bowl overtime earned CBS an estimated $60 million from more commercials' 抓取到 210 条评论。
+  查询 '"man leads someone through the redlight district of a city After walking through a door marked JOBS he falls down a chute into a desert Images of Kforcecom at work are then shown" Super Bowl 2000' 实际处理了 8 个帖子。
+  [4/4] 尝试搜索查询: "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Why'd it take so long for Super Bowl ads to become a really big deal?' (ID: 1inxpid)
+    帖子链接: https://www.reddit.com/r/television/comments/1inxpid/whyd_it_take_so_long_for_super_bowl_ads_to_become/
+    帖子 'Why'd it take so long for Super Bowl ads to become a really big deal?' 抓取到 12 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LII Ads In Order (Constantly Updated)' (ID: amvg7f)
+    帖子链接: https://www.reddit.com/r/television/comments/amvg7f/super_bowl_lii_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LII Ads In Order (Constantly Updated)' 抓取到 533 条评论。
+    找到相关 Reddit 帖子: 'The 5 Marketing Mistakes Great Businesses Avoid' (ID: xmfu0)
+    帖子链接: https://www.reddit.com/r/marketing/comments/xmfu0/the_5_marketing_mistakes_great_businesses_avoid/
+    帖子 'The 5 Marketing Mistakes Great Businesses Avoid' 抓取到 8 条评论。
+    找到相关 Reddit 帖子: 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' (ID: dmxjlz)
+    帖子链接: https://www.reddit.com/r/television/comments/dmxjlz/just_finished_rewatching_13_seasons_of_its_always/
+    帖子 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' 抓取到 1000 条评论。
+    找到相关 Reddit 帖子: 'Hulu: I don’t see the actual Super Bowl ads.' (ID: 1imn7bi)
+    帖子链接: https://www.reddit.com/r/advertising/comments/1imn7bi/hulu_i_dont_see_the_actual_super_bowl_ads/
+    帖子 'Hulu: I don’t see the actual Super Bowl ads.' 抓取到 6 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ads' (ID: 1io0pqg)
+    帖子链接: https://www.reddit.com/r/marketing/comments/1io0pqg/super_bowl_ads/
+    帖子 'Super Bowl Ads' 抓取到 2 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads Megathread' (ID: exxhdc)
+    帖子链接: https://www.reddit.com/r/advertising/comments/exxhdc/super_bowl_liv_ads_megathread/
+    帖子 'Super Bowl LIV Ads Megathread' 抓取到 105 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' (ID: 17m3cun)
+    帖子链接: https://variety.com/2023/tv/news/super-bowl-commercials-sold-out-cbs-tv-advertising-1235777413/
+    帖子 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' 抓取到 14 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVII Commercial Megathread' (ID: 110tlsg)
+    帖子链接: https://www.reddit.com/r/television/comments/110tlsg/super_bowl_lvii_commercial_megathread/
+    帖子 'Super Bowl LVII Commercial Megathread' 抓取到 773 条评论。
+    找到相关 Reddit 帖子: 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' (ID: lf2rqd)
+    帖子链接: https://www.reddit.com/r/marketing/comments/lf2rqd/hey_did_you_guys_see_it_reddit_bought_a_5_second/
+    帖子 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' 抓取到 19 条评论。
+  查询 '"A" Super Bowl 2000 ad' 实际处理了 10 个帖子。
+成功将广告 'man leads someone through the red-light district of a city. After walking through a door marked "JOBS", he falls down a chute into a desert. Images of Kforce.com at work are then shown.' (2000) 的数据保存到 'reddit_ad_data_json\2000_man_leads_someone_through_the_red-light_district_of_a_city_After_walking_through_a_door_marked_JOBS_.json'
+进度已保存：广告索引 24 已处理。
+
+--- 正在处理广告 31/751: 'man sits in a room with papers scattered everywhere. The papers gather into the shape of a monster and assault him. He survives by opening his laptop, which sucks the paper monster inside of it.' (2000) ---
+
+正在搜索 Reddit 上关于广告 'A - man sits in a room with papers scattered everywhere. The papers gather into the shape of a monster and assault him. He survives by opening his laptop, which sucks the paper monster inside of it.' (2000) 的帖子和评论...
+  [1/4] 尝试搜索查询: "man sits in a room with papers scattered everywhere The papers gather into the shape of a monster and assault him He survives by opening his laptop which sucks the paper monster inside of it" "A" Super Bowl 2000 ad (广告重试 1/3)
+  查询 '"man sits in a room with papers scattered everywhere The papers gather into the shape of a monster and assault him He survives by opening his laptop which sucks the paper monster inside of it" "A" Super Bowl 2000 ad' 实际处理了 0 个帖子。
+  [2/4] 尝试搜索查询: "A" "man sits in a room with papers scattered everywhere The papers gather into the shape of a monster and assault him He survives by opening his laptop which sucks the paper monster inside of it" Super Bowl ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' (ID: 1aoh70f)
+    帖子链接: https://www.cnn.com/2023/02/11/us/he-gets-us-super-bowl-commercials-cec/index.html
+    帖子 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' 抓取到 1267 条评论。
+    找到相关 Reddit 帖子: 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' (ID: ey9jiy)
+    帖子链接: https://admeter.usatoday.com/results/2020
+    帖子 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' 抓取到 3862 条评论。
+    找到相关 Reddit 帖子: 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' (ID: eyclt3)
+    帖子链接: https://youtu.be/ANarZ_113Xc?t=53
+    帖子 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' 抓取到 1848 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads In Order (Constantly Updated)' (ID: exwejs)
+    帖子链接: https://www.reddit.com/r/television/comments/exwejs/super_bowl_liv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LIV Ads In Order (Constantly Updated)' 抓取到 1643 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LV Ads In Order (Constantly Updated)' (ID: lexol9)
+    帖子链接: https://www.reddit.com/r/television/comments/lexol9/super_bowl_lv_ads_in_order_constantly_updated/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Super Bowl LV Ads In Order (Constantly Updated)' 抓取到 2061 条评论。
+    找到相关 Reddit 帖子: 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' (ID: l03fsu)
+    帖子链接: https://hypebeast.com/2021/1/coca-cola-pepsi-super-bowl-lv-2021-benching-ads-announcement
+    帖子 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' 抓取到 982 条评论。
+    找到相关 Reddit 帖子: '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' (ID: lgjrh7)
+    帖子链接: https://deadline.com/2021/02/the-falcon-and-the-winter-soldier-marvel-super-bowl-ad-record-views-1234690914/
+    帖子 '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' 抓取到 740 条评论。
+    找到相关 Reddit 帖子: 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' (ID: 10v8ryj)
+    帖子链接: https://deadline.com/2023/02/fox-sells-out-super-bowl-ad-inventory-30-second-spots-7-million-1235250591/
+    帖子 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' 抓取到 455 条评论。
+    找到相关 Reddit 帖子: 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' (ID: akee47)
+    帖子链接: https://awfulannouncing.com/nfl/despite-rebounding-nfl-ratings-super-bowl-ad-prices-look-flat.html
+    帖子 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' 抓取到 720 条评论。
+    找到相关 Reddit 帖子: 'Westworld Season 2 | Official Super Bowl Ad' (ID: 7vbfwj)
+    帖子链接: https://youtu.be/qUmfriZoMw0
+    帖子 'Westworld Season 2 | Official Super Bowl Ad' 抓取到 316 条评论。
+    找到相关 Reddit 帖子: 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' (ID: 1l90hx8)
+    帖子链接: https://www.adweek.com/media/amazon-doubles-prime-video-ad-load/
+    帖子 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' 抓取到 1428 条评论。
+    找到相关 Reddit 帖子: 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' (ID: 1aghwkp)
+    帖子链接: https://finance.yahoo.com/news/nickelodeon-cbs-sports-reveal-details-172300000.html
+    帖子 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' 抓取到 107 条评论。
+    找到相关 Reddit 帖子: 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' (ID: 1al5c2d)
+    帖子链接: https://www.reddit.com/r/television/comments/1al5c2d/this_sub_should_ban_articles_about_super_bowl_ads/
+    帖子 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' 抓取到 145 条评论。
+    找到相关 Reddit 帖子: 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' (ID: 1kkwzes)
+    帖子链接: https://variety.com/2025/tv/news/the-rehearsal-nathan-fielder-fake-singing-show-contestant-1236393533/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' 抓取到 1367 条评论。
+    找到相关 Reddit 帖子: 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' (ID: 1l86hd8)
+    帖子链接: https://www.comicbasics.com/eric-kripke-is-absolutely-terrified-about-delivering-a-great-series-finale-for-the-boys-you-could-have-the-greatest-show-for-years-but-if-you-stiff-that-ending/
+    帖子 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' 抓取到 1203 条评论。
+  查询 '"A" "man sits in a room with papers scattered everywhere The papers gather into the shape of a monster and assault him He survives by opening his laptop which sucks the paper monster inside of it" Super Bowl ad' 实际处理了 15 个帖子。
+  [3/4] 尝试搜索查询: "man sits in a room with papers scattered everywhere The papers gather into the shape of a monster and assault him He survives by opening his laptop which sucks the paper monster inside of it" Super Bowl 2000 (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' (ID: scatm8)
+    帖子链接: https://pagesix.com/2022/01/23/super-bowl-lvi-asks-dancers-to-perform-halftime-show-for-free/
+    帖子 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' 抓取到 1506 条评论。
+    找到相关 Reddit 帖子: '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' (ID: 10uvwio)
+    帖子链接: https://www.hollywoodreporter.com/tv/tv-news/the-last-of-us-episode-5-premiere-date-time-1235317263/
+    帖子 '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' 抓取到 440 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ratings Hit 10-Year Low' (ID: an2gbi)
+    帖子链接: https://deadline.com/2019/02/super-bowl-ratings-patriots-rams-marron-5-worlds-best-cbs-1202548893/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    获取评论时发生其他错误: A duplicate comment has been detected. Are you attempting to call 'replace_more_comments' more than once?. 跳过此帖子的评论。
+    未能成功获取帖子 'Super Bowl Ratings Hit 10-Year Low' (ID: an2gbi) 的评论。跳过此帖子。
+    找到相关 Reddit 帖子: 'Usher Confirmed as Super Bowl 2024 Halftime Performer' (ID: 16qxxcj)
+    帖子链接: https://variety.com/2023/music/news/usher-super-bowl-2023-halftime-performer-1235733632/
+    帖子 'Usher Confirmed as Super Bowl 2024 Halftime Performer' 抓取到 1002 条评论。
+    找到相关 Reddit 帖子: 'Stranger Things Season 2 Super Bowl Teaser' (ID: 5sbey0)
+    帖子链接: https://youtu.be/9Egf5U8xLo8
+    帖子 'Stranger Things Season 2 Super Bowl Teaser' 抓取到 2122 条评论。
+    找到相关 Reddit 帖子: 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' (ID: al63ar)
+    帖子链接: https://www.thescore.com/news/1707004
+    帖子 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' 抓取到 1029 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVIII Commercial Megathread' (ID: 1aol7jw)
+    帖子链接: https://www.reddit.com/r/television/comments/1aol7jw/super_bowl_lviii_commercial_megathread/
+    帖子 'Super Bowl LVIII Commercial Megathread' 抓取到 1275 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl overtime earned CBS an estimated $60 million from more commercials' (ID: 1as95am)
+    帖子链接: https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/super-bowl-overtime-earned-cbs-an-estimated-60-million-from-more-commercials
+    帖子 'Super Bowl overtime earned CBS an estimated $60 million from more commercials' 抓取到 210 条评论。
+  查询 '"man sits in a room with papers scattered everywhere The papers gather into the shape of a monster and assault him He survives by opening his laptop which sucks the paper monster inside of it" Super Bowl 2000' 实际处理了 7 个帖子。
+  [4/4] 尝试搜索查询: "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Why'd it take so long for Super Bowl ads to become a really big deal?' (ID: 1inxpid)
+    帖子链接: https://www.reddit.com/r/television/comments/1inxpid/whyd_it_take_so_long_for_super_bowl_ads_to_become/
+    帖子 'Why'd it take so long for Super Bowl ads to become a really big deal?' 抓取到 12 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LII Ads In Order (Constantly Updated)' (ID: amvg7f)
+    帖子链接: https://www.reddit.com/r/television/comments/amvg7f/super_bowl_lii_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LII Ads In Order (Constantly Updated)' 抓取到 533 条评论。
+    找到相关 Reddit 帖子: 'The 5 Marketing Mistakes Great Businesses Avoid' (ID: xmfu0)
+    帖子链接: https://www.reddit.com/r/marketing/comments/xmfu0/the_5_marketing_mistakes_great_businesses_avoid/
+    帖子 'The 5 Marketing Mistakes Great Businesses Avoid' 抓取到 8 条评论。
+    找到相关 Reddit 帖子: 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' (ID: dmxjlz)
+    帖子链接: https://www.reddit.com/r/television/comments/dmxjlz/just_finished_rewatching_13_seasons_of_its_always/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' 抓取到 1000 条评论。
+    找到相关 Reddit 帖子: 'Hulu: I don’t see the actual Super Bowl ads.' (ID: 1imn7bi)
+    帖子链接: https://www.reddit.com/r/advertising/comments/1imn7bi/hulu_i_dont_see_the_actual_super_bowl_ads/
+    帖子 'Hulu: I don’t see the actual Super Bowl ads.' 抓取到 6 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ads' (ID: 1io0pqg)
+    帖子链接: https://www.reddit.com/r/marketing/comments/1io0pqg/super_bowl_ads/
+    帖子 'Super Bowl Ads' 抓取到 2 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads Megathread' (ID: exxhdc)
+    帖子链接: https://www.reddit.com/r/advertising/comments/exxhdc/super_bowl_liv_ads_megathread/
+    帖子 'Super Bowl LIV Ads Megathread' 抓取到 105 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' (ID: 17m3cun)
+    帖子链接: https://variety.com/2023/tv/news/super-bowl-commercials-sold-out-cbs-tv-advertising-1235777413/
+    帖子 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' 抓取到 14 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVII Commercial Megathread' (ID: 110tlsg)
+    帖子链接: https://www.reddit.com/r/television/comments/110tlsg/super_bowl_lvii_commercial_megathread/
+    帖子 'Super Bowl LVII Commercial Megathread' 抓取到 773 条评论。
+    找到相关 Reddit 帖子: 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' (ID: lf2rqd)
+    帖子链接: https://www.reddit.com/r/marketing/comments/lf2rqd/hey_did_you_guys_see_it_reddit_bought_a_5_second/
+    帖子 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' 抓取到 19 条评论。
+  查询 '"A" Super Bowl 2000 ad' 实际处理了 10 个帖子。
+成功将广告 'man sits in a room with papers scattered everywhere. The papers gather into the shape of a monster and assault him. He survives by opening his laptop, which sucks the paper monster inside of it.' (2000) 的数据保存到 'reddit_ad_data_json\2000_man_sits_in_a_room_with_papers_scattered_everywhere_The_papers_gather_into_the_shape_of_a_monster_an.json'
+进度已保存：广告索引 30 已处理。
+
+--- 正在处理广告 19/751: 'man washes his hands and receives money for it. He sneezes and the same thing happens.' (2000) ---
+
+正在搜索 Reddit 上关于广告 'A - man washes his hands and receives money for it. He sneezes and the same thing happens.' (2000) 的帖子和评论...
+  [1/4] 尝试搜索查询: "man washes his hands and receives money for it He sneezes and the same thing happens" "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' (ID: 1aoh70f)
+    帖子链接: https://www.cnn.com/2023/02/11/us/he-gets-us-super-bowl-commercials-cec/index.html
+    帖子 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' 抓取到 1267 条评论。
+    找到相关 Reddit 帖子: 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' (ID: ey9jiy)
+    帖子链接: https://admeter.usatoday.com/results/2020
+    帖子 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' 抓取到 3862 条评论。
+    找到相关 Reddit 帖子: 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' (ID: eyclt3)
+    帖子链接: https://youtu.be/ANarZ_113Xc?t=53
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' 抓取到 1848 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads In Order (Constantly Updated)' (ID: exwejs)
+    帖子链接: https://www.reddit.com/r/television/comments/exwejs/super_bowl_liv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LIV Ads In Order (Constantly Updated)' 抓取到 1643 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LV Ads In Order (Constantly Updated)' (ID: lexol9)
+    帖子链接: https://www.reddit.com/r/television/comments/lexol9/super_bowl_lv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LV Ads In Order (Constantly Updated)' 抓取到 2061 条评论。
+    找到相关 Reddit 帖子: 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' (ID: l03fsu)
+    帖子链接: https://hypebeast.com/2021/1/coca-cola-pepsi-super-bowl-lv-2021-benching-ads-announcement
+    帖子 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' 抓取到 982 条评论。
+    找到相关 Reddit 帖子: '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' (ID: lgjrh7)
+    帖子链接: https://deadline.com/2021/02/the-falcon-and-the-winter-soldier-marvel-super-bowl-ad-record-views-1234690914/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' 抓取到 740 条评论。
+    找到相关 Reddit 帖子: 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' (ID: 10v8ryj)
+    帖子链接: https://deadline.com/2023/02/fox-sells-out-super-bowl-ad-inventory-30-second-spots-7-million-1235250591/
+    帖子 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' 抓取到 455 条评论。
+    找到相关 Reddit 帖子: 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' (ID: akee47)
+    帖子链接: https://awfulannouncing.com/nfl/despite-rebounding-nfl-ratings-super-bowl-ad-prices-look-flat.html
+    帖子 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' 抓取到 720 条评论。
+    找到相关 Reddit 帖子: '2+ years between 7 episode seasons is pathetic and unacceptable' (ID: 1kwlymk)
+    帖子链接: https://www.reddit.com/r/television/comments/1kwlymk/2_years_between_7_episode_seasons_is_pathetic_and/
+    帖子 '2+ years between 7 episode seasons is pathetic and unacceptable' 抓取到 3030 条评论。
+    找到相关 Reddit 帖子: 'Westworld Season 2 | Official Super Bowl Ad' (ID: 7vbfwj)
+    帖子链接: https://youtu.be/qUmfriZoMw0
+    帖子 'Westworld Season 2 | Official Super Bowl Ad' 抓取到 316 条评论。
+    找到相关 Reddit 帖子: 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' (ID: 1aghwkp)
+    帖子链接: https://finance.yahoo.com/news/nickelodeon-cbs-sports-reveal-details-172300000.html
+    帖子 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' 抓取到 107 条评论。
+    找到相关 Reddit 帖子: 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' (ID: 1al5c2d)
+    帖子链接: https://www.reddit.com/r/television/comments/1al5c2d/this_sub_should_ban_articles_about_super_bowl_ads/
+    帖子 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' 抓取到 145 条评论。
+    找到相关 Reddit 帖子: 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' (ID: 1kkwzes)
+    帖子链接: https://variety.com/2025/tv/news/the-rehearsal-nathan-fielder-fake-singing-show-contestant-1236393533/
+    帖子 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' 抓取到 1367 条评论。
+    找到相关 Reddit 帖子: 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' (ID: 1l86hd8)
+    帖子链接: https://www.comicbasics.com/eric-kripke-is-absolutely-terrified-about-delivering-a-great-series-finale-for-the-boys-you-could-have-the-greatest-show-for-years-but-if-you-stiff-that-ending/
+    帖子 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' 抓取到 1203 条评论。
+  查询 '"man washes his hands and receives money for it He sneezes and the same thing happens" "A" Super Bowl 2000 ad' 实际处理了 15 个帖子。
+  [2/4] 尝试搜索查询: "A" "man washes his hands and receives money for it He sneezes and the same thing happens" Super Bowl ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' (ID: 1l90hx8)
+    帖子链接: https://www.adweek.com/media/amazon-doubles-prime-video-ad-load/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' 抓取到 1428 条评论。
+  查询 '"A" "man washes his hands and receives money for it He sneezes and the same thing happens" Super Bowl ad' 实际处理了 1 个帖子。
+  [3/4] 尝试搜索查询: "man washes his hands and receives money for it He sneezes and the same thing happens" Super Bowl 2000 (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' (ID: scatm8)
+    帖子链接: https://pagesix.com/2022/01/23/super-bowl-lvi-asks-dancers-to-perform-halftime-show-for-free/
+    帖子 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' 抓取到 1506 条评论。
+    找到相关 Reddit 帖子: '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' (ID: 10uvwio)
+    帖子链接: https://www.hollywoodreporter.com/tv/tv-news/the-last-of-us-episode-5-premiere-date-time-1235317263/
+    帖子 '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' 抓取到 440 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ratings Hit 10-Year Low' (ID: an2gbi)
+    帖子链接: https://deadline.com/2019/02/super-bowl-ratings-patriots-rams-marron-5-worlds-best-cbs-1202548893/
+    帖子 'Super Bowl Ratings Hit 10-Year Low' 抓取到 5688 条评论。
+    找到相关 Reddit 帖子: 'Usher Confirmed as Super Bowl 2024 Halftime Performer' (ID: 16qxxcj)
+    帖子链接: https://variety.com/2023/music/news/usher-super-bowl-2023-halftime-performer-1235733632/
+    帖子 'Usher Confirmed as Super Bowl 2024 Halftime Performer' 抓取到 1002 条评论。
+    找到相关 Reddit 帖子: 'Stranger Things Season 2 Super Bowl Teaser' (ID: 5sbey0)
+    帖子链接: https://youtu.be/9Egf5U8xLo8
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Stranger Things Season 2 Super Bowl Teaser' 抓取到 2122 条评论。
+    找到相关 Reddit 帖子: 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' (ID: al63ar)
+    帖子链接: https://www.thescore.com/news/1707004
+    帖子 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' 抓取到 1029 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVIII Commercial Megathread' (ID: 1aol7jw)
+    帖子链接: https://www.reddit.com/r/television/comments/1aol7jw/super_bowl_lviii_commercial_megathread/
+    帖子 'Super Bowl LVIII Commercial Megathread' 抓取到 1275 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl overtime earned CBS an estimated $60 million from more commercials' (ID: 1as95am)
+    帖子链接: https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/super-bowl-overtime-earned-cbs-an-estimated-60-million-from-more-commercials
+    帖子 'Super Bowl overtime earned CBS an estimated $60 million from more commercials' 抓取到 210 条评论。
+  查询 '"man washes his hands and receives money for it He sneezes and the same thing happens" Super Bowl 2000' 实际处理了 8 个帖子。
+  [4/4] 尝试搜索查询: "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Why'd it take so long for Super Bowl ads to become a really big deal?' (ID: 1inxpid)
+    帖子链接: https://www.reddit.com/r/television/comments/1inxpid/whyd_it_take_so_long_for_super_bowl_ads_to_become/
+    帖子 'Why'd it take so long for Super Bowl ads to become a really big deal?' 抓取到 12 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LII Ads In Order (Constantly Updated)' (ID: amvg7f)
+    帖子链接: https://www.reddit.com/r/television/comments/amvg7f/super_bowl_lii_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LII Ads In Order (Constantly Updated)' 抓取到 533 条评论。
+    找到相关 Reddit 帖子: 'The 5 Marketing Mistakes Great Businesses Avoid' (ID: xmfu0)
+    帖子链接: https://www.reddit.com/r/marketing/comments/xmfu0/the_5_marketing_mistakes_great_businesses_avoid/
+    帖子 'The 5 Marketing Mistakes Great Businesses Avoid' 抓取到 8 条评论。
+    找到相关 Reddit 帖子: 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' (ID: dmxjlz)
+    帖子链接: https://www.reddit.com/r/television/comments/dmxjlz/just_finished_rewatching_13_seasons_of_its_always/
+    帖子 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' 抓取到 1000 条评论。
+    找到相关 Reddit 帖子: 'Hulu: I don’t see the actual Super Bowl ads.' (ID: 1imn7bi)
+    帖子链接: https://www.reddit.com/r/advertising/comments/1imn7bi/hulu_i_dont_see_the_actual_super_bowl_ads/
+    帖子 'Hulu: I don’t see the actual Super Bowl ads.' 抓取到 6 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ads' (ID: 1io0pqg)
+    帖子链接: https://www.reddit.com/r/marketing/comments/1io0pqg/super_bowl_ads/
+    帖子 'Super Bowl Ads' 抓取到 2 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads Megathread' (ID: exxhdc)
+    帖子链接: https://www.reddit.com/r/advertising/comments/exxhdc/super_bowl_liv_ads_megathread/
+    帖子 'Super Bowl LIV Ads Megathread' 抓取到 105 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' (ID: 17m3cun)
+    帖子链接: https://variety.com/2023/tv/news/super-bowl-commercials-sold-out-cbs-tv-advertising-1235777413/
+    帖子 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' 抓取到 14 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVII Commercial Megathread' (ID: 110tlsg)
+    帖子链接: https://www.reddit.com/r/television/comments/110tlsg/super_bowl_lvii_commercial_megathread/
+    帖子 'Super Bowl LVII Commercial Megathread' 抓取到 773 条评论。
+    找到相关 Reddit 帖子: 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' (ID: lf2rqd)
+    帖子链接: https://www.reddit.com/r/marketing/comments/lf2rqd/hey_did_you_guys_see_it_reddit_bought_a_5_second/
+    帖子 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' 抓取到 19 条评论。
+  查询 '"A" Super Bowl 2000 ad' 实际处理了 10 个帖子。
+成功将广告 'man washes his hands and receives money for it. He sneezes and the same thing happens.' (2000) 的数据保存到 'reddit_ad_data_json\2000_man_washes_his_hands_and_receives_money_for_it_He_sneezes_and_the_same_thing_happens.json'
+进度已保存：广告索引 18 已处理。
+
+--- 正在处理广告 23/751: 'man who owns his own business is shown shredding paper. A voice asks if he really has time for this. The man realizes he can throw the papers into his backyard and shred them by mowing his lawn. The voice congratulates him and suggests that he use e-stamp.com to buy postage.' (2000) ---
+
+正在搜索 Reddit 上关于广告 'A - man who owns his own business is shown shredding paper. A voice asks if he really has time for this. The man realizes he can throw the papers into his backyard and shred them by mowing his lawn. The voice congratulates him and suggests that he use e-stamp.com to buy postage.' (2000) 的帖子和评论...
+  [1/4] 尝试搜索查询: "man who owns his own business is shown shredding paper A voice asks if he really has time for this The man realizes he can throw the papers into his backyard and shred them by mowing his lawn The voice congratulates him and suggests that he use estampcom to buy postage" "A" Super Bowl 2000 ad (广告重试 1/3)
+  查询 '"man who owns his own business is shown shredding paper A voice asks if he really has time for this The man realizes he can throw the papers into his backyard and shred them by mowing his lawn The voice congratulates him and suggests that he use estampcom to buy postage" "A" Super Bowl 2000 ad' 实际处理了 0 个帖子。
+  [2/4] 尝试搜索查询: "A" "man who owns his own business is shown shredding paper A voice asks if he really has time for this The man realizes he can throw the papers into his backyard and shred them by mowing his lawn The voice congratulates him and suggests that he use estampcom to buy postage" Super Bowl ad (广告重试 1/3)
+  查询 '"A" "man who owns his own business is shown shredding paper A voice asks if he really has time for this The man realizes he can throw the papers into his backyard and shred them by mowing his lawn The voice congratulates him and suggests that he use estampcom to buy postage" Super Bowl ad' 实际处理了 0 个帖子。
+  [3/4] 尝试搜索查询: "man who owns his own business is shown shredding paper A voice asks if he really has time for this The man realizes he can throw the papers into his backyard and shred them by mowing his lawn The voice congratulates him and suggests that he use estampcom to buy postage" Super Bowl 2000 (广告重试 1/3)
+  查询 '"man who owns his own business is shown shredding paper A voice asks if he really has time for this The man realizes he can throw the papers into his backyard and shred them by mowing his lawn The voice congratulates him and suggests that he use estampcom to buy postage" Super Bowl 2000' 实际处理了 0 个帖子。
+  [4/4] 尝试搜索查询: "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Why'd it take so long for Super Bowl ads to become a really big deal?' (ID: 1inxpid)
+    帖子链接: https://www.reddit.com/r/television/comments/1inxpid/whyd_it_take_so_long_for_super_bowl_ads_to_become/
+    帖子 'Why'd it take so long for Super Bowl ads to become a really big deal?' 抓取到 12 条评论。
+    找到相关 Reddit 帖子: 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' (ID: eyclt3)
+    帖子链接: https://youtu.be/ANarZ_113Xc?t=53
+    帖子 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' 抓取到 1848 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads In Order (Constantly Updated)' (ID: exwejs)
+    帖子链接: https://www.reddit.com/r/television/comments/exwejs/super_bowl_liv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LIV Ads In Order (Constantly Updated)' 抓取到 1643 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LV Ads In Order (Constantly Updated)' (ID: lexol9)
+    帖子链接: https://www.reddit.com/r/television/comments/lexol9/super_bowl_lv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LV Ads In Order (Constantly Updated)' 抓取到 2061 条评论。
+    找到相关 Reddit 帖子: 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' (ID: 1al5c2d)
+    帖子链接: https://www.reddit.com/r/television/comments/1al5c2d/this_sub_should_ban_articles_about_super_bowl_ads/
+    帖子 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' 抓取到 145 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LII Ads In Order (Constantly Updated)' (ID: amvg7f)
+    帖子链接: https://www.reddit.com/r/television/comments/amvg7f/super_bowl_lii_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LII Ads In Order (Constantly Updated)' 抓取到 533 条评论。
+    找到相关 Reddit 帖子: 'The 5 Marketing Mistakes Great Businesses Avoid' (ID: xmfu0)
+    帖子链接: https://www.reddit.com/r/marketing/comments/xmfu0/the_5_marketing_mistakes_great_businesses_avoid/
+    帖子 'The 5 Marketing Mistakes Great Businesses Avoid' 抓取到 8 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVIII Commercial Megathread' (ID: 1aol7jw)
+    帖子链接: https://www.reddit.com/r/television/comments/1aol7jw/super_bowl_lviii_commercial_megathread/
+    帖子 'Super Bowl LVIII Commercial Megathread' 抓取到 1275 条评论。
+    找到相关 Reddit 帖子: 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' (ID: dmxjlz)
+    帖子链接: https://www.reddit.com/r/television/comments/dmxjlz/just_finished_rewatching_13_seasons_of_its_always/
+    帖子 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' 抓取到 1000 条评论。
+    找到相关 Reddit 帖子: 'Hulu: I don’t see the actual Super Bowl ads.' (ID: 1imn7bi)
+    帖子链接: https://www.reddit.com/r/advertising/comments/1imn7bi/hulu_i_dont_see_the_actual_super_bowl_ads/
+    帖子 'Hulu: I don’t see the actual Super Bowl ads.' 抓取到 6 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ads' (ID: 1io0pqg)
+    帖子链接: https://www.reddit.com/r/marketing/comments/1io0pqg/super_bowl_ads/
+    帖子 'Super Bowl Ads' 抓取到 2 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads Megathread' (ID: exxhdc)
+    帖子链接: https://www.reddit.com/r/advertising/comments/exxhdc/super_bowl_liv_ads_megathread/
+    帖子 'Super Bowl LIV Ads Megathread' 抓取到 105 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' (ID: 17m3cun)
+    帖子链接: https://variety.com/2023/tv/news/super-bowl-commercials-sold-out-cbs-tv-advertising-1235777413/
+    帖子 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' 抓取到 14 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVII Commercial Megathread' (ID: 110tlsg)
+    帖子链接: https://www.reddit.com/r/television/comments/110tlsg/super_bowl_lvii_commercial_megathread/
+    帖子 'Super Bowl LVII Commercial Megathread' 抓取到 773 条评论。
+    找到相关 Reddit 帖子: 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' (ID: lf2rqd)
+    帖子链接: https://www.reddit.com/r/marketing/comments/lf2rqd/hey_did_you_guys_see_it_reddit_bought_a_5_second/
+    帖子 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' 抓取到 19 条评论。
+  查询 '"A" Super Bowl 2000 ad' 实际处理了 15 个帖子。
+成功将广告 'man who owns his own business is shown shredding paper. A voice asks if he really has time for this. The man realizes he can throw the papers into his backyard and shred them by mowing his lawn. The voice congratulates him and suggests that he use e-stamp.com to buy postage.' (2000) 的数据保存到 'reddit_ad_data_json\2000_man_who_owns_his_own_business_is_shown_shredding_paper_A_voice_asks_if_he_really_has_time_for_this_T.json'
+进度已保存：广告索引 22 已处理。
+
+--- 正在处理广告 28/751: 'voice over a cell phone helps a man to reschedule a flight. When he tries to pay for it with a credit card, the voice alerts police that the man is impersonating the real cardholder.' (2000) ---
+
+正在搜索 Reddit 上关于广告 'A - voice over a cell phone helps a man to reschedule a flight. When he tries to pay for it with a credit card, the voice alerts police that the man is impersonating the real cardholder.' (2000) 的帖子和评论...
+  [1/4] 尝试搜索查询: "voice over a cell phone helps a man to reschedule a flight When he tries to pay for it with a credit card the voice alerts police that the man is impersonating the real cardholder" "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' (ID: 1aoh70f)
+    帖子链接: https://www.cnn.com/2023/02/11/us/he-gets-us-super-bowl-commercials-cec/index.html
+    帖子 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' 抓取到 1267 条评论。
+    找到相关 Reddit 帖子: 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' (ID: ey9jiy)
+    帖子链接: https://admeter.usatoday.com/results/2020
+    帖子 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' 抓取到 3862 条评论。
+    找到相关 Reddit 帖子: 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' (ID: eyclt3)
+    帖子链接: https://youtu.be/ANarZ_113Xc?t=53
+    帖子 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' 抓取到 1848 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads In Order (Constantly Updated)' (ID: exwejs)
+    帖子链接: https://www.reddit.com/r/television/comments/exwejs/super_bowl_liv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LIV Ads In Order (Constantly Updated)' 抓取到 1643 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LV Ads In Order (Constantly Updated)' (ID: lexol9)
+    帖子链接: https://www.reddit.com/r/television/comments/lexol9/super_bowl_lv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LV Ads In Order (Constantly Updated)' 抓取到 2061 条评论。
+    找到相关 Reddit 帖子: 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' (ID: l03fsu)
+    帖子链接: https://hypebeast.com/2021/1/coca-cola-pepsi-super-bowl-lv-2021-benching-ads-announcement
+    帖子 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' 抓取到 982 条评论。
+    找到相关 Reddit 帖子: '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' (ID: lgjrh7)
+    帖子链接: https://deadline.com/2021/02/the-falcon-and-the-winter-soldier-marvel-super-bowl-ad-record-views-1234690914/
+    帖子 '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' 抓取到 740 条评论。
+    找到相关 Reddit 帖子: 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' (ID: 10v8ryj)
+    帖子链接: https://deadline.com/2023/02/fox-sells-out-super-bowl-ad-inventory-30-second-spots-7-million-1235250591/
+    帖子 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' 抓取到 455 条评论。
+    找到相关 Reddit 帖子: 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' (ID: akee47)
+    帖子链接: https://awfulannouncing.com/nfl/despite-rebounding-nfl-ratings-super-bowl-ad-prices-look-flat.html
+    帖子 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' 抓取到 720 条评论。
+    找到相关 Reddit 帖子: '2+ years between 7 episode seasons is pathetic and unacceptable' (ID: 1kwlymk)
+    帖子链接: https://www.reddit.com/r/television/comments/1kwlymk/2_years_between_7_episode_seasons_is_pathetic_and/
+    帖子 '2+ years between 7 episode seasons is pathetic and unacceptable' 抓取到 3030 条评论。
+    找到相关 Reddit 帖子: 'Westworld Season 2 | Official Super Bowl Ad' (ID: 7vbfwj)
+    帖子链接: https://youtu.be/qUmfriZoMw0
+    帖子 'Westworld Season 2 | Official Super Bowl Ad' 抓取到 316 条评论。
+    找到相关 Reddit 帖子: 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' (ID: 1aghwkp)
+    帖子链接: https://finance.yahoo.com/news/nickelodeon-cbs-sports-reveal-details-172300000.html
+    帖子 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' 抓取到 107 条评论。
+    找到相关 Reddit 帖子: 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' (ID: 1al5c2d)
+    帖子链接: https://www.reddit.com/r/television/comments/1al5c2d/this_sub_should_ban_articles_about_super_bowl_ads/
+    帖子 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' 抓取到 145 条评论。
+    找到相关 Reddit 帖子: 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' (ID: 1kkwzes)
+    帖子链接: https://variety.com/2025/tv/news/the-rehearsal-nathan-fielder-fake-singing-show-contestant-1236393533/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' 抓取到 1367 条评论。
+    找到相关 Reddit 帖子: 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' (ID: 1l86hd8)
+    帖子链接: https://www.comicbasics.com/eric-kripke-is-absolutely-terrified-about-delivering-a-great-series-finale-for-the-boys-you-could-have-the-greatest-show-for-years-but-if-you-stiff-that-ending/
+    帖子 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' 抓取到 1203 条评论。
+  查询 '"voice over a cell phone helps a man to reschedule a flight When he tries to pay for it with a credit card the voice alerts police that the man is impersonating the real cardholder" "A" Super Bowl 2000 ad' 实际处理了 15 个帖子。
+  [2/4] 尝试搜索查询: "A" "voice over a cell phone helps a man to reschedule a flight When he tries to pay for it with a credit card the voice alerts police that the man is impersonating the real cardholder" Super Bowl ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' (ID: 1l90hx8)
+    帖子链接: https://www.adweek.com/media/amazon-doubles-prime-video-ad-load/
+    帖子 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' 抓取到 1428 条评论。
+  查询 '"A" "voice over a cell phone helps a man to reschedule a flight When he tries to pay for it with a credit card the voice alerts police that the man is impersonating the real cardholder" Super Bowl ad' 实际处理了 1 个帖子。
+  [3/4] 尝试搜索查询: "voice over a cell phone helps a man to reschedule a flight When he tries to pay for it with a credit card the voice alerts police that the man is impersonating the real cardholder" Super Bowl 2000 (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' (ID: scatm8)
+    帖子链接: https://pagesix.com/2022/01/23/super-bowl-lvi-asks-dancers-to-perform-halftime-show-for-free/
+    帖子 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' 抓取到 1506 条评论。
+    找到相关 Reddit 帖子: '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' (ID: 10uvwio)
+    帖子链接: https://www.hollywoodreporter.com/tv/tv-news/the-last-of-us-episode-5-premiere-date-time-1235317263/
+    帖子 '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' 抓取到 440 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ratings Hit 10-Year Low' (ID: an2gbi)
+    帖子链接: https://deadline.com/2019/02/super-bowl-ratings-patriots-rams-marron-5-worlds-best-cbs-1202548893/
+    帖子 'Super Bowl Ratings Hit 10-Year Low' 抓取到 5688 条评论。
+    找到相关 Reddit 帖子: 'Usher Confirmed as Super Bowl 2024 Halftime Performer' (ID: 16qxxcj)
+    帖子链接: https://variety.com/2023/music/news/usher-super-bowl-2023-halftime-performer-1235733632/
+    帖子 'Usher Confirmed as Super Bowl 2024 Halftime Performer' 抓取到 1002 条评论。
+    找到相关 Reddit 帖子: 'Stranger Things Season 2 Super Bowl Teaser' (ID: 5sbey0)
+    帖子链接: https://youtu.be/9Egf5U8xLo8
+    帖子 'Stranger Things Season 2 Super Bowl Teaser' 抓取到 2122 条评论。
+    找到相关 Reddit 帖子: 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' (ID: al63ar)
+    帖子链接: https://www.thescore.com/news/1707004
+    帖子 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' 抓取到 1029 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVIII Commercial Megathread' (ID: 1aol7jw)
+    帖子链接: https://www.reddit.com/r/television/comments/1aol7jw/super_bowl_lviii_commercial_megathread/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Super Bowl LVIII Commercial Megathread' 抓取到 1275 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl overtime earned CBS an estimated $60 million from more commercials' (ID: 1as95am)
+    帖子链接: https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/super-bowl-overtime-earned-cbs-an-estimated-60-million-from-more-commercials
+    帖子 'Super Bowl overtime earned CBS an estimated $60 million from more commercials' 抓取到 210 条评论。
+  查询 '"voice over a cell phone helps a man to reschedule a flight When he tries to pay for it with a credit card the voice alerts police that the man is impersonating the real cardholder" Super Bowl 2000' 实际处理了 8 个帖子。
+  [4/4] 尝试搜索查询: "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Why'd it take so long for Super Bowl ads to become a really big deal?' (ID: 1inxpid)
+    帖子链接: https://www.reddit.com/r/television/comments/1inxpid/whyd_it_take_so_long_for_super_bowl_ads_to_become/
+    帖子 'Why'd it take so long for Super Bowl ads to become a really big deal?' 抓取到 12 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LII Ads In Order (Constantly Updated)' (ID: amvg7f)
+    帖子链接: https://www.reddit.com/r/television/comments/amvg7f/super_bowl_lii_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LII Ads In Order (Constantly Updated)' 抓取到 533 条评论。
+    找到相关 Reddit 帖子: 'The 5 Marketing Mistakes Great Businesses Avoid' (ID: xmfu0)
+    帖子链接: https://www.reddit.com/r/marketing/comments/xmfu0/the_5_marketing_mistakes_great_businesses_avoid/
+    帖子 'The 5 Marketing Mistakes Great Businesses Avoid' 抓取到 8 条评论。
+    找到相关 Reddit 帖子: 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' (ID: dmxjlz)
+    帖子链接: https://www.reddit.com/r/television/comments/dmxjlz/just_finished_rewatching_13_seasons_of_its_always/
+    帖子 'Just finished re-watching 13 seasons of It's Always Sunny in Philadelphia. Easily the most consistent sitcom I've ever seen.' 抓取到 1000 条评论。
+    找到相关 Reddit 帖子: 'Hulu: I don’t see the actual Super Bowl ads.' (ID: 1imn7bi)
+    帖子链接: https://www.reddit.com/r/advertising/comments/1imn7bi/hulu_i_dont_see_the_actual_super_bowl_ads/
+    帖子 'Hulu: I don’t see the actual Super Bowl ads.' 抓取到 6 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ads' (ID: 1io0pqg)
+    帖子链接: https://www.reddit.com/r/marketing/comments/1io0pqg/super_bowl_ads/
+    帖子 'Super Bowl Ads' 抓取到 2 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads Megathread' (ID: exxhdc)
+    帖子链接: https://www.reddit.com/r/advertising/comments/exxhdc/super_bowl_liv_ads_megathread/
+    帖子 'Super Bowl LIV Ads Megathread' 抓取到 105 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' (ID: 17m3cun)
+    帖子链接: https://variety.com/2023/tv/news/super-bowl-commercials-sold-out-cbs-tv-advertising-1235777413/
+    帖子 'Super Bowl Commercials Sold Out at CBS in Earlier-Than-Expected Close-Out. CBS has sought between $6.5 million to $7 million for a 30-second ad, according to people familiar with negotiations' 抓取到 14 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LVII Commercial Megathread' (ID: 110tlsg)
+    帖子链接: https://www.reddit.com/r/television/comments/110tlsg/super_bowl_lvii_commercial_megathread/
+    帖子 'Super Bowl LVII Commercial Megathread' 抓取到 773 条评论。
+    找到相关 Reddit 帖子: 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' (ID: lf2rqd)
+    帖子链接: https://www.reddit.com/r/marketing/comments/lf2rqd/hey_did_you_guys_see_it_reddit_bought_a_5_second/
+    帖子 'Hey did you guys see it? Reddit bought a 5 second SuperBowl ad! 5 whole seconds!' 抓取到 19 条评论。
+  查询 '"A" Super Bowl 2000 ad' 实际处理了 10 个帖子。
+成功将广告 'voice over a cell phone helps a man to reschedule a flight. When he tries to pay for it with a credit card, the voice alerts police that the man is impersonating the real cardholder.' (2000) 的数据保存到 'reddit_ad_data_json\2000_voice_over_a_cell_phone_helps_a_man_to_reschedule_a_flight_When_he_tries_to_pay_for_it_with_a_credit.json'
+进度已保存：广告索引 27 已处理。
+
+--- 正在处理广告 29/751: 'woman in an airport uses her mobile device to trade stocks.' (2000) ---
+
+正在搜索 Reddit 上关于广告 'A - woman in an airport uses her mobile device to trade stocks.' (2000) 的帖子和评论...
+  [1/4] 尝试搜索查询: "woman in an airport uses her mobile device to trade stocks" "A" Super Bowl 2000 ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' (ID: 1aoh70f)
+    帖子链接: https://www.cnn.com/2023/02/11/us/he-gets-us-super-bowl-commercials-cec/index.html
+    帖子 'The truth behind the 'He Gets Us' ads for Jesus airing during the Super Bowl' 抓取到 1267 条评论。
+    找到相关 Reddit 帖子: 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' (ID: ey9jiy)
+    帖子链接: https://admeter.usatoday.com/results/2020
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    获取评论时发生其他错误: A duplicate comment has been detected. Are you attempting to call 'replace_more_comments' more than once?. 跳过此帖子的评论。
+    未能成功获取帖子 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' (ID: ey9jiy) 的评论。跳过此帖子。
+    找到相关 Reddit 帖子: 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' (ID: eyclt3)
+    帖子链接: https://youtu.be/ANarZ_113Xc?t=53
+    帖子 'Michelob Spent $10 Million on a Super Bowl Ad To Tell Us They'll Donate $1 Million To Farmers If We Spend $450 Million Buying Their Beer.' 抓取到 1848 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LIV Ads In Order (Constantly Updated)' (ID: exwejs)
+    帖子链接: https://www.reddit.com/r/television/comments/exwejs/super_bowl_liv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LIV Ads In Order (Constantly Updated)' 抓取到 1643 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl LV Ads In Order (Constantly Updated)' (ID: lexol9)
+    帖子链接: https://www.reddit.com/r/television/comments/lexol9/super_bowl_lv_ads_in_order_constantly_updated/
+    帖子 'Super Bowl LV Ads In Order (Constantly Updated)' 抓取到 2061 条评论。
+    找到相关 Reddit 帖子: 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' (ID: l03fsu)
+    帖子链接: https://hypebeast.com/2021/1/coca-cola-pepsi-super-bowl-lv-2021-benching-ads-announcement
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Coca-Cola Joins Pepsi in Benching Ads During Super Bowl LV - Concerned they might strike the wrong tone, both brands have opted to sit out.' 抓取到 982 条评论。
+    找到相关 Reddit 帖子: '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' (ID: lgjrh7)
+    帖子链接: https://deadline.com/2021/02/the-falcon-and-the-winter-soldier-marvel-super-bowl-ad-record-views-1234690914/
+    帖子 '‘The Falcon And The Winter Soldier’ Super Bowl Spot Smashes Online Viewing Record For A Streaming Series, With 125M Views In 24 Hours' 抓取到 740 条评论。
+    找到相关 Reddit 帖子: 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' (ID: 10v8ryj)
+    帖子链接: https://deadline.com/2023/02/fox-sells-out-super-bowl-ad-inventory-30-second-spots-7-million-1235250591/
+    帖子 'Fox Sells Out Super Bowl Ad Inventory, With Some 30-Second Spots Fetching Upwards Of $7 Million' 抓取到 455 条评论。
+    找到相关 Reddit 帖子: 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' (ID: akee47)
+    帖子链接: https://awfulannouncing.com/nfl/despite-rebounding-nfl-ratings-super-bowl-ad-prices-look-flat.html
+    帖子 'Despite rebounding NFL ratings, Super Bowl ad prices look to be approximately flat for the first time since 2010' 抓取到 720 条评论。
+    找到相关 Reddit 帖子: '2+ years between 7 episode seasons is pathetic and unacceptable' (ID: 1kwlymk)
+    帖子链接: https://www.reddit.com/r/television/comments/1kwlymk/2_years_between_7_episode_seasons_is_pathetic_and/
+    帖子 '2+ years between 7 episode seasons is pathetic and unacceptable' 抓取到 3030 条评论。
+    找到相关 Reddit 帖子: 'Westworld Season 2 | Official Super Bowl Ad' (ID: 7vbfwj)
+    帖子链接: https://youtu.be/qUmfriZoMw0
+    帖子 'Westworld Season 2 | Official Super Bowl Ad' 抓取到 316 条评论。
+    找到相关 Reddit 帖子: 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' (ID: 1aghwkp)
+    帖子链接: https://finance.yahoo.com/news/nickelodeon-cbs-sports-reveal-details-172300000.html
+    帖子 'Nickelodeon and CBS Sports Reveal Details For Slime-Filled Super Bowl LVIII Alternate Telecast - including a can't-miss opening segment from Allegiant Stadium re-creating SpongeBob's iconic "Sweet Victory"' 抓取到 107 条评论。
+    找到相关 Reddit 帖子: 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' (ID: 1al5c2d)
+    帖子链接: https://www.reddit.com/r/television/comments/1al5c2d/this_sub_should_ban_articles_about_super_bowl_ads/
+    帖子 'This sub should ban articles about Super Bowl ads, especially the ones just using “reunion” to get attention for products' 抓取到 145 条评论。
+    找到相关 Reddit 帖子: 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' (ID: 1kkwzes)
+    帖子链接: https://variety.com/2025/tv/news/the-rehearsal-nathan-fielder-fake-singing-show-contestant-1236393533/
+    帖子 'Nathan Fielder Created a Fake Singing Competition for ‘The Rehearsal.’ One Contestant Lost $10,000 and Feels Betrayed: ‘I Signed Up to Be a Singer, Not a Lab Rat’' 抓取到 1367 条评论。
+    找到相关 Reddit 帖子: 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' (ID: 1l86hd8)
+    帖子链接: https://www.comicbasics.com/eric-kripke-is-absolutely-terrified-about-delivering-a-great-series-finale-for-the-boys-you-could-have-the-greatest-show-for-years-but-if-you-stiff-that-ending/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Eric Kripke Is Absolutely Terrified About Delivering a Great Series Finale for 'The Boys': "You could have the greatest show for years, but if you stiff that ending..."' 抓取到 1204 条评论。
+  查询 '"woman in an airport uses her mobile device to trade stocks" "A" Super Bowl 2000 ad' 实际处理了 14 个帖子。
+  [2/4] 尝试搜索查询: "A" "woman in an airport uses her mobile device to trade stocks" Super Bowl ad (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' (ID: ey9jiy)
+    帖子链接: https://admeter.usatoday.com/results/2020
+    帖子 'Groundhog Day ad ranked number 1 Super Bowl ad... Trump's ad ranked last' 抓取到 3862 条评论。
+    找到相关 Reddit 帖子: 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' (ID: 1l90hx8)
+    帖子链接: https://www.adweek.com/media/amazon-doubles-prime-video-ad-load/
+    帖子 'EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour' 抓取到 1428 条评论。
+  查询 '"A" "woman in an airport uses her mobile device to trade stocks" Super Bowl ad' 实际处理了 2 个帖子。
+  [3/4] 尝试搜索查询: "woman in an airport uses her mobile device to trade stocks" Super Bowl 2000 (广告重试 1/3)
+    找到相关 Reddit 帖子: 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' (ID: scatm8)
+    帖子链接: https://pagesix.com/2022/01/23/super-bowl-lvi-asks-dancers-to-perform-halftime-show-for-free/
+    帖子 'Super Bowl 2022: Professional Dancers Call For Change After Being Asked To Perform Halftime Show For Free' 抓取到 1506 条评论。
+    找到相关 Reddit 帖子: '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' (ID: 10uvwio)
+    帖子链接: https://www.hollywoodreporter.com/tv/tv-news/the-last-of-us-episode-5-premiere-date-time-1235317263/
+    帖子 '‘The Last of Us’ Episode 5 to Premiere Early Thanks to Super Bowl The next episode of HBO's apocalyptic thriller will be available on Friday (February 10) instead of Sunday.' 抓取到 440 条评论。
+    找到相关 Reddit 帖子: 'Super Bowl Ratings Hit 10-Year Low' (ID: an2gbi)
+    帖子链接: https://deadline.com/2019/02/super-bowl-ratings-patriots-rams-marron-5-worlds-best-cbs-1202548893/
+    获取评论时遇到速率限制 (TooManyRequests): received 429 HTTP response. 暂停 10 秒并重试评论获取...
+    帖子 'Super Bowl Ratings Hit 10-Year Low' 抓取到 5688 条评论。
+    找到相关 Reddit 帖子: 'Usher Confirmed as Super Bowl 2024 Halftime Performer' (ID: 16qxxcj)
+    帖子链接: https://variety.com/2023/music/news/usher-super-bowl-2023-halftime-performer-1235733632/
+    帖子 'Usher Confirmed as Super Bowl 2024 Halftime Performer' 抓取到 1002 条评论。
+    找到相关 Reddit 帖子: 'Stranger Things Season 2 Super Bowl Teaser' (ID: 5sbey0)
+    帖子链接: https://youtu.be/9Egf5U8xLo8
+    帖子 'Stranger Things Season 2 Super Bowl Teaser' 抓取到 2122 条评论。
+    找到相关 Reddit 帖子: 'Maroon 5 may be singing Spongebob’s “Sweet Victory” at the Super Bowl this year - Squidward voice actor confirmed to be introducing the band' (ID: al63ar)
+    帖子链接: https://www.thescore.com/news/1707004
