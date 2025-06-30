@@ -358,7 +358,6 @@ SuperBowlProject/
 - [API Documentation](docs/api_documentation.md) - External API usage guide
 - [Model Documentation](docs/model_documentation.md) - ML model details
 - [Setup Guide](docs/setup_guide.md) - Detailed environment setup
-- [User Guide](docs/user_guide.md) - Complete analysis walkthrough
 - [Superbowl setup](docs/superbowl_python_setup.md) -Complete Superbowl setup
 
 ---
